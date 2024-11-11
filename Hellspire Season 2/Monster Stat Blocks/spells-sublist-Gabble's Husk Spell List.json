@@ -1,0 +1,151 @@
+{
+	"fileType": "spells-sublist",
+	"siteVersion": "2.4.2",
+	"name": "Gabble's Husk Spell List",
+	"saveId": "c9810cb2-cb64-4ed0-9686-683ed806f107",
+	"items": [
+		{
+			"h": "animate%20dead_phb"
+		},
+		{
+			"h": "geas_phb"
+		},
+		{
+			"h": "ice%20storm_phb"
+		},
+		{
+			"h": "thunderwave_phb"
+		},
+		{
+			"h": "fire%20bolt_phb"
+		},
+		{
+			"h": "chill%20touch_phb"
+		},
+		{
+			"h": "bestow%20curse_phb"
+		},
+		{
+			"h": "fireball_phb"
+		},
+		{
+			"h": "chain%20lightning_phb"
+		},
+		{
+			"h": "disguise%20self_phb"
+		},
+		{
+			"h": "identify_phb"
+		},
+		{
+			"h": "blight_phb"
+		},
+		{
+			"h": "phantasmal%20force_phb"
+		},
+		{
+			"h": "blindness%2fdeafness_phb"
+		},
+		{
+			"h": "enthrall_phb"
+		},
+		{
+			"h": "dispel%20magic_phb"
+		},
+		{
+			"h": "counterspell_phb"
+		},
+		{
+			"h": "slow_phb"
+		},
+		{
+			"h": "hold%20monster_phb"
+		},
+		{
+			"h": "mass%20suggestion_phb"
+		},
+		{
+			"h": "wall%20of%20fire_phb"
+		},
+		{
+			"h": "wall%20of%20ice_phb"
+		},
+		{
+			"h": "sickening%20radiance_xge"
+		},
+		{
+			"h": "polymorph_phb"
+		},
+		{
+			"h": "mass%20polymorph_xge"
+		},
+		{
+			"h": "true%20polymorph_phb"
+		},
+		{
+			"h": "banishment_phb"
+		},
+		{
+			"h": "phantasmal%20killer_phb"
+		},
+		{
+			"h": "dominate%20person_phb"
+		},
+		{
+			"h": "dominate%20monster_phb"
+		},
+		{
+			"h": "mental%20prison_xge"
+		},
+		{
+			"h": "harm_phb"
+		},
+		{
+			"h": "finger%20of%20death_phb"
+		},
+		{
+			"h": "forcecage_phb"
+		},
+		{
+			"h": "divine%20word_phb"
+		},
+		{
+			"h": "greater%20invisibility_phb"
+		},
+		{
+			"h": "symbol_phb"
+		},
+		{
+			"h": "glyph%20of%20warding_phb"
+		},
+		{
+			"h": "feeblemind_phb"
+		},
+		{
+			"h": "shapechange_phb"
+		},
+		{
+			"h": "imprisonment_phb"
+		},
+		{
+			"h": "meteor%20swarm_phb"
+		},
+		{
+			"h": "power%20word%20kill_phb"
+		},
+		{
+			"h": "dark%20star_egw"
+		},
+		{
+			"h": "true%20resurrection_phb"
+		},
+		{
+			"h": "circle%20of%20death_phb"
+		}
+	],
+	"sources": [
+		"PHB",
+		"XGE",
+		"EGW"
+	]
+}
