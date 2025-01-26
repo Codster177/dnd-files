@@ -1,0 +1,152 @@
+{
+	"fileType": "spells-sublist",
+	"siteVersion": "2.5.12",
+	"name": "Gabble's Husk Spells",
+	"saveId": "1eeae6b5-f06d-448b-943a-8d0a68bed2e4",
+	"items": [
+		{
+			"h": "animate%20dead_xphb"
+		},
+		{
+			"h": "geas_xphb"
+		},
+		{
+			"h": "ice%20storm_xphb"
+		},
+		{
+			"h": "thunderwave_xphb"
+		},
+		{
+			"h": "fire%20bolt_xphb"
+		},
+		{
+			"h": "chill%20touch_xphb"
+		},
+		{
+			"h": "bestow%20curse_xphb"
+		},
+		{
+			"h": "fireball_xphb"
+		},
+		{
+			"h": "chain%20lightning_xphb"
+		},
+		{
+			"h": "disguise%20self_xphb"
+		},
+		{
+			"h": "identify_xphb"
+		},
+		{
+			"h": "blight_xphb"
+		},
+		{
+			"h": "phantasmal%20force_xphb"
+		},
+		{
+			"h": "blindness%2fdeafness_xphb"
+		},
+		{
+			"h": "phantasmal%20killer_xphb"
+		},
+		{
+			"h": "dominate%20person_xphb"
+		},
+		{
+			"h": "enthrall_xphb"
+		},
+		{
+			"h": "dispel%20magic_xphb"
+		},
+		{
+			"h": "counterspell_xphb"
+		},
+		{
+			"h": "slow_xphb"
+		},
+		{
+			"h": "hold%20monster_xphb"
+		},
+		{
+			"h": "mass%20suggestion_xphb"
+		},
+		{
+			"h": "wall%20of%20fire_xphb"
+		},
+		{
+			"h": "wall%20of%20ice_xphb"
+		},
+		{
+			"h": "sickening%20radiance_xge"
+		},
+		{
+			"h": "polymorph_xphb"
+		},
+		{
+			"h": "banishment_xphb"
+		},
+		{
+			"h": "mental%20prison_xge"
+		},
+		{
+			"h": "harm_xphb"
+		},
+		{
+			"h": "finger%20of%20death_xphb"
+		},
+		{
+			"h": "forcecage_xphb"
+		},
+		{
+			"h": "divine%20word_xphb"
+		},
+		{
+			"h": "greater%20invisibility_xphb"
+		},
+		{
+			"h": "symbol_xphb"
+		},
+		{
+			"h": "time%20stop_xphb"
+		},
+		{
+			"h": "true%20resurrection_xphb"
+		},
+		{
+			"h": "true%20polymorph_xphb"
+		},
+		{
+			"h": "feeblemind_phb"
+		},
+		{
+			"h": "dark%20star_egw"
+		},
+		{
+			"h": "dominate%20monster_phb"
+		},
+		{
+			"h": "imprisonment_phb"
+		},
+		{
+			"h": "meteor%20swarm_phb"
+		},
+		{
+			"h": "power%20word%20kill_phb"
+		},
+		{
+			"h": "mass%20polymorph_xge"
+		},
+		{
+			"h": "circle%20of%20death_phb"
+		},
+		{
+			"h": "shapechange_phb"
+		}
+	],
+	"sources": [
+		"XPHB",
+		"XGE",
+		"PHB",
+		"EGW"
+	]
+}
