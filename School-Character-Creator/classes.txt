@@ -1,0 +1,88 @@
+Math
+Algebra 1
+Advanced Algebra 1
+Geometry
+Advanced Geometry
+Algebra 2
+Advanced Algebra 2
+Pre-Calc
+Calculus 1
+Advanced Calculus
+||
+Science
+Environmental
+Advanced Environmental
+Biology
+Advanced Biology
+Chemistry
+Advanced Chemistry
+Advanced Physics
+||
+English
+English 1
+English 2
+Advanced Linguistics
+Advanced Literature
+||
+History
+World History
+Advanced World History
+Astaria History
+Advanced Astaria History
+Astaria Government and Civics
+Advanced Astaria Government and Civics
+||
+Electives
+PE
+Art
+Geography
+Computer Science
+Spanish
+French
+Photography
+Yearbook
+||
+Art REQ
+Artistic
+Art
+Art History
+Advanced Art
+Advanced Animation
+||
+PE REQ
+Jock
+PE
+Weight Lifting
+Football
+Basketball
+Soccer
+Baseball
+||
+Tech REQ
+Technology Nerds
+Computer Science
+Advanced Computer Science
+Computer Science 2
+Advanced Computer Science 2
+Cybersecurity
+Advanced Programming
+||
+Theater REQ
+Theater Kids
+Theater
+Set Design
+||
+Choir REQ
+Choir Kids
+Choir
+||
+Band REQ
+Band Kids
+Band
+||
+Music Theory REQ
+Theater Kids, Choir Kids, Band Kids
+Music Theory 1
+Advanced Music Theory
+Advanced Music Theory 2
+||
