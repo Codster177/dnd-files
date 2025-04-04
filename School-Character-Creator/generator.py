@@ -75,8 +75,17 @@ class Student:
     def generate_Clique(self, cliqueCount=3):
         self.cliqueList = []
         for x in range(cliqueCount):
+            retry = True
+            while retry == True:
+                randomClique = get_random_line(cliquesFile, cliquesFileCount)
+                retry = False
+                if (randomClique in self.cliqueList):
+                    retry = True
+                    print("duplicate")
             self.cliqueList.append(get_random_line(cliquesFile, cliquesFileCount))
-
+        for x in self.cliqueList:
+            print(repr(x))
+        print('\n')
     def __init__(self, genNum = 0):
         if (genNum == 0):
             genNum = rd.randint(1, 2)
