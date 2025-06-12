@@ -1,0 +1,37 @@
+{
+"basicInformation": {
+"name": "Whooplaah's Cliffs",
+"version": "1.1",
+"author":{
+"exists": true,
+"name": "Whooplaah",
+"mail": "Whooplaah@gmail.com",
+"url": "https://www.patreon.com/Whooplaah",
+"donationURL": "https://www.patreon.com/Whooplaah"
+},
+"distributor":{
+"exists": true,
+"name": "Whooplaah",
+"mail": "Whooplaah@gmail.com",
+"url": false,
+"donationURL": "https://www.patreon.com/Whooplaah"
+},
+"tagLine": "Modular cliffs, canyons, plateaus, and valleys.",
+"downloadURL": "https://drive.google.com/file/d/16oFiu_uw0wK-Hek17Uboy-EIrmNS5gJo/view?usp=sharing",
+"commercialUse": false,
+"commercialURL": false,
+"license": {
+"hasLicense": true,
+"type": "CC BY-NC-SA 4.0",
+"localFile": false,
+"externalLink": true,
+"commentary": true
+},
+"tags": [
+"terrain",
+"mountains",
+"stylized",
+"colorable"
+]     
+}
+}

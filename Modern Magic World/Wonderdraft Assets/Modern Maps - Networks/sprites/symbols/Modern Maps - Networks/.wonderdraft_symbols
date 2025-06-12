@@ -1,0 +1,114 @@
+{
+    "area_exclusion": {
+        "name": "Exclusion Area",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+	"area_parking": {
+        "name": "Parking Area",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+	"symbol_bridge_half_long": {
+        "name": "Bridge Symbol, Half, Long",
+        "radius": 80,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_bridge_half_short": {
+        "name": "Bridge Symbol, Half, Short",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_culdesac": {
+        "name": "End - Culdesac",
+        "radius": 72,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_culdesac_thick": {
+        "name": "End - Culdesac, Thick",
+        "radius": 72,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "symbol_fourwaycrossing": {
+        "name": "Crossing - Four-way",
+        "radius": 64,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_fourwaycrossing_thick": {
+        "name": "Crossing - Four-way, Thick",
+        "radius": 64,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "symbol_roadconnector_hard": {
+        "name": "Connector - Hard",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_roadconnector_hard_thick": {
+        "name": "Connector - Hard & Thick",
+        "radius": 48,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "symbol_roadconnector_soft": {
+        "name": "Connector - Soft",
+        "radius": 72,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "symbol_roundabout": {
+        "name": "Crossing - Roundabout",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_roundabout_thick": {
+        "name": "Crossing - Roundabout, Thick",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_roundabout_threeway": {
+        "name": "Crossing - Roundabout, 3-Way",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_roundabout_threeway_thick": {
+        "name": "Crossing - Roundabout, 3-Way, Thick",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+	"symbol_tollbooth": {
+        "name": "Tollbooth",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}
