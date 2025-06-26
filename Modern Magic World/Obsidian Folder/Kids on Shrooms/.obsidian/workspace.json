@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "4c4c34b49ded55c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b7f833bb99e9fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06dd36bad520a270",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "People/Relationships.canvas",
+                "viewState": {
+                  "x": -70.5,
+                  "y": -0.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Relationships"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a1d5a2f2db27691",
+    "type": "split",
+    "children": [
+      {
+        "id": "e655fb544adda770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ae6053fec70fa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64c78c37b3694ff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "659268b365aff7b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c056fbcf08f2a7a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "273cf96886c3ac83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27a260e62767f33b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Player Characters/Benito Garcia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Benito Garcia"
+            }
+          },
+          {
+            "id": "e33b898ffaa6c59f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Player Characters/Benito Garcia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Benito Garcia"
+            }
+          },
+          {
+            "id": "b3a24b52a53cf0f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca3308cc7c66103a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Player Characters/Benito Garcia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Benito Garcia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "06dd36bad520a270",
+  "lastOpenFiles": [
+    "People/Player Characters/Benito Garcia.md",
+    "People/Player Characters/Marlowe Melville.md",
+    "People/Relationships.canvas",
+    "People/Player Characters/Li JiaShen.md",
+    "People/Family/Georgia Forrest.md",
+    "People/Player Characters/Caspian Forrest.md",
+    "People/Player Characters/Ian Long.md",
+    "People/Students/Chester Patel.md",
+    "Session Logs/Session 1.md",
+    "People/Family/Jessica May.md",
+    "People/Family",
+    "People/Students/Julian Alvarez.md",
+    "People/Students/Kerry Burch.md",
+    "People/Students/Kayla Mendez.md",
+    "People/Students/Rebecca Kim.md",
+    "People/Mythical and Magical/Hazel Eyes.md",
+    "People/Students/Rachel De Narris.md",
+    "Session Logs",
+    "People/Students/Lexi Conner.md",
+    "People/Students/Madison Leclair.md",
+    "People/Students/Jace Shotwell.md",
+    "People/Students/Damien De Narris.md",
+    "People/Player Characters/Caspain Forrest.md",
+    "Countries/First World Nations/Astaria.md",
+    "People/Mythical and Magical",
+    "People/Wizards",
+    "People/Teachers",
+    "People/Students",
+    "People/Player Characters",
+    "People",
+    "Untitled.md",
+    "Secrets",
+    "Countries/First World Nations",
+    "Welcome.md"
+  ]
+}
