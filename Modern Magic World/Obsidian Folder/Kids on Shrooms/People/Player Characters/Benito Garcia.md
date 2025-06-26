@@ -1,5 +1,6 @@
 Benito Garcia, or Apricot, is a senior at Lake Prospect high school. He is played by Mela, and inherits the position of Witch of the Eternal Woods.
 
+His birthday is 8/36/1603, or the 36th of Second Winter, 1603. This makes him 17.
 
 | Schedule                       | Period |
 | ------------------------------ | ------ |
@@ -9,6 +10,11 @@ Benito Garcia, or Apricot, is a senior at Lake Prospect high school. He is playe
 | Advanced Environmental Science | 4      |
 | Advanced Cultural Studies      | 5      |
 | Study Advisement               | 6      |
+## Rumors:
+- Good Rumor: I have a big dick.
+- Bad Rumor: Even though I'm nice, I am a bitch to you once your close to me. (In a good way tho.)
+- Fake Rumor: I supply people with drugs.
+- Fake Rumor: I rigged the SGA election.
 
 ## Relationships:
 ### Players:

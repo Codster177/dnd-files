@@ -10,6 +10,8 @@ Attractive and Innocence
 
 Is the Sophomore class president. 
 
+Her birthday is 05/50/1605, or the 50th of Second Spring, 1605. This makes her 15 years old.
+
 
 | Schedule         | Period |
 | ---------------- | ------ |

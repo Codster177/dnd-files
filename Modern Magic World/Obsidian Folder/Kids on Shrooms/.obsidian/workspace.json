@@ -11,17 +11,14 @@
             "id": "06dd36bad520a270",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "People/Relationships.canvas",
-                "viewState": {
-                  "x": -70.5,
-                  "y": -0.5,
-                  "zoom": 0
-                }
+                "file": "People/Player Characters/Benito Garcia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Relationships"
+              "icon": "lucide-file",
+              "title": "Benito Garcia"
             }
           }
         ]
@@ -173,13 +170,13 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
-    "People/Player Characters/Benito Garcia.md",
-    "People/Player Characters/Marlowe Melville.md",
-    "People/Relationships.canvas",
-    "People/Player Characters/Li JiaShen.md",
-    "People/Family/Georgia Forrest.md",
     "People/Player Characters/Caspian Forrest.md",
     "People/Player Characters/Ian Long.md",
+    "People/Player Characters/Li JiaShen.md",
+    "People/Player Characters/Marlowe Melville.md",
+    "People/Player Characters/Benito Garcia.md",
+    "People/Relationships.canvas",
+    "People/Family/Georgia Forrest.md",
     "People/Students/Chester Patel.md",
     "Session Logs/Session 1.md",
     "People/Family/Jessica May.md",

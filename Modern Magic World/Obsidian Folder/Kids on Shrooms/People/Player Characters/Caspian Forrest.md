@@ -2,6 +2,7 @@ Caspian Forrest is the character played by Kai. They are a sophomore student at 
 
 Caspian Forrest is the wizard/artificer of the campaign. He learns magic from the natural magical language that exists in the energies of the world.
 
+His birthday is 05/40/1605, or the 40th of Second Spring, 1605. This makes him 15 years old.
 
 | Schedule               | Period |
 | ---------------------- | ------ |
@@ -12,6 +13,11 @@ Caspian Forrest is the wizard/artificer of the campaign. He learns magic from th
 | Advanced Avira History | 5      |
 | Aviran 2               | 6      |
 
+## Rumors:
+- Good Rumor: I help anyone with their homework if they ask, like, not super meanly.
+- Bad Rumor: Chewed on pencils until getting bullied for it in freshman year. Now I only write in pen.
+- Fake Rumor: I keep a file on everyone in each of my classes.
+- Fake Rumor: I can't swim. People think this because I don't like to get in the pool.
 ## Relationships:
 ### Players:
 - [[Ian Long]]
