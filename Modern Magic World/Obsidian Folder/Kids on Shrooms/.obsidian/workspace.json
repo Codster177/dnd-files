@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Player Characters/Benito Garcia.md",
+                "file": "Countries/First World Nations/Rane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benito Garcia"
+              "title": "Rane"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c056fbcf08f2a7a9",
@@ -170,30 +170,35 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
-    "People/Player Characters/Caspian Forrest.md",
-    "People/Player Characters/Ian Long.md",
-    "People/Player Characters/Li JiaShen.md",
-    "People/Player Characters/Marlowe Melville.md",
-    "People/Player Characters/Benito Garcia.md",
-    "People/Relationships.canvas",
-    "People/Family/Georgia Forrest.md",
-    "People/Students/Chester Patel.md",
-    "Session Logs/Session 1.md",
-    "People/Family/Jessica May.md",
-    "People/Family",
-    "People/Students/Julian Alvarez.md",
-    "People/Students/Kerry Burch.md",
-    "People/Students/Kayla Mendez.md",
-    "People/Students/Rebecca Kim.md",
-    "People/Mythical and Magical/Hazel Eyes.md",
-    "People/Students/Rachel De Narris.md",
-    "Session Logs",
-    "People/Students/Lexi Conner.md",
-    "People/Students/Madison Leclair.md",
-    "People/Students/Jace Shotwell.md",
-    "People/Students/Damien De Narris.md",
-    "People/Player Characters/Caspain Forrest.md",
     "Countries/First World Nations/Astaria.md",
+    "Countries/First World Nations/Rane.md",
+    "People/Family/Georgia Forrest.md",
+    "People/Students/Lexi Conner.md",
+    "People/Students/Kayla Mendez.md",
+    "People/Students/Jace Shotwell.md",
+    "People/Students/Chester Patel.md",
+    "People/Students/Rebecca Kim.md",
+    "People/Students/Damien De Narris.md",
+    "People/Player Characters/Caspian Forrest (Kai).md",
+    "People/Family/Jessica May.md",
+    "People/Students/Madison Leclair.md",
+    "People/Students/Rachel De Narris.md",
+    "People/Students/Kerry Burch.md",
+    "People/Students/Julian Alvarez.md",
+    "People/Students/One Dimensional/Untitled.md",
+    "People/Students/One Dimensional",
+    "Session Logs/Session 1.md",
+    "People/Player Characters/Li JiaShen (Nick).md",
+    "People/Player Characters/Ian Long (Aaron).md",
+    "People/Other Adults/Marcel Lohan.md",
+    "People/Mythical and Magical/Hazel Eyes.md",
+    "People/Player Characters/Benito Garcia (Mela).md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
+    "People/Other Adults",
+    "People/Relationships.canvas",
+    "People/Family",
+    "Session Logs",
+    "People/Player Characters/Caspain Forrest.md",
     "People/Mythical and Magical",
     "People/Wizards",
     "People/Teachers",
@@ -201,8 +206,6 @@
     "People/Player Characters",
     "People",
     "Untitled.md",
-    "Secrets",
-    "Countries/First World Nations",
     "Welcome.md"
   ]
 }

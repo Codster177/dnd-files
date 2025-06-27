@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"bd19bcda15dc7843","x":-300,"y":-160,"width":179,"height":79,"type":"file","file":"People/Player Characters/Benito Garcia.md"},
-		{"id":"b307d2d4ccc96ae1","x":-300,"y":-40,"width":180,"height":79,"type":"file","file":"People/Player Characters/Caspian Forrest.md"},
-		{"id":"149ff3d4f8d09c5f","x":-20,"y":-160,"width":179,"height":79,"type":"file","file":"People/Player Characters/Ian Long.md"},
-		{"id":"6f541236d1983486","x":-20,"y":-40,"width":179,"height":79,"type":"file","file":"People/Player Characters/Li JiaShen.md"},
-		{"id":"613b3c7c431dc1e7","x":-300,"y":80,"width":180,"height":79,"type":"file","file":"People/Player Characters/Marlowe Melville.md"}
+		{"id":"bd19bcda15dc7843","x":-300,"y":-160,"width":179,"height":79,"type":"file","file":"People/Player Characters/Benito Garcia (Mela).md"},
+		{"id":"b307d2d4ccc96ae1","x":-300,"y":-40,"width":180,"height":79,"type":"file","file":"People/Player Characters/Caspian Forrest (Kai).md"},
+		{"id":"149ff3d4f8d09c5f","x":-20,"y":-160,"width":179,"height":79,"type":"file","file":"People/Player Characters/Ian Long (Aaron).md"},
+		{"id":"6f541236d1983486","x":-20,"y":-40,"width":179,"height":79,"type":"file","file":"People/Player Characters/Li JiaShen (Nick).md"},
+		{"id":"613b3c7c431dc1e7","x":-300,"y":80,"width":180,"height":79,"type":"file","file":"People/Player Characters/Marlowe Melville (Rylee).md"}
 	],
 	"edges":[]
 }
