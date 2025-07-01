@@ -84,13 +84,13 @@ I don’t know what her appearance will be like near the end since you know its 
 		- [[Session 1]]:
 			- After being embarrassed by Rachel and Madison, and having Benito offer some sort of solace, Ian attempted to do the same by saying to Shen: "Its ok, I get made fun of too." This had the opposite effect, as Shen then felt one with the losers, and was thrown into immense embarrassment.
 ### Family:
-- Shen's Mother
+- [[Li SiSheng]]
 	- Mother
 	- Deceased
-- Shen's Father
+- [[Li ShiWang]]
 	- Father
 	- Deceased
-- Shen's Grandfather
+- [[Li LewMingzhi]]
 	- Grandfather
 
 ### School:

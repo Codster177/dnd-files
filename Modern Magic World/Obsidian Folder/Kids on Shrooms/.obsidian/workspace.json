@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/First World Nations/Rane.md",
+                "file": "Lore/Broad History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rane"
+              "title": "Broad History"
             }
           }
         ]
@@ -150,13 +150,75 @@
               "icon": "lucide-list",
               "title": "Outline of Benito Garcia"
             }
+          },
+          {
+            "id": "2bf2dd3d5edd4c01",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "550446ae0fce55c6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_38e9ca2adadb",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 13,
+                    "month": 1,
+                    "year": 1621
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 4,
+                    "month": 2,
+                    "year": 1621
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "hideEra": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_f92ba99b1ba9",
+                "child": "ID_0a481b49da88"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "480ee6625f795a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28d3b8e65b203d9c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_38e9ca2adadb",
+                "id": "ID_0a481b49da88",
+                "parent": "ID_f92ba99b1ba9"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,47 +227,47 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
-    "Countries/First World Nations/Astaria.md",
-    "Countries/First World Nations/Rane.md",
-    "People/Family/Georgia Forrest.md",
-    "People/Students/Lexi Conner.md",
-    "People/Students/Kayla Mendez.md",
-    "People/Students/Jace Shotwell.md",
-    "People/Students/Chester Patel.md",
-    "People/Students/Rebecca Kim.md",
-    "People/Students/Damien De Narris.md",
-    "People/Player Characters/Caspian Forrest (Kai).md",
-    "People/Family/Jessica May.md",
-    "People/Students/Madison Leclair.md",
-    "People/Students/Rachel De Narris.md",
-    "People/Students/Kerry Burch.md",
-    "People/Students/Julian Alvarez.md",
-    "People/Students/One Dimensional/Untitled.md",
-    "People/Students/One Dimensional",
-    "Session Logs/Session 1.md",
-    "People/Player Characters/Li JiaShen (Nick).md",
-    "People/Player Characters/Ian Long (Aaron).md",
-    "People/Other Adults/Marcel Lohan.md",
-    "People/Mythical and Magical/Hazel Eyes.md",
-    "People/Player Characters/Benito Garcia (Mela).md",
-    "People/Player Characters/Marlowe Melville (Rylee).md",
-    "People/Other Adults",
+    "People/Teachers/Barbara Turner.md",
     "People/Relationships.canvas",
-    "People/Family",
-    "Session Logs",
-    "People/Player Characters/Caspain Forrest.md",
-    "People/Mythical and Magical",
-    "People/Wizards",
-    "People/Teachers",
-    "People/Students",
-    "People/Player Characters",
-    "People",
-    "Untitled.md",
-    "Welcome.md"
+    "Session Logs/Session 2.md",
+    "Session Logs/Session 1.md",
+    "Tools/Websites.md",
+    "People/Templates.md",
+    "Organizations/Religions/The Church of Abeus.md",
+    "Countries/First World Nations/Astaria.md",
+    "Organizations/Religions",
+    "Organizations",
+    "People/Teachers/George Walker.md",
+    "People/Teachers/Weylin Whitley.md",
+    "People/Students/Chester Patel.md",
+    "People/Students/Jace Shotwell.md",
+    "People/Teachers/Devon Foster.md",
+    "People/Teachers/Dr. Charles York.md",
+    "People/Teachers/Dr. Ronald Foster.md",
+    "Tools",
+    "People/Students/Other Students/Anthony Prince.md",
+    "People/Other Adults/Edward Reed.md",
+    "People/Students/Other Students/Cameron Perry.md",
+    "People/Students/Rebecca Kim.md",
+    "People/Students/Lexi Conner.md",
+    "People/Students/Kerry Burch.md",
+    "People/Students/Kayla Mendez.md",
+    "People/Students/Julian Alvarez.md",
+    "People/Students/Damien De Narris.md",
+    "People/Students/Other Students",
+    "People/Other Adults/Marcel Lohan.md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
+    "People/Families/Marlowe's Family",
+    "Organizations/Corporations/Fast Food",
+    "Organizations/Corporations",
+    "Lore/Magical People",
+    "Locations/Astarian Cities/Lake Prospect/Schools",
+    "Locations/Astarian Cities/Lake Prospect/City Life"
   ]
 }

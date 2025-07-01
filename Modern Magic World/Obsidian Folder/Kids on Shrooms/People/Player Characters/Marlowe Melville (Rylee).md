@@ -84,17 +84,14 @@ Has Choir Tuesday, Wednesday, and Thursday from 5:00 to 7:00.
 		- [[Session 1]]:
 			- As [[Marlowe Melville (Rylee)]] boards Bus #4 and sits next to the first open seat, one next to [[Li JiaShen (Nick)]], Marlowe pops on her favorite "mysterious girl" playlist and begins lightly singing along. Her song, her voice, echoes in the ears of those who can hear her quiet tune, that being Shen and a boy named Morgan James across the bus hall. The two, infatuated, almost as listening to the softest lullaby, fall asleep. Marlowe exits the bus at her correct stop, stop #3. Although this was Shen's stop too, she does not wake until the bus reaches the last stop, stop #8. As she wakes and exits the bus, she realizes that she is alone in a different part of town, with no grandfather to rely on as he is busy at the factory.
 ### Family:
-- [[Marlowe's Father]]
+- [[Vincenzo (Vince) Melville]]
 	- Father
 	- Marlowe only lives with her father, as the rest of her family is hoped to be still back in Neridora. They went to immigrate with Marlowe, but were separated when the ship they were on crashed.
-- [[Marlowe's Mother]]
+- [[Guilia Melville]]
 	- Mother
 	- Lost at sea.
-- [[Marlowe's Eldest Sister]]
+- [[Cadence Melville]]
 	- Older Sister
-	- Lost at sea.
-- [[Marlowe's Middle Sister]]
-	- Older middle sister
 	- Lost at sea.
 
 ### School:

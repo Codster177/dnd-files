@@ -1,12 +1,12 @@
-We opened onto West Paradise High School.
+We opened onto [[West Paradise High School]].
 
-We opened in Mrs. Barbara Turner's Algebra 2 class, with Mrs. Turner going over the code of conduct for the school. We see that [[Li JiaShen (Nick)]]is chewing bubble gum and zoning the fuck out. She is sitting next to [[Damien De Narris]], who is leaning back with his hands behind his head, doing his performative cool guy pose. Shen calls him out, and he tries to play it off.
+We opened in Mrs. [[Barbara Turner]]'s Algebra 2 class, with Mrs. Turner going over the code of conduct for the school. We see that [[Li JiaShen (Nick)]]is chewing bubble gum and zoning the fuck out. She is sitting next to [[Damien De Narris]], who is leaning back with his hands behind his head, doing his performative cool guy pose. Shen calls him out, and he tries to play it off.
 
 [[Ian Long (Aaron)]] is in the same class towards the back, sitting alone. A person in front of him asks for a pencil, and nothing else arises.
 
-We find [[Benito Garcia (Mela)]] in Dr. Charles York's Advanced Environmental Science class. Benito is multitasking between taking notes in the beginning teachings of this class, and planning the Club Fest that takes place during Tuesday and Wednesday. Benito is sitting next to [[Rebecca Kim]], his Vice President for the Senior Class, and they begin discussing various ideas for the event.
+We find [[Benito Garcia (Mela)]] in [[Dr. Charles York]]'s Advanced Environmental Science class. Benito is multitasking between taking notes in the beginning teachings of this class, and planning the Club Fest that takes place during Tuesday and Wednesday. Benito is sitting next to [[Rebecca Kim]], his Vice President for the Senior Class, and they begin discussing various ideas for the event.
 
-In Dr. Ronald Foster's Advanced Physics 1 class, [[Caspian Forrest (Kai)]] has already finished the example that the class was asked to work on, mere seconds after it was given out. Instead, he is focused on a Physics 3 equation, that continues to take up the rest of his time.
+In [[Dr. Ronald Foster]]'s Advanced Physics 1 class, [[Caspian Forrest (Kai)]] has already finished the example that the class was asked to work on, mere seconds after it was given out. Instead, he is focused on a Physics 3 equation, that continues to take up the rest of his time.
 
 Not long before the bell rings, we find [[Marlowe Melville (Rylee)]] in Biology taught by Mrs. Amy Ulrich. Mrs. Ulrich has just finished going into great detail about the code of conduct, and is starting attendance as Marlowe begins to hum to herself. This is heard by Mrs. Ulrich and is brought great attention to, as Mrs. Ulrich asks for silence in her class. She then continues to next ask for Marlowe's attendance. Some friends of [[Kayla Mendez]], a friend of Marlowe, turn to witness the event thoroughly.
 
