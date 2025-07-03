@@ -1,0 +1,3 @@
+The Kamihara is the supernatural space that souls flee to after death. It is a physical place in the world, with its location modern day being an continental island in between [[Astaria]] and the [[Orochi]] Continent. 
+
+Entering the Kamihara brings you to a liminal space full of all of the biomes that exist in the world, and more biomes that do not. It is a place that does not abide by normal laws of space and is difficult to traverse for humans. This is the realm of magic and souls, and is the place the souls of dead spirits and humans flee to and join the reincarnation cycle.

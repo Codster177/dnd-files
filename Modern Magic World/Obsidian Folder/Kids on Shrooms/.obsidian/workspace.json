@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Player Characters/Benito Garcia (Mela).md",
+                "file": "Lore/Broad History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Benito Garcia (Mela)"
+              "title": "Broad History"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "273cf96886c3ac83",
         "type": "tabs",
+        "dimension": 70.23809523809523,
         "children": [
           {
             "id": "27a260e62767f33b",
@@ -220,6 +221,7 @@
       {
         "id": "480ee6625f795a25",
         "type": "tabs",
+        "dimension": 29.761904761904763,
         "children": [
           {
             "id": "28d3b8e65b203d9c",
@@ -254,15 +256,28 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
+    "Lore/Humanity.md",
+    "Lore/Broad History.md",
+    "People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md",
+    "People/Great Spirits and Divinity/The Great Knowledge Spirit.md",
+    "Lore/The Kamihara.md",
+    "Countries/Orochi.md",
+    "Organizations/Global Organizations/Scholars of Avira.md",
+    "Organizations/Global Organizations",
+    "Countries/First World Nations/Astaria.md",
+    "Lore/Magic.md",
+    "Hebi.md",
+    "People/Families/The De Narris Family/Monroe De Narris.md",
+    "People/Students/Rachel De Narris.md",
+    "People/Families/The De Narris Family/Howard De Narris.md",
+    "People/Families/The De Narris Family",
+    "People/Player Characters/Benito Garcia (Mela).md",
     "People/Player Characters/Caspian Forrest (Kai).md",
     "People/Witches/Hazel Eyes.md",
     "Lore/Spellcasters/Witches.md",
     "People/Students/Isabella Renner.md",
     "People/Students/Kayla Mendez.md",
     "People/Player Characters/Marlowe Melville (Rylee).md",
-    "Countries/First World Nations/Astaria.md",
-    "People/Students/Rachel De Narris.md",
-    "Lore/Broad History.md",
     "People/Teachers/Barbara Turner.md",
     "People/Relationships.canvas",
     "Session Logs/Session 2.md",
@@ -272,24 +287,11 @@
     "Organizations/Religions/The Church of Abeus.md",
     "Organizations/Religions",
     "Organizations",
-    "People/Teachers/George Walker.md",
-    "People/Teachers/Weylin Whitley.md",
-    "People/Students/Chester Patel.md",
-    "People/Students/Jace Shotwell.md",
-    "People/Teachers/Devon Foster.md",
-    "People/Teachers/Dr. Charles York.md",
-    "People/Teachers/Dr. Ronald Foster.md",
     "Tools",
-    "People/Students/Other Students/Anthony Prince.md",
-    "People/Other Adults/Edward Reed.md",
-    "People/Students/Other Students/Cameron Perry.md",
-    "People/Students/Rebecca Kim.md",
     "People/Students/Other Students",
     "People/Families/Marlowe's Family",
     "Organizations/Corporations/Fast Food",
     "Organizations/Corporations",
-    "Lore/Spellcasters",
-    "Locations/Astarian Cities/Lake Prospect/Schools",
-    "Locations/Astarian Cities/Lake Prospect/City Life"
+    "Lore/Spellcasters"
   ]
 }

@@ -11,7 +11,7 @@ Mori being the first witch gave way to the rest of the witches of Avira to hold 
 ## Character Breakdown:
 
 How old is your character?
-Mori 
+Mori is 
 
 What is your appearance like? 
 

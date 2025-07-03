@@ -1,0 +1,3 @@
+Orochi is the continent that houses many countries and kingdoms of Avira that are still pre-industrial revolution with their technology. Although inside the country feels almost as a "high fantasy" setting, the rest of the world views these countries as pre-developed. 
+
+The [[Developed International Concord]] ruled in 1511 during their formation that an international embargo, prohibiting trade, travel, and immigration, should be established between the rest of the world and Orochi. This is enacted due to the [[Scholars of Avira]] pushing for no communication with the people in Orochi, as [[The Nullcasting]] did not affect that part of the world, still allowing the public there to know definitively of spirits and magic.
