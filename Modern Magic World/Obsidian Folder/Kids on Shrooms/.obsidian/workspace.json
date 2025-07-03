@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Broad History.md",
+                "file": "People/Player Characters/Benito Garcia (Mela).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broad History"
+              "title": "Benito Garcia (Mela)"
             }
           }
         ]
@@ -156,6 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {},
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -166,23 +167,17 @@
             "state": {
               "type": "CALENDARIUM",
               "state": {
-                "calendar": "ID_38e9ca2adadb",
+                "calendar": "ID_780b39ca6b79",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 13,
-                    "month": 1,
-                    "year": 1621
-                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 4,
+                    "year": 1621,
                     "month": 2,
-                    "year": 1621
+                    "day": 1
                   },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
                   "interpolateColors": true,
-                  "hideEra": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
@@ -192,9 +187,35 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "cab0c9ee5fa94a8b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_780b39ca6b79",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 2,
+                    "year": 1621
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_7aa85aebcb0a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "480ee6625f795a25",
@@ -206,7 +227,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_38e9ca2adadb",
+                "calendar": "ID_780b39ca6b79",
                 "id": "ID_0a481b49da88",
                 "parent": "ID_f92ba99b1ba9"
               },
@@ -233,6 +254,15 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
+    "People/Player Characters/Caspian Forrest (Kai).md",
+    "People/Witches/Hazel Eyes.md",
+    "Lore/Spellcasters/Witches.md",
+    "People/Students/Isabella Renner.md",
+    "People/Students/Kayla Mendez.md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
+    "Countries/First World Nations/Astaria.md",
+    "People/Students/Rachel De Narris.md",
+    "Lore/Broad History.md",
     "People/Teachers/Barbara Turner.md",
     "People/Relationships.canvas",
     "Session Logs/Session 2.md",
@@ -240,7 +270,6 @@
     "Tools/Websites.md",
     "People/Templates.md",
     "Organizations/Religions/The Church of Abeus.md",
-    "Countries/First World Nations/Astaria.md",
     "Organizations/Religions",
     "Organizations",
     "People/Teachers/George Walker.md",
@@ -255,18 +284,11 @@
     "People/Other Adults/Edward Reed.md",
     "People/Students/Other Students/Cameron Perry.md",
     "People/Students/Rebecca Kim.md",
-    "People/Students/Lexi Conner.md",
-    "People/Students/Kerry Burch.md",
-    "People/Students/Kayla Mendez.md",
-    "People/Students/Julian Alvarez.md",
-    "People/Students/Damien De Narris.md",
     "People/Students/Other Students",
-    "People/Other Adults/Marcel Lohan.md",
-    "People/Player Characters/Marlowe Melville (Rylee).md",
     "People/Families/Marlowe's Family",
     "Organizations/Corporations/Fast Food",
     "Organizations/Corporations",
-    "Lore/Magical People",
+    "Lore/Spellcasters",
     "Locations/Astarian Cities/Lake Prospect/Schools",
     "Locations/Astarian Cities/Lake Prospect/City Life"
   ]

@@ -1,10 +1,332 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Avirimantic Calendar",
+      "description": null,
+      "id": "ID_780b39ca6b79",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_b8aae80889a9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_1948383998eb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_09999ab84a88",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_daf8ebfbfa18",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_0a3bf92838cb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_bac9f999eb69",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_5bbb082a8b58",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "First Spring",
+            "type": "month",
+            "length": 50,
+            "id": "ID_9a08d98b0a3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "First Summer",
+            "type": "month",
+            "length": 50,
+            "id": "ID_4b895adaba39",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "First Autumn",
+            "type": "month",
+            "length": 50,
+            "id": "ID_0be9e949294a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "First Winter",
+            "type": "month",
+            "length": 50,
+            "id": "ID_5958a9ab79a9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Second Spring",
+            "type": "month",
+            "length": 50,
+            "id": "ID_cbb9193a8b5a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Second Summer",
+            "type": "month",
+            "length": 50,
+            "id": "ID_a87a1818b87b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Second Autumn",
+            "type": "month",
+            "length": 50,
+            "id": "ID_e918ea692918",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Second Winter",
+            "type": "month",
+            "length": 50,
+            "id": "ID_fbb87abb2b5b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_793b4b6b59d8",
+            "name": "First Spring",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#883359",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_6939895b4bbb",
+            "name": "First Summer",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#5ba9a5",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_c9eb499b1bbb",
+            "name": "First Autumn",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#8b257f",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_399a9ada582b",
+            "name": "First Winter",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#3d2e0d",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_990af80b4a0b",
+            "name": "Second Spring",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#4f7254",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_9b6b59db1afa",
+            "name": "Second Summer",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#8a9a50",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_da5b79d8f96b",
+            "name": "Second Autumn",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#fefdb8",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_18ca68b9db58",
+            "name": "Second Winter",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 60,
+            "peak": 0,
+            "color": "#1c25a8",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": false,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 1,
+        "month": 2,
+        "year": 1621
+      },
+      "events": [
+        {
+          "name": "First Day of School",
+          "description": "",
+          "id": "3181755",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 3,
+            "year": 1621,
+            "month": 2
+          },
+          "category": "school-event",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Rebecca Kim is Born",
+          "description": "",
+          "id": "3204344",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 44,
+            "year": 1603,
+            "month": 2
+          },
+          "category": "birthdates",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Rebecca Kim's Birthday",
+          "description": "",
+          "id": "3204345",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 44,
+            "year": null,
+            "month": 2
+          },
+          "category": "birthdates",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [
+        {
+          "name": "School Event",
+          "id": "school-event",
+          "color": "#FFEB3B"
+        },
+        {
+          "name": "General Event",
+          "id": "general-event",
+          "color": "#000000"
+        },
+        {
+          "name": "Character Event",
+          "id": "character-event",
+          "color": "#000000"
+        },
+        {
+          "name": "Story Event",
+          "id": "story-event",
+          "color": "#000000"
+        },
+        {
+          "name": "Birthdates",
+          "id": "birthdates",
+          "color": "#9e9d24"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "MM-DD-YYYY"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_780b39ca6b79",
   "eventPreview": false,
   "exit": {
     "saving": false,

@@ -12,4 +12,6 @@ Broad Timeline in form of Eras:
 	- Ideologies between sorcerers and common people created lots of kingdoms in this world, with many sorcerer bloodlines becoming royalty. These intense ideologies brought conflict between kingdoms and conflict with spirits, leading to several hundred years of wars. This leads to the death of many magical people, leading to the next era.
 
 - Era 3: The first magical dark age. Very few sorcerers are left in the world and those that are begin to study the nature of magic in solitude. Much time passes and a group of non-magical scholars led by
-
+- Era 4: The age of wizard awakening. During this period, spell craft is made accessible to not only the sorcerers of the world but those who have access to the knowledge of wizards. An empire, known as the Grand Aviran Empire is formed under the rule of an Emperor, who weas puppeteered by religious figure Wizard Abeus. This empire begins to conquer different parts of the world.
+- Era 5: The war between wizards and spirits, witches, and sorcerers. Ends with the Nullcasting.
+- Era 6: Modern age.

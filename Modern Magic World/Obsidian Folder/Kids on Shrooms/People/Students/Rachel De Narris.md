@@ -24,7 +24,7 @@ What kind of cliques or clichés would your character be a part of?
 She is the top royal of the popular kids.
 
 What are your character's goals? 
-Ensure she is able to get away with everything she wants and wants as much people as possible to think that she is hot shit. Beyond that, she wants to go to veterinarian school, but is pretty sure that her dad will help her get in.
+Ensure she is able to get away with everything she wants and wants as much people as possible to think that she is hot shit. Beyond that, she wants to go to veterinarian school, but is pretty sure that her dad will help her get in. She is not nefarious, but does crave attention
 
 What are your character's fears?
 Not getting what she wants.
