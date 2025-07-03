@@ -28,12 +28,12 @@ date: -2100 BA</br>-</br>8/30/-980 BA
 title: Era 1: Migration and Early Settlements
 content: Humans have not discovered magic yet. They begin to spread out across the world and some settle down. Civilizations do not exist yet, but small settlements of villages exist throughout. Many cultures begin to form around the nature of the spirits that live closest to them. These small settlements form relationships to the spirits, with some worshiping them, some performing trade and exchanges, and others hunting the spirits down.
 
-This is also where the human world first begins to meet the spiritual world. The first witch, [[Mori, the Witch of Life and Death|Mori]], is created during this period.
+This is also where the human world first begins to meet the spiritual world. The first [[Witches|witch]], [[Mori, the Witch of Life and Death|Mori]], is created during this period. The first [[Warlocks|warlocks]] are also created, however, much fewer than after the era of Great Awakening, as most spirits hold the belief that humans should not posess magic during this time period.
 
 
 date: 8/30/-980 BA</br>-</br>4/47/-442 BA
 title: Era 2: The Great Awakening
-content: The first humans begin to arrive at the Kamihara. It is first known as a land of danger and death. However, after many years and someone returns from the Kamihara with magical powers, magic is introduced to the human world. More people being to venture into the Kamihara in hopes of achieving these abilities, with many becoming lost to the Kamihara, but some returning successful. For some time, pilgrimages begin from across the world venturing into the Kamihara. This influx in magical people created the foundation for sorcerers to be located across the world in abundance.
+content: The first humans begin to arrive at the Kamihara. It is first known as a land of danger and death. However, after many years and someone returns from the Kamihara with magical powers, magic is introduced to the human world. More people being to venture into the Kamihara in hopes of achieving these abilities, with many becoming lost to the Kamihara, but some returning successful. For some time, pilgrimages begin from across the world venturing into the Kamihara. This influx in magical people created the foundation for [[Sorcerers|sorcerers]] to be located across the world in abundance.
 
 Ideologies between sorcerers and common people created lots of kingdoms in this world, with many sorcerer bloodlines becoming royalty. These intense ideologies brought conflict between kingdoms and conflict with spirits, leading to several hundred years of wars. This leads to the death of many magical people, leading to the next era.
 
