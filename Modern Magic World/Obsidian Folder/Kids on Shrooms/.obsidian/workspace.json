@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Broad History.md",
+                "file": "Countries/First World Nations/Jiā.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broad History"
+              "title": "Jiā"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "273cf96886c3ac83",
         "type": "tabs",
-        "dimension": 70.23809523809523,
+        "dimension": 70.23809523809524,
         "children": [
           {
             "id": "27a260e62767f33b",
@@ -221,7 +221,7 @@
       {
         "id": "480ee6625f795a25",
         "type": "tabs",
-        "dimension": 29.761904761904763,
+        "dimension": 29.761904761904766,
         "children": [
           {
             "id": "28d3b8e65b203d9c",
@@ -256,15 +256,20 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
-    "Lore/Humanity.md",
+    "Countries/Country Template.md",
+    "Countries/First World Nations/Rane.md",
+    "Countries/First World Nations/Jiā.md",
+    "Countries/First World Nations/Astaria.md",
+    "People/Player Characters/Li JiaShen (Nick).md",
+    "Tools/Language and Naming Conventions.md",
     "Lore/Broad History.md",
+    "Lore/Humanity.md",
     "People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md",
     "People/Great Spirits and Divinity/The Great Knowledge Spirit.md",
     "Lore/The Kamihara.md",
     "Countries/Orochi.md",
     "Organizations/Global Organizations/Scholars of Avira.md",
     "Organizations/Global Organizations",
-    "Countries/First World Nations/Astaria.md",
     "Lore/Magic.md",
     "Hebi.md",
     "People/Families/The De Narris Family/Monroe De Narris.md",
@@ -280,11 +285,6 @@
     "People/Player Characters/Marlowe Melville (Rylee).md",
     "People/Teachers/Barbara Turner.md",
     "People/Relationships.canvas",
-    "Session Logs/Session 2.md",
-    "Session Logs/Session 1.md",
-    "Tools/Websites.md",
-    "People/Templates.md",
-    "Organizations/Religions/The Church of Abeus.md",
     "Organizations/Religions",
     "Organizations",
     "Tools",

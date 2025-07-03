@@ -6,7 +6,7 @@ In the world of Avira, Astaria reflects the United States for the purpose of ach
 
 To the public population of Astaria, the knowledge of spirits and magic of the world is unknown. The people who have knowledge of magic in this country are less than one percent of the population, with almost all of the people being part of the top 1%.
 
-## Organization Structure:
+## Organization Structure
 The Astarian government is mostly a representative democracy. There is an element to the government structure that is oligarchic, in the respect where the governing party as an overwhelming amount of control to continue keeping the ruling party in control.  
   
 The government is broken down into two jointed departments: the Ruling Parliament, and the Council of Experts.

@@ -61,6 +61,10 @@ I don’t know what her appearance will be like near the end since you know its 
 | Aviran 2         | 6      |
 
 ---
+## Backstory:
+Shens family is originally from [[Jiā]].
+
+---
 ## Rumors:
 - Good Rumor: I'm the only person in my clique who does her homework.
 - Bad Rumor: I am a virgin.
