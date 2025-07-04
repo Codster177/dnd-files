@@ -117,3 +117,8 @@ One Saturday every ~2 months: Mathlete Competition
 - [[Rebecca Kim]]
 	- Acquaintance
 	- Caspian knows Rebecca from his Advanced Chemistry class last year.
+
+
+## Planning Table
+![[Pasted image 20250704021953.png]]
+

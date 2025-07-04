@@ -19,7 +19,7 @@ That his son would not show signs of continuation for his lineage, and would not
 
 ---
 ## Backstory:
-Georgia was 33 when [[Caspian Forrest (Kai)]] (his son) was born. During that time, he was working for [[Astaria#The HUMI|the HUMI]], but was secretly reporting to a segment of the Ranen government called the Etheri 
+Georgia was 33 when [[Caspian Forrest (Kai)]] (his son) was born. During that time, he was working for [[Astaria#The HUMI|the HUMI]], but was secretly reporting to a segment of the Ranen government called the [[The Etheri|Etheri]] 
 
 ---
 ## Schedule:

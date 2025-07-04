@@ -18,6 +18,96 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":8.765625}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Cedrela, the Queen Bee Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":55.930989583333336}"
+                },
+                {
+                  "title": "Cedrela, the Queen Bee Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":32},\"to\":{\"line\":16,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "Georgia Forrest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Caspian's Family/Georgia Forrest.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Georgia Forrest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":231},\"to\":{\"line\":21,\"ch\":231}},\"scroll\":2.6527777777777777}"
+                },
+                {
+                  "title": "The Etheri",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Etheri.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Etheri\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Georgia Forrest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Caspian's Family/Georgia Forrest.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Georgia Forrest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":226},\"to\":{\"line\":21,\"ch\":226}},\"scroll\":5.927083333333333}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "The Kamihara",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
@@ -152,10 +242,14 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "People/Player Characters/Caspian Forrest (Kai).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caspian Forrest (Kai)"
             }
           }
         ]
@@ -238,8 +332,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,15 +365,15 @@
                 "calendar": "ID_780b39ca6b79",
                 "ephemeral": {
                   "viewing": {
-                    "day": 36,
-                    "month": 7,
-                    "year": 1621
+                    "day": 44,
+                    "month": 2,
+                    "year": 1605
                   },
                   "viewState": 0,
                   "displaying": {
                     "day": 1,
-                    "month": 2,
-                    "year": 1621
+                    "month": 0,
+                    "year": 1605
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": false,
@@ -294,6 +387,128 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "93b1b100f1366f5a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Player Characters/Caspian Forrest (Kai).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Caspian Forrest (Kai)"
+            }
+          },
+          {
+            "id": "c8c2d512541c334a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Player Characters/Caspian Forrest (Kai).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Caspian Forrest (Kai)"
+            }
+          },
+          {
+            "id": "ff2393b774f26d9f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a97864e788c97cad",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4b3f739452d0c297",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Player Characters/Caspian Forrest (Kai).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Caspian Forrest (Kai)"
+            }
           }
         ]
       },
@@ -305,6 +520,15 @@
           {
             "id": "6cf5a1df65e6eb65",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
@@ -330,16 +554,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "8f16c55da476d74f",
   "lastOpenFiles": [
-    "Lore/The Kamihara.md",
+    "Pasted image 20250704021953.png",
+    "Session Logs/Session 3.md",
+    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
+    "People/Templates.md",
+    "People/Spirits",
+    "Organizations/Corporations/Tech or Military/Wonder! Aerospace and Defense.md",
+    "Organizations/Corporations/Tech or Military",
+    "People/Families/Caspian's Family/Georgia Forrest.md",
+    "Organizations/Global Organizations/The Etheri.md",
+    "People/Player Characters/Caspian Forrest (Kai).md",
     "People/Player Characters/Benito Garcia (Mela).md",
+    "People/Students/Rachel De Narris.md",
+    "2025-07-04.md",
+    "Untitled.canvas",
+    "Lore/The Kamihara.md",
     "Untitled.md",
     "Lore/Broad History.md",
     "Tools/textgenerator/templates/default/summarize.md",
@@ -354,27 +588,15 @@
     "Tools/textgenerator/templates/default/summarizeLarge.md",
     "Session Logs/Session 2.md",
     "Tools/textgenerator/templates/default/getIdeas.md",
-    "Tools/textgenerator/templates/default/getEmailPos.md",
-    "Tools/textgenerator/templates/default/getEmailNeg.md",
-    "Tools/textgenerator/templates/default/getOutline.md",
-    "Tools/textgenerator/templates/default/getTitles.md",
-    "Tools/textgenerator/templates/default/getTags.md",
-    "Tools/textgenerator/templates/default/rewrite.md",
-    "Tools/textgenerator/templates/default/getParagraph.md",
     "Tools/textgenerator/templates/default",
     "Tools/textgenerator/templates",
     "Tools/textgenerator",
-    "Excalidraw/Drawing 2025-07-03 23.42.24.excalidraw.md",
     "Pasted Image 20250703234151_365.png",
     "Excalidraw",
-    "Excalidraw/Drawing 2025-07-03 23.40.43.excalidraw.md",
-    "Lore/Spellcasters/Warlocks.md",
     "Countries/Dead Nations",
     "Countries/First World Nations/Untitled/Untitled",
     "Countries/Orochi Nations",
     "Countries/Regions",
-    "Organizations/Global Organizations",
-    "People/Families/The De Narris Family",
     "People/Relationships.canvas"
   ]
 }

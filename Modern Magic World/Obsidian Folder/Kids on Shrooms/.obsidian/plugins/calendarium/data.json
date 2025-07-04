@@ -308,6 +308,26 @@
             "order": ""
           },
           "type": "Recurring"
+        },
+        {
+          "name": "Caspian's Birthday",
+          "description": null,
+          "date": {
+            "day": 40,
+            "month": 4,
+            "year": [
+              1605,
+              1621
+            ]
+          },
+          "id": "ID_5b5bebf8592a",
+          "note": "People/Player Characters/Caspian Forrest (Kai).md",
+          "category": "birthdates",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
         }
       ],
       "categories": [
