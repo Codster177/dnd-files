@@ -1,5 +1,5 @@
 {
-  "autoParse": false,
+  "autoParse": true,
   "calendars": [
     {
       "name": "Avirimantic Calendar",
@@ -233,7 +233,7 @@
         "locations": []
       },
       "current": {
-        "day": 1,
+        "day": 5,
         "month": 2,
         "year": 1621
       },
@@ -288,6 +288,26 @@
             "order": "",
             "timestamp": 0
           }
+        },
+        {
+          "name": "Benito's Birthday",
+          "description": null,
+          "date": {
+            "day": 36,
+            "month": 7,
+            "year": [
+              1603,
+              1621
+            ]
+          },
+          "id": "ID_d80a19fb3b09",
+          "note": "People/Player Characters/Benito Garcia (Mela).md",
+          "category": "birthdates",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
         }
       ],
       "categories": [
@@ -299,22 +319,22 @@
         {
           "name": "General Event",
           "id": "general-event",
-          "color": "#000000"
+          "color": "#6ccd51"
         },
         {
           "name": "Character Event",
           "id": "character-event",
-          "color": "#000000"
+          "color": "#b82323"
         },
         {
           "name": "Story Event",
           "id": "story-event",
-          "color": "#000000"
+          "color": "#b16c0b"
         },
         {
           "name": "Birthdates",
           "id": "birthdates",
-          "color": "#9e9d24"
+          "color": "#e27373"
         }
       ],
       "path": [],
@@ -346,7 +366,7 @@
   "askedToMoveFC": false,
   "askedAboutSync": false,
   "syncBehavior": "Ask",
-  "inlineEventsTag": null,
+  "inlineEventsTag": "event",
   "paths": [
     [
       "/",

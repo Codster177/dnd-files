@@ -4,21 +4,158 @@
     "type": "split",
     "children": [
       {
-        "id": "32b7f833bb99e9fc",
+        "id": "f01f4794a2ca9342",
         "type": "tabs",
         "children": [
           {
-            "id": "06dd36bad520a270",
+            "id": "8f16c55da476d74f",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Kamihara",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":29},\"to\":{\"line\":8,\"ch\":29}},\"scroll\":0}"
+                },
+                {
+                  "title": "summarize",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarize.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarize\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":21},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":9},\"to\":{\"line\":65,\"ch\":9}},\"scroll\":58.0643453471798}"
+                },
+                {
+                  "title": "Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Palicia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Palicia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Palicia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Orochi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Neridora",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Neridora.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Neridora\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rane",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Rane.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rane\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Jiā",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Jiā.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jiā\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Astaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Astaria.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Astaria\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.34375}"
+                },
+                {
+                  "title": "summarize",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarize.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarize\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "simplify",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/simplify.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"simplify\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "summarizeLarge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarizeLarge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarizeLarge\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "summarize",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarize.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarize\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "getIdeas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/getIdeas.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"getIdeas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "getEmailPos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/getEmailPos.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"getEmailPos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "getEmailNeg",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/getEmailNeg.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"getEmailNeg\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":81},\"to\":{\"line\":2,\"ch\":81}}}"
+                }
+              ]
+            },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Broad History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Broad History"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -37,6 +174,15 @@
           {
             "id": "64ae6053fec70fa3",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -50,6 +196,15 @@
           {
             "id": "64c78c37b3694ff8",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -67,6 +222,15 @@
           {
             "id": "659268b365aff7b1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -74,7 +238,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,117 +252,31 @@
       {
         "id": "273cf96886c3ac83",
         "type": "tabs",
-        "dimension": 70.23809523809524,
+        "dimension": 78.17307692307692,
         "children": [
           {
-            "id": "27a260e62767f33b",
+            "id": "187cd39af3da5ed9",
             "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "People/Player Characters/Benito Garcia.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Benito Garcia"
-            }
-          },
-          {
-            "id": "e33b898ffaa6c59f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "People/Player Characters/Benito Garcia.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Benito Garcia"
-            }
-          },
-          {
-            "id": "b3a24b52a53cf0f6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "ca3308cc7c66103a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "People/Player Characters/Benito Garcia.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Benito Garcia"
-            }
-          },
-          {
-            "id": "2bf2dd3d5edd4c01",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "550446ae0fce55c6",
-            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_780b39ca6b79",
                 "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "year": 1621,
-                    "month": 2,
-                    "day": 1
+                  "viewing": {
+                    "day": 36,
+                    "month": 7,
+                    "year": 1621
                   },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": false,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_f92ba99b1ba9",
-                "child": "ID_0a481b49da88"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "cab0c9ee5fa94a8b",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_780b39ca6b79",
-                "ephemeral": {
-                  "viewState": 1,
+                  "viewState": 0,
                   "displaying": {
                     "day": 1,
                     "month": 2,
@@ -209,29 +288,29 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_7aa85aebcb0a"
+                "id": "ID_4ab95a6b690b",
+                "child": "ID_4a4bcab92bdb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
-        "id": "480ee6625f795a25",
+        "id": "e1cb92cc329392af",
         "type": "tabs",
-        "dimension": 29.761904761904766,
+        "dimension": 21.826923076923077,
         "children": [
           {
-            "id": "28d3b8e65b203d9c",
+            "id": "6cf5a1df65e6eb65",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_780b39ca6b79",
-                "id": "ID_0a481b49da88",
-                "parent": "ID_f92ba99b1ba9"
+                "id": "ID_4a4bcab92bdb",
+                "parent": "ID_4ab95a6b690b"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -251,47 +330,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "06dd36bad520a270",
+  "active": "8f16c55da476d74f",
   "lastOpenFiles": [
-    "Lore/Spellcasters/Warlocks.md",
+    "Lore/The Kamihara.md",
+    "People/Player Characters/Benito Garcia (Mela).md",
+    "Untitled.md",
     "Lore/Broad History.md",
+    "Tools/textgenerator/templates/default/summarize.md",
     "Lore/Humanity.md",
-    "Lore/Magic.md",
-    "Lore/Spellcasters/Wizards.md",
-    "People/Great Spirits and Divinity/The Great Knowledge Spirit.md",
+    "Countries/Orochi Nations/Palicia.md",
     "Countries/Orochi Nations/Orochi.md",
-    "Countries/Dead Nations",
     "Countries/Orochi Nations/Neridora.md",
+    "Countries/First World Nations/Rane.md",
     "Countries/First World Nations/Jiā.md",
+    "Countries/First World Nations/Astaria.md",
+    "Tools/textgenerator/templates/default/simplify.md",
+    "Tools/textgenerator/templates/default/summarizeLarge.md",
+    "Session Logs/Session 2.md",
+    "Tools/textgenerator/templates/default/getIdeas.md",
+    "Tools/textgenerator/templates/default/getEmailPos.md",
+    "Tools/textgenerator/templates/default/getEmailNeg.md",
+    "Tools/textgenerator/templates/default/getOutline.md",
+    "Tools/textgenerator/templates/default/getTitles.md",
+    "Tools/textgenerator/templates/default/getTags.md",
+    "Tools/textgenerator/templates/default/rewrite.md",
+    "Tools/textgenerator/templates/default/getParagraph.md",
+    "Tools/textgenerator/templates/default",
+    "Tools/textgenerator/templates",
+    "Tools/textgenerator",
+    "Excalidraw/Drawing 2025-07-03 23.42.24.excalidraw.md",
+    "Pasted Image 20250703234151_365.png",
+    "Excalidraw",
+    "Excalidraw/Drawing 2025-07-03 23.40.43.excalidraw.md",
+    "Lore/Spellcasters/Warlocks.md",
+    "Countries/Dead Nations",
     "Countries/First World Nations/Untitled/Untitled",
     "Countries/Orochi Nations",
-    "Countries/Orochi Nations/Palicia.md",
     "Countries/Regions",
-    "Tools/Language and Naming Conventions.md",
-    "Countries/Dead Nations/The Grand Aviran Empire.md",
-    "Lore/The Kamihara.md",
-    "Tools/Websites.md",
-    "Countries/Country Template.md",
-    "Countries/First World Nations/Rane.md",
-    "Countries/First World Nations/Astaria.md",
-    "People/Player Characters/Li JiaShen (Nick).md",
-    "People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md",
-    "Organizations/Global Organizations/Scholars of Avira.md",
     "Organizations/Global Organizations",
-    "Hebi.md",
-    "People/Families/The De Narris Family/Monroe De Narris.md",
-    "People/Students/Rachel De Narris.md",
-    "People/Families/The De Narris Family/Howard De Narris.md",
     "People/Families/The De Narris Family",
-    "People/Player Characters/Benito Garcia (Mela).md",
-    "People/Player Characters/Caspian Forrest (Kai).md",
-    "People/Relationships.canvas",
-    "Organizations/Religions",
-    "Organizations",
-    "Tools",
-    "People/Students/Other Students"
+    "People/Relationships.canvas"
   ]
 }

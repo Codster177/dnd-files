@@ -1,5 +1,8 @@
 [
   "colored-text",
   "obsidian-timeline",
-  "calendarium"
+  "calendarium",
+  "pane-relief",
+  "obsidian-meta-bind-plugin",
+  "various-complements"
 ]

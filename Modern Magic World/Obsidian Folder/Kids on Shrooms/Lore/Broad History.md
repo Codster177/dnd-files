@@ -50,7 +50,16 @@ date: 8/30/-16 BA</br>-</br>6/2/1396 AV
 title: Era 4: The Age of Discovery
 content:The group that discovered wizardry establishes a settlement at the study, and begins to form [[The Grand Aviran Empire]], a nation formed with the scholars as their great council.
 
-The original council that discovered wizardry extends their life for about 300 years, living to around 310 AV. However, secretly, the now Archmage Abeus fakes his death of old age and magically continues his life as something not mortal. He puppets the great council and the [[Scholars of Avira|]]
+The original council that discovered wizardry extends their life for about 300 years, living to around 310 AV. However, secretly, the now Archmage Abeus fakes his death of old age and magically continues his life as something not mortal. He puppets the great council and the [[Scholars of Avira|Aviani Sanctorum]].
 
+As the new empire grew, the rest of the world was crawling out of their dark ages, with various movements and wars happening from country to country to re-legalize magic. As wizardry spread outside of the Grand Aviran Empire, the process greatly sped up in some places and worsened in other, with some countries adopting the policies that wizardry was "good magic" and all the other kinds were bad. 
+
+The Grand Aviran Empire did not adopt this policy at first, as the early scholars admiration for sorcerers allowed them to discover wizardry. However, as the empire shifted its goals to domination over the [[Tindomye]] region of the world, a region with several kingdoms ruled by sorcerers and magic engrained into their culture, the empire forced the Sanctorum and its people to adopt the position that all magic besides wizard craft was inherantly evil.
+
+After a long war of conquering the Tindomye region, the Grand Aviran Empire began establishing their civilizaiton in different cities that will eventually become Astaria. With the empire beginning to stire up conflicts with other nations, and the Sanctorum both capturing powerful spirits and working on bigger and dangerous spells, they began attracting enemies from not only the other nations, but powerful Witches, Warlocks and Spirits. This began the Severance War.
+
+date: 6/2/1396 AV</br>-</br>8/30/1511 AV
+title: Era 5: THe 
 
 ```
+
