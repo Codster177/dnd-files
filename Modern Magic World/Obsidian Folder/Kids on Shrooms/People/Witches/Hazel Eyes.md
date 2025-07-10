@@ -1,6 +1,6 @@
 ## Character Breakdown:
-What year is your character? 
-
+How old is your character?
+Hazel Eyes is around 
 
 What is your appearance like? 
 

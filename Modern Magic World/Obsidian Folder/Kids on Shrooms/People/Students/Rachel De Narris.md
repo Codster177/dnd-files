@@ -59,10 +59,10 @@ There are many rumors about Rachel De Narris, and people can sometimes be afraid
 	- Father
 	- Is a posh and formal father, with a fixation on control and order. However, he has a soft spot for his precious daughter, who should be able to do whatever she wants.
 	- Is a Wizard of the [[Scholars of Avira]]. Teaches [[Damien De Narris]] in the ways of wizardry. There has been times where Rachel has seen him teaching Damien, enough so that Rachel has a permanent enchantment on her that causes her to forget memories that have to do with magic.
-- [[Monroe De Narris]]
-	- Mother
-	- Is a careless mother who does not talk much anymore. Has had enough enchantments casted on her for her to basically be a slave to Howard. Mostly does chores around the house and yardwork. Also is in charge of running Howards business.
-	- The trophy wife to Howard De Narris. 
+- [[Mason De Narris]]
+	- Father
+	- Is a careless mother who does not talk much anymore. Has had enough enchantments casted on him for him to basically be a slave to Howard. Mostly does chores around the house and yardwork. Also is in charge of running Howards business.
+	- The trophy husband to Howard De Narris. 
 - [[Damien De Narris]]
 	- Brother
 	- Worry filled, wanting to be cool guy at school. Similar to Rachel, he wants to be treated like he is better than everyone. Contrary to her, he is not charismatic, so when people treat him like the brat he is, he get emotional and angry, instead of verbally putting someone in their place.

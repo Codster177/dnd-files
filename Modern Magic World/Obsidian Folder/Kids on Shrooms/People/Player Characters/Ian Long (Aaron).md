@@ -53,6 +53,10 @@ He is afraid of being found out as a spirit. He would be fine telling people tha
 | Aviran 2               | 6      |
 
 ---
+## Background:
+One day, at an unknown time, the little dragon emerged. The little dragon did not remember the details of his birth, or if he even had parents, all he knew is his curiosity. He had a burning desire to explore, to learn the world around him. One day, he decided to wonder into the city, unaware of some peoples distain of spirits, and was found and chased out. Almost instinctually he understood he needed to disguise as a human if he wanted to learn more. He would watch movies to understand human interactions better. One day, he was curious about the local school, and wanted to join to learn more things. He waited for the school year to start, signaled by the school busses around the town, and waltz right into school. He of course wasn't enrolled so they chased him out. Feeling very sad, the little dragon went to sleep with one thing in mind, the urge to get enrolled to the school. As if the universe had listened, the next day every paper that he needed was there. The little dragon took on the name Ian Long, and went to his first day of school.
+
+---
 ## Rumors:
 - Good Rumor: I get free food from Marcel's Bodega.
 - Bad Rumor: I am homeless

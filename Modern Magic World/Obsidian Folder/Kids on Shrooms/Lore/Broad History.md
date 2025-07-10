@@ -1,17 +1,4 @@
 Broad Timeline in form of Eras:
-
-
-
-
-
-- Era 3: The first magical dark age. Very few sorcerers are left in the world and those that are begin to study the nature of magic in solitude. Much time passes and a group of non-magical scholars led by
-- Era 4: The age of wizard awakening. During this period, spell craft is made accessible to not only the sorcerers of the world but those who have access to the knowledge of wizards. An empire, known as the Grand Aviran Empire is formed under the rule of an Emperor, who weas puppeteered by religious figure Wizard Abeus. This empire begins to conquer different parts of the world.
-- Era 5: The war between wizards and spirits, witches, and sorcerers. Ends with the Nullcasting.
-- Era 6: Modern age.
-
-
-
-
 ```timeline-labeled [line-3, body-2] 
 date: Around </br> -4000 BA
 title: The Beginning of Avira
@@ -56,10 +43,19 @@ As the new empire grew, the rest of the world was crawling out of their dark age
 
 The Grand Aviran Empire did not adopt this policy at first, as the early scholars admiration for sorcerers allowed them to discover wizardry. However, as the empire shifted its goals to domination over the [[Tindomye]] region of the world, a region with several kingdoms ruled by sorcerers and magic engrained into their culture, the empire forced the Sanctorum and its people to adopt the position that all magic besides wizard craft was inherantly evil.
 
-After a long war of conquering the Tindomye region, the Grand Aviran Empire began establishing their civilizaiton in different cities that will eventually become Astaria. With the empire beginning to stire up conflicts with other nations, and the Sanctorum both capturing powerful spirits and working on bigger and dangerous spells, they began attracting enemies from not only the other nations, but powerful Witches, Warlocks and Spirits. This began the Severance War.
+After a long war of conquering the Tindomye region, the Grand Aviran Empire began establishing their civilizaiton in different cities that will eventually become Astaria. With the empire beginning to stire up conflicts with other nations, and the Sanctorum both capturing powerful spirits and working on bigger and dangerous spells, they began attracting enemies from not only the other nations, but powerful Witches, Warlocks and Spirits. This began the Severing War.
 
 date: 6/2/1396 AV</br>-</br>8/30/1511 AV
-title: Era 5: THe 
+title: Era 5: The Severing War
+content: The war between wizards and spirits, witches, and sorcerers. Throughout the war, the Grand Aviran Empire captures many spirits. The war ends with the [[The Nullcasting| Nullcasting]]. 
+
+The Nullcasting not only removed magic from a large population of people who aimed to weild magic against the Aviran Empire, it also served as a method to control the general population into accepting a "perfected" world. During the war, rebellions and protests rose up against the war, some siding on the side of the spirits. In erasing the knowledge of magic from the world, and forcing governments to accept the aid of the [[Scholars of Avira]], the world will feel like they have agency, while the scholars can still plan their perfect world.
+
+date: 8/30/1511 AV</br>-</br>Now
+title: Era 6: The Modern Age
+content: Also known as the Second Dark Age to some. Starts after the Nullcasting. During this age, magic is only known to the Wizards who were in alliance with the [[Scholars of Avira]], Sorcerers, Witches, and Warlocks powerful enough to resist the Nullcasting, and powerful spirits.
+
+During this age, modern technologies develop from magic, such as the internet and electronics.
 
 ```
 

@@ -4,252 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "f01f4794a2ca9342",
+        "id": "32b7f833bb99e9fc",
         "type": "tabs",
         "children": [
           {
-            "id": "8f16c55da476d74f",
+            "id": "06dd36bad520a270",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Session 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":8.765625}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cedrela, the Queen Bee Spirit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Templates",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":55.930989583333336}"
-                },
-                {
-                  "title": "Cedrela, the Queen Bee Spirit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Session 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":32},\"to\":{\"line\":16,\"ch\":32}},\"scroll\":0}"
-                },
-                {
-                  "title": "Georgia Forrest",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Caspian's Family/Georgia Forrest.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Georgia Forrest\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":231},\"to\":{\"line\":21,\"ch\":231}},\"scroll\":2.6527777777777777}"
-                },
-                {
-                  "title": "The Etheri",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Etheri.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Etheri\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Georgia Forrest",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Caspian's Family/Georgia Forrest.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Georgia Forrest\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":226},\"to\":{\"line\":21,\"ch\":226}},\"scroll\":5.927083333333333}"
-                },
-                {
-                  "title": "Session 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Caspian Forrest (Kai)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Benito Garcia (Mela)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Rachel De Narris",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "Session 3",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "The Kamihara",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Benito Garcia (Mela)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Broad History",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":29},\"to\":{\"line\":8,\"ch\":29}},\"scroll\":0}"
-                },
-                {
-                  "title": "summarize",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarize.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarize\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":21},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Broad History",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":9},\"to\":{\"line\":65,\"ch\":9}},\"scroll\":58.0643453471798}"
-                },
-                {
-                  "title": "Humanity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Humanity\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Palicia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Palicia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Palicia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Orochi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Neridora",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Neridora.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Neridora\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Rane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Rane.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rane\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Jiā",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Jiā.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jiā\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Astaria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Astaria.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Astaria\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.34375}"
-                },
-                {
-                  "title": "summarize",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarize.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarize\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "simplify",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/simplify.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"simplify\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "summarizeLarge",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarizeLarge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarizeLarge\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "summarize",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/summarize.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"summarize\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Session 2",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 2\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
-                },
-                {
-                  "title": "getIdeas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/getIdeas.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"getIdeas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "getEmailPos",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/getEmailPos.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"getEmailPos\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "getEmailNeg",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/textgenerator/templates/default/getEmailNeg.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"getEmailNeg\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "title": "Benito Garcia (Mela)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":81},\"to\":{\"line\":2,\"ch\":81}}}"
-                }
-              ]
-            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Player Characters/Caspian Forrest (Kai).md",
+                "file": "People/Spirits/Cedrela, the Queen Bee Spirit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caspian Forrest (Kai)"
+              "title": "Cedrela, the Queen Bee Spirit"
+            }
+          },
+          {
+            "id": "a1e573b9e3cde2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Broad History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Broad History"
+            }
+          },
+          {
+            "id": "a2b85d4e9ba794f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Religions/Ulism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ulism"
+            }
+          },
+          {
+            "id": "68bb9c8210116c72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Broad History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Broad History"
             }
           }
         ]
@@ -268,15 +79,6 @@
           {
             "id": "64ae6053fec70fa3",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -290,15 +92,6 @@
           {
             "id": "64c78c37b3694ff8",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
@@ -316,15 +109,6 @@
           {
             "id": "659268b365aff7b1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -343,37 +127,28 @@
     "type": "split",
     "children": [
       {
-        "id": "273cf96886c3ac83",
+        "id": "672f934041827871",
         "type": "tabs",
-        "dimension": 78.17307692307692,
+        "dimension": 70.23809523809523,
         "children": [
           {
-            "id": "187cd39af3da5ed9",
+            "id": "a28aa098f80ecf7a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_780b39ca6b79",
                 "ephemeral": {
                   "viewing": {
-                    "day": 44,
+                    "day": 5,
                     "month": 2,
-                    "year": 1605
+                    "year": 1621
                   },
-                  "viewState": 0,
+                  "viewState": 1,
                   "displaying": {
-                    "day": 1,
-                    "month": 0,
-                    "year": 1605
+                    "day": 5,
+                    "month": 2,
+                    "year": 1621
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": false,
@@ -381,160 +156,29 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_4ab95a6b690b",
-                "child": "ID_4a4bcab92bdb"
+                "id": "ID_8a784948c8cb",
+                "child": "ID_9b392ba9fb79"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
-            }
-          },
-          {
-            "id": "93b1b100f1366f5a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "People/Player Characters/Caspian Forrest (Kai).md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Caspian Forrest (Kai)"
-            }
-          },
-          {
-            "id": "c8c2d512541c334a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "People/Player Characters/Caspian Forrest (Kai).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Caspian Forrest (Kai)"
-            }
-          },
-          {
-            "id": "ff2393b774f26d9f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "a97864e788c97cad",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "4b3f739452d0c297",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "People/Player Characters/Caspian Forrest (Kai).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Caspian Forrest (Kai)"
             }
           }
         ]
       },
       {
-        "id": "e1cb92cc329392af",
+        "id": "066a0d34f54e1a89",
         "type": "tabs",
-        "dimension": 21.826923076923077,
+        "dimension": 29.761904761904763,
         "children": [
           {
-            "id": "6cf5a1df65e6eb65",
+            "id": "7d31e8c9f68e74a1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_780b39ca6b79",
-                "id": "ID_4a4bcab92bdb",
-                "parent": "ID_4ab95a6b690b"
+                "id": "ID_9b392ba9fb79",
+                "parent": "ID_8a784948c8cb"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -557,46 +201,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8f16c55da476d74f",
+  "active": "06dd36bad520a270",
   "lastOpenFiles": [
     "Pasted image 20250704021953.png",
-    "Session Logs/Session 3.md",
-    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
-    "People/Templates.md",
-    "People/Spirits",
-    "Organizations/Corporations/Tech or Military/Wonder! Aerospace and Defense.md",
-    "Organizations/Corporations/Tech or Military",
-    "People/Families/Caspian's Family/Georgia Forrest.md",
-    "Organizations/Global Organizations/The Etheri.md",
-    "People/Player Characters/Caspian Forrest (Kai).md",
-    "People/Player Characters/Benito Garcia (Mela).md",
-    "People/Students/Rachel De Narris.md",
-    "2025-07-04.md",
-    "Untitled.canvas",
-    "Lore/The Kamihara.md",
-    "Untitled.md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
     "Lore/Broad History.md",
-    "Tools/textgenerator/templates/default/summarize.md",
-    "Lore/Humanity.md",
-    "Countries/Orochi Nations/Palicia.md",
-    "Countries/Orochi Nations/Orochi.md",
-    "Countries/Orochi Nations/Neridora.md",
-    "Countries/First World Nations/Rane.md",
-    "Countries/First World Nations/Jiā.md",
-    "Countries/First World Nations/Astaria.md",
-    "Tools/textgenerator/templates/default/simplify.md",
-    "Tools/textgenerator/templates/default/summarizeLarge.md",
+    "People/Families/Caspian's Family/Jessica May.md",
+    "Session 3.md",
     "Session Logs/Session 2.md",
-    "Tools/textgenerator/templates/default/getIdeas.md",
-    "Tools/textgenerator/templates/default",
-    "Tools/textgenerator/templates",
-    "Tools/textgenerator",
-    "Pasted Image 20250703234151_365.png",
-    "Excalidraw",
+    "People/Teachers/Weylin Whitley.md",
+    "Organizations/Religions/Ulism.md",
+    "People/Other Adults/Edward Reed.md",
+    "Untitled",
+    "Session Logs/Story Leads.md",
+    "People/Witches/Hazel Eyes.md",
+    "People/Students/Damien De Narris.md",
+    "People/Students/Rachel De Narris.md",
+    "People/Families/The De Narris Family/Howard De Narris.md",
+    "People/Families/The De Narris Family/Mason De Narris.md",
+    "People/Students/Jace Shotwell.md",
+    "People/Player Characters/Li JiaShen (Nick).md",
+    "People/Templates.md",
+    "People/Player Characters/Ian Long (Aaron).md",
+    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
+    "Locations/Astarian Cities/Lake Prospect/Lake Prospect.md",
+    "Locations/Astarian Cities/Lake Prospect/Nature",
+    "Locations/Astarian Cities/Lake Prospect/Nature/Sweet Lake Forest.md",
+    "Organizations/Global Organizations/Developed International Concord.md",
+    "People/Teachers/Devon Foster.md",
+    "Lore/The Nullcasting.md",
+    "People/Spirits",
+    "Organizations/Global Organizations/The Etheri.md",
+    "Organizations/Corporations/Tech or Military",
     "Countries/Dead Nations",
     "Countries/First World Nations/Untitled/Untitled",
     "Countries/Orochi Nations",
     "Countries/Regions",
+    "Organizations/Global Organizations",
+    "People/Families/The De Narris Family",
     "People/Relationships.canvas"
   ]
 }
