@@ -104,7 +104,7 @@ Soccer meets every day after school at 6-7:30.
 	- Rebecca has a huge crush on Benito, but does not want to make the first move as she does not want to mess up the SGA relationship they have. She hopes that he will ask her out.
 	- Actual play history:
 		- [[Session 1]]:
-			- We find [[Benito Garcia (Mela)]] in Dr. Charles York's Advanced Environmental Science class. Benito is multitasking between taking notes in the beginning teachings of this class, and planning the Club Fest that takes place during Tuesday and Wednesday. Benito is sitting next to [[Rebecca Kim]], his Vice President for the Senior Class, and they begin discussing various ideas for the event.
+			- We find [[Benito Garcia (Mela)]] in [[Dr. Charles York]]'s Advanced Environmental Science class. Benito is multitasking between taking notes in the beginning teachings of this class, and planning the Club Fest that takes place during Tuesday and Wednesday. Benito is sitting next to [[Rebecca Kim]], his Vice President for the Senior Class, and they begin discussing various ideas for the event.
 - [[Jace Shotwell]]
 	- Acquaintance
 	- Is on the SGA Senior Executive board with Benito, as he is the Senior Class Secretary.

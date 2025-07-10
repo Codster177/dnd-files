@@ -1,3 +1,7 @@
+
+Previous: This is the first session. You can go here for planning: [[Story Leads]]
+Next: [[Session 2]]
+
 We opened onto [[West Paradise High School]].
 
 We opened in Mrs. [[Barbara Turner]]'s Algebra 2 class, with Mrs. Turner going over the code of conduct for the school. We see that [[Li JiaShen (Nick)]]is chewing bubble gum and zoning the fuck out. She is sitting next to [[Damien De Narris]], who is leaning back with his hands behind his head, doing his performative cool guy pose. Shen calls him out, and he tries to play it off.

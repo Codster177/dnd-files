@@ -1,3 +1,6 @@
+Previous: [[Session 1]]
+Next: [[Session 3]]
+
 We started the session with [[Marlowe Melville (Rylee)]] getting off of the bus and walking home. She makes her way to her apartment to find that her father is not home and has left her a note saying that he is working late and to take care of herself tonight, stating "you know the drill". Marlowe checks the fridge and finds that the milk is almost out and there is no eggs, leaving nothing in the fridge to really eat. She then gets ready and relaxes for a bit, before heading out to walk to work.
 
 The session pans over to [[Li JiaShen (Nick)]], whos Uber has arrived for them. Inside the Uber, a dejected Shen scrolls through their phone looking at pictures of her and [[Li SiSheng|mom]]. As she's looking on her broken phone, a Instagram post pops up from [[Rachel De Narris]], showing her, [[Madison Leclair]], and [[Lexi Conner]] at the [[Velvet Row]], an outdoor shopping plaza. Shen comments to this post: "OMG you guys look sooo good!!" which is replied with "omg thanks girl, next time ur coming<3". The driver then attempts to make small talk with Shen, which is swiftly shut down by Shen, justly so.

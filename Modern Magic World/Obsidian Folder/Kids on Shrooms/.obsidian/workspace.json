@@ -10,57 +10,126 @@
           {
             "id": "06dd36bad520a270",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":98,\"ch\":17}},\"scroll\":72.47591145833333}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":13},\"to\":{\"line\":1,\"ch\":13}}}"
+                },
+                {
+                  "title": "Session 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":9},\"to\":{\"line\":1,\"ch\":9}}}"
+                },
+                {
+                  "title": "Session 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":16},\"to\":{\"line\":2,\"ch\":16}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Witches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Witches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wizards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Wizards.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Witches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Witches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Warlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Warlocks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sorcerers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Sorcerers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Kamihara",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":364},\"to\":{\"line\":2,\"ch\":364}}}"
+                },
+                {
+                  "title": "The Etheri",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Etheri.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Etheri\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cedrela, the Queen Bee Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Spirits/Cedrela, the Queen Bee Spirit.md",
+                "file": "People/Spirits/The Great Whale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cedrela, the Queen Bee Spirit"
-            }
-          },
-          {
-            "id": "a1e573b9e3cde2b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Broad History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Broad History"
-            }
-          },
-          {
-            "id": "a2b85d4e9ba794f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Religions/Ulism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ulism"
-            }
-          },
-          {
-            "id": "68bb9c8210116c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Broad History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Broad History"
+              "title": "The Great Whale"
             }
           }
         ]
@@ -79,6 +148,15 @@
           {
             "id": "64ae6053fec70fa3",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -92,6 +170,15 @@
           {
             "id": "64c78c37b3694ff8",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
@@ -109,6 +196,15 @@
           {
             "id": "659268b365aff7b1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "bookmarks",
               "state": {},
@@ -129,11 +225,20 @@
       {
         "id": "672f934041827871",
         "type": "tabs",
-        "dimension": 70.23809523809523,
+        "dimension": 70.23809523809524,
         "children": [
           {
             "id": "a28aa098f80ecf7a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "CALENDARIUM",
               "state": {
@@ -162,17 +267,148 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "efb65932aa16ecf9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Spirits/The Great Whale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Great Whale"
+            }
+          },
+          {
+            "id": "2c6134228054aade",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Spirits/The Great Whale.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Great Whale"
+            }
+          },
+          {
+            "id": "5b60341c00d9e33c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8c0e4138550dbde",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "13ef9cd19a420fd6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Spirits/The Great Whale.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Great Whale"
+            }
           }
         ]
       },
       {
         "id": "066a0d34f54e1a89",
         "type": "tabs",
-        "dimension": 29.761904761904763,
+        "dimension": 29.761904761904766,
         "children": [
           {
             "id": "7d31e8c9f68e74a1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
@@ -203,35 +439,36 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
+    "People/Templates.md",
+    "People/Spirits/The Great Whale.md",
+    "People/Great Spirits and Divinity/The Great Knowledge Spirit.md",
+    "Session Logs/Session 4.md",
+    "Session Logs/Session 3.md",
+    "Session Logs/Session 2.md",
+    "Session Logs/Session 1.md",
+    "Lore/Spellcasters/Witches.md",
+    "People/Teachers/Dr. Charles York.md",
+    "People/Player Characters/Benito Garcia (Mela).md",
+    "Session Logs/Story Leads.md",
+    "People/Teachers/Barbara Turner.md",
+    "People/Teachers/Devon Foster.md",
+    "People/Teachers/Dr. Angela Bennet.md",
+    "People/Teachers/Weylin Whitley.md",
+    "People/Teachers/George Walker.md",
+    "People/Teachers/Dr. Ronald Foster.md",
+    "Lore/Broad History.md",
+    "Organizations/Religions/Ulism.md",
+    "Lore/Spellcasters/Wizards.md",
+    "Lore/Spellcasters/Warlocks.md",
+    "Lore/Spellcasters/Sorcerers.md",
+    "Lore/The Kamihara.md",
+    "Organizations/Global Organizations/The Etheri.md",
+    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
     "Pasted image 20250704021953.png",
     "People/Player Characters/Marlowe Melville (Rylee).md",
-    "Lore/Broad History.md",
-    "People/Families/Caspian's Family/Jessica May.md",
-    "Session 3.md",
-    "Session Logs/Session 2.md",
-    "People/Teachers/Weylin Whitley.md",
-    "Organizations/Religions/Ulism.md",
-    "People/Other Adults/Edward Reed.md",
     "Untitled",
-    "Session Logs/Story Leads.md",
-    "People/Witches/Hazel Eyes.md",
-    "People/Students/Damien De Narris.md",
-    "People/Students/Rachel De Narris.md",
-    "People/Families/The De Narris Family/Howard De Narris.md",
-    "People/Families/The De Narris Family/Mason De Narris.md",
-    "People/Students/Jace Shotwell.md",
-    "People/Player Characters/Li JiaShen (Nick).md",
-    "People/Templates.md",
-    "People/Player Characters/Ian Long (Aaron).md",
-    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
-    "Locations/Astarian Cities/Lake Prospect/Lake Prospect.md",
     "Locations/Astarian Cities/Lake Prospect/Nature",
-    "Locations/Astarian Cities/Lake Prospect/Nature/Sweet Lake Forest.md",
-    "Organizations/Global Organizations/Developed International Concord.md",
-    "People/Teachers/Devon Foster.md",
-    "Lore/The Nullcasting.md",
     "People/Spirits",
-    "Organizations/Global Organizations/The Etheri.md",
     "Organizations/Corporations/Tech or Military",
     "Countries/Dead Nations",
     "Countries/First World Nations/Untitled/Untitled",

@@ -1,3 +1,0 @@
-
-Geometry Teacher: Joshua Cambell
-
