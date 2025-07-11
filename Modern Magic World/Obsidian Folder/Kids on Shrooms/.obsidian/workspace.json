@@ -18,6 +18,162 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Injury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stealth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Strengths and Stupid Points",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":110},\"to\":{\"line\":34,\"ch\":110}},\"scroll\":28.87491652647152}"
+                },
+                {
+                  "title": "Stats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ulism",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Religions/Ulism.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ulism\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":245},\"to\":{\"line\":0,\"ch\":245}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Neridora",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Neridora.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Neridora\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Grand Aviran Empire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Dead Nations/The Grand Aviran Empire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Grand Aviran Empire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ulism",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Religions/Ulism.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ulism\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":11},\"to\":{\"line\":0,\"ch\":11}}}"
+                },
+                {
+                  "title": "Country Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Country Template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Country Template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":95},\"to\":{\"line\":21,\"ch\":95}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Great Goat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Goat\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":58},\"to\":{\"line\":0,\"ch\":58}}}"
+                },
+                {
+                  "title": "The Great Goat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goat Giant\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":22.83072821299235}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":106,\"ch\":0},\"to\":{\"line\":106,\"ch\":0}},\"scroll\":96.29075121432055}"
+                },
+                {
+                  "title": "Relationships",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"People/Relationships.canvas\",\"viewState\":{\"x\":-70.5,\"y\":-0.5,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Relationships\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":17},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mori, the Witch of Life and Death",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mori, the Witch of Life and Death\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ulism",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Religions/Ulism.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ulism\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Templates",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
@@ -26,7 +182,7 @@
                 {
                   "title": "The Great Whale",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -124,12 +280,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Spirits/The Great Whale.md",
+                "file": "System Design/E-Board Perks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Great Whale"
+              "title": "E-Board Perks"
             }
           }
         ]
@@ -424,7 +580,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -439,9 +596,22 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
-    "People/Templates.md",
-    "People/Spirits/The Great Whale.md",
+    "System Design/Injury.md",
+    "System Design/E-Board Perks.md",
+    "System Design/Stealth.md",
+    "System Design/Strengths and Stupid Points.md",
+    "System Design/Stats.md",
+    "Organizations/Religions/Ulism.md",
+    "System Design",
+    "Countries/Orochi Nations/Neridora.md",
+    "Countries/Dead Nations/The Grand Aviran Empire.md",
+    "Countries/Country Template.md",
+    "People/Great Spirits and Divinity/The Great Whale.md",
+    "People/Great Spirits and Divinity/The Great Goat.md",
     "People/Great Spirits and Divinity/The Great Knowledge Spirit.md",
+    "People/Templates.md",
+    "People/Relationships.canvas",
+    "People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md",
     "Session Logs/Session 4.md",
     "Session Logs/Session 3.md",
     "Session Logs/Session 2.md",
@@ -454,19 +624,7 @@
     "People/Teachers/Devon Foster.md",
     "People/Teachers/Dr. Angela Bennet.md",
     "People/Teachers/Weylin Whitley.md",
-    "People/Teachers/George Walker.md",
-    "People/Teachers/Dr. Ronald Foster.md",
-    "Lore/Broad History.md",
-    "Organizations/Religions/Ulism.md",
-    "Lore/Spellcasters/Wizards.md",
-    "Lore/Spellcasters/Warlocks.md",
-    "Lore/Spellcasters/Sorcerers.md",
-    "Lore/The Kamihara.md",
-    "Organizations/Global Organizations/The Etheri.md",
-    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
     "Pasted image 20250704021953.png",
-    "People/Player Characters/Marlowe Melville (Rylee).md",
-    "Untitled",
     "Locations/Astarian Cities/Lake Prospect/Nature",
     "People/Spirits",
     "Organizations/Corporations/Tech or Military",
@@ -475,7 +633,6 @@
     "Countries/Orochi Nations",
     "Countries/Regions",
     "Organizations/Global Organizations",
-    "People/Families/The De Narris Family",
-    "People/Relationships.canvas"
+    "People/Families/The De Narris Family"
   ]
 }

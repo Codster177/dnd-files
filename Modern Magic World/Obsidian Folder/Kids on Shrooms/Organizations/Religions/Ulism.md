@@ -1,0 +1,1 @@
+Ulism is a religion in the widespread around the southern region of [[Orochi]]. There are different strands of the religion, but the religion mostly focuses on the three spirits [[The Great Serpent]], [[The Great Goat]], and [[The Great Whale]].
