@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":18},\"to\":{\"line\":57,\"ch\":18}},\"scroll\":53.064940674377304}"
+                },
+                {
+                  "title": "Injury",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":0},\"to\":{\"line\":41,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Injury",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
@@ -314,14 +332,12 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "System Design/E-Board Perks.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250704021953.png"
               },
-              "icon": "lucide-file",
-              "title": "E-Board Perks"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250704021953"
             }
           }
         ]
@@ -632,8 +648,8 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
-    "System Design/Injury.md",
     "System Design/E-Board Perks.md",
+    "System Design/Injury.md",
     "System Design/Stealth.md",
     "System Design/Strengths and Stupid Points.md",
     "System Design/Stats.md",
