@@ -10,6 +10,9 @@ Georgia got caught by the HUMI when he tried reaching out to [[The Etheri]] once
 
 The only thing [[The Etheri]] was able to do was convince people in the [[Rane]] government to start a war, with an ally of [[Astaria]] as it would take time away from the project at the corporation Wonder!. The Etheri do not nearly know that this is the tip of the iceberg when it comes to knowledge on magic.  
 
+Things to work on:
+- 
+
 ## [[Benito Garcia (Mela)]]
 If Benito goes back to the park, play the spirit scene:
 - As he investigates where the tree used to be, he will notice sunflowers and dandelions start to "sneak up on him". These are actually flower spirits, and as their pedals flow in the wind to be caught by another stem, the wind will whistle the sound: It is him! He is the one she left for us! We must introduce him to the queen!
@@ -22,6 +25,7 @@ Benito's story will involve the unfinished business of [[Hazel Eyes]]
 
 
 ## [[Li JiaShen (Nick)]]
+
 
 
 ## [[Ian Long (Aaron)]]

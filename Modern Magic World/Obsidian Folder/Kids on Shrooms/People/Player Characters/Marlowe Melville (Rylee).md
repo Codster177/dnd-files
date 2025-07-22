@@ -12,7 +12,7 @@ Her birthday is 6/23/1605, or the 23rd of Second Summer, 1605. This makes her 15
 | ------------ | ------------ | -------------- | --------------- |
 | Strength     | 1D4          | -2             |                 |
 | Dexterity    | 1D4          | +0             |                 |
-| Intelligence | 1D4          | -1             |                 |
+| Intelligence | 1D6          | -1             |                 |
 | Constitution | 1D6          | +2             |                 |
 | Charisma     | 1D6          | +1             | +1              |
 | Wisdom       | 1D6          | +0             | +2              |
