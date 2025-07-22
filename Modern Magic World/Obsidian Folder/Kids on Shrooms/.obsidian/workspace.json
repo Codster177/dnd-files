@@ -18,6 +18,78 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Warlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Warlocks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sorcerers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Sorcerers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Warlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Warlocks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Witches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Witches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wizards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Wizards.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":46.152141499031}"
+                },
+                {
+                  "title": "Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Kamihara",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":204},\"to\":{\"line\":59,\"ch\":204}},\"scroll\":49.898905562450636}"
+                },
+                {
+                  "title": "Pasted image 20250704021953",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20250704021953.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20250704021953\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "E-Board Perks",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
@@ -332,12 +404,14 @@
               ]
             },
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250704021953.png"
+                "file": "System Design/E-Board Perks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250704021953"
+              "icon": "lucide-file",
+              "title": "E-Board Perks"
             }
           }
         ]
@@ -648,7 +722,16 @@
   },
   "active": "06dd36bad520a270",
   "lastOpenFiles": [
+    "Lore/Spellcasters/Warlocks.md",
+    "Lore/Spellcasters/Sorcerers.md",
+    "Lore/Spellcasters/Witches.md",
+    "Lore/Spellcasters/Wizards.md",
+    "Lore/Broad History.md",
+    "Lore/Humanity.md",
+    "Lore/Magic.md",
+    "Lore/The Kamihara.md",
     "System Design/E-Board Perks.md",
+    "Pasted image 20250704021953.png",
     "System Design/Injury.md",
     "System Design/Stealth.md",
     "System Design/Strengths and Stupid Points.md",
@@ -668,15 +751,6 @@
     "Session Logs/Session 3.md",
     "Session Logs/Session 2.md",
     "Session Logs/Session 1.md",
-    "Lore/Spellcasters/Witches.md",
-    "People/Teachers/Dr. Charles York.md",
-    "People/Player Characters/Benito Garcia (Mela).md",
-    "Session Logs/Story Leads.md",
-    "People/Teachers/Barbara Turner.md",
-    "People/Teachers/Devon Foster.md",
-    "People/Teachers/Dr. Angela Bennet.md",
-    "People/Teachers/Weylin Whitley.md",
-    "Pasted image 20250704021953.png",
     "Locations/Astarian Cities/Lake Prospect/Nature",
     "People/Spirits",
     "Organizations/Corporations/Tech or Military",
