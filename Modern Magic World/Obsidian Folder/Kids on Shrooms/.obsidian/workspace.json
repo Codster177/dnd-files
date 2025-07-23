@@ -6,6 +6,7 @@
       {
         "id": "32b7f833bb99e9fc",
         "type": "tabs",
+        "dimension": 55.188679245283026,
         "children": [
           {
             "id": "06dd36bad520a270",
@@ -16,6 +17,492 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Space Spirit - Aurorlin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":534},\"to\":{\"line\":35,\"ch\":534}},\"scroll\":10.194661458333334}"
+                },
+                {
+                  "title": "The Great Moth - Sola",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Moth - Sola.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Moth - Sola\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit - Kánt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit - Kánt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mori, the Witch of Life and Death",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mori, the Witch of Life and Death\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Goddess",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Goddess.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goddess\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Rosaline, The Weavesdropper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Rosaline, The Weavesdropper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rosaline, The Weavesdropper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":6.843153741672595}"
+                },
+                {
+                  "title": "Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":138,\"ch\":0},\"to\":{\"line\":104,\"ch\":0}},\"scroll\":92.13685897435897}"
+                },
+                {
+                  "title": "Rosaline, The Weavesdropper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Rosaline, The Weavesdropper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rosaline, The Weavesdropper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cedrela, the Queen Bee Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":135},\"to\":{\"line\":16,\"ch\":135}}}"
+                },
+                {
+                  "title": "Rosaline, The Weavesdropper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Rosaline, The Weavesdropper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Goddess",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Goddess.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goddess\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mori, the Witch of Life and Death",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mori, the Witch of Life and Death\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Space Spirit - Aurorlin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit - Kánt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit - Kánt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mori, the Witch of Life and Death",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mori, the Witch of Life and Death\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Moth - Sola",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Moth - Sola.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Moth - Sola\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Avira",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Avira\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":54},\"to\":{\"line\":0,\"ch\":54}}}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aurorlin, The Space Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Goddess",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Goddess.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goddess\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":3.5315956277084277}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aurorlin, The Space Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":532},\"to\":{\"line\":32,\"ch\":532}},\"scroll\":17.496744791666668}"
+                },
+                {
+                  "title": "The Great Moth - Sola",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Moth - Sola.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sola, The Great Moth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":19.371744791666668}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aurorlin, The Space Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":79},\"to\":{\"line\":32,\"ch\":79}},\"scroll\":6.843153741672595}"
+                },
+                {
+                  "title": "The Strong Goat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Strong Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Strong Goat\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Mountain Serpent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Mountain Serpent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Mountain Serpent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Strong Goat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Strong Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Strong Goat\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Mountain Serpent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Mountain Serpent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Mountain Serpent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit - Kánt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kánt, The Great Knowledge Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aurorlin, The Space Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":139,\"ch\":2},\"to\":{\"line\":104,\"ch\":0}},\"scroll\":100.52799479166667}"
+                },
+                {
+                  "title": "The Mountain Serpent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Mountain Serpent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Mountain Serpent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mori, the Witch of Life and Death",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mori, the Witch of Life and Death\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit - Kánt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kánt, The Great Knowledge Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aurorlin, The Space Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mori, the Witch of Life and Death",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mori, the Witch of Life and Death\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Whale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Whale.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Whale\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Mountain Serpent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Mountain Serpent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Mountain Serpent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit - Kánt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kánt, The Great Knowledge Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aurorlin, The Space Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Tools/Planner.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false]}},\"icon\":\"lucide-trello\",\"title\":\"Planner\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Immigration Agent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/The Immigration Agent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Immigration Agent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Tools/Planner.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false]}},\"icon\":\"lucide-trello\",\"title\":\"Planner\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Whoever Broke into Benito's Room",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Whoever Broke into Benito's Room.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Whoever Broke into Benito's Room\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Tools/Planner.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false]}},\"icon\":\"lucide-trello\",\"title\":\"Planner\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Immigration Agent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/The Immigration Agent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Immigration Agent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":975},\"to\":{\"line\":16,\"ch\":975}},\"scroll\":14.286111111111111}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":15},\"to\":{\"line\":1,\"ch\":15}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.078333333333333}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Tools/Planner.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false]}},\"icon\":\"lucide-trello\",\"title\":\"Planner\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Mountain Serpent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Mountain Serpent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Mountain Serpent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Planner.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Planner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Websites",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Websites.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Websites\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Planner.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Planner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":292},\"to\":{\"line\":14,\"ch\":292}},\"scroll\":10.819444444444445}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":84.34160039761431}"
+                },
+                {
+                  "title": "Cadence Melville",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Marlowe's Family/Cadence Melville.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cadence Melville\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Guilia Melville",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Marlowe's Family/Guilia Melville.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Guilia Melville\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cadence Melville",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Marlowe's Family/Cadence Melville.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cadence Melville\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":1160},\"to\":{\"line\":12,\"ch\":1160}},\"scroll\":10.752777777777778}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Tools/Planner.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false]}},\"icon\":\"lucide-trello\",\"title\":\"Planner\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Organizer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Organizer.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled Kanban\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":3}}}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":104,\"ch\":17},\"to\":{\"line\":104,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":19},\"to\":{\"line\":1,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "Stealth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Strengths and Stupid Points",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Nullcasting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Nullcasting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Nullcasting\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Kamihara",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Kamihara",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Joshua Campbell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Joshua Campbell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Joshua Campbell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":525},\"to\":{\"line\":4,\"ch\":525}}}"
                 },
                 {
                   "title": "Marlowe Melville (Rylee)",
@@ -110,7 +597,7 @@
                 {
                   "title": "Pasted image 20250704021953",
                   "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20250704021953.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20250704021953\"}",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Obsidian Stuff/Images/Pasted image 20250704021953.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20250704021953\"}",
                   "eState": "{}"
                 },
                 {
@@ -234,9 +721,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":95},\"to\":{\"line\":21,\"ch\":95}},\"scroll\":0}"
                 },
                 {
-                  "title": "The Great Goat",
+                  "title": "The Strong Goat",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Goat\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Strong Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Goat\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -246,9 +733,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":58},\"to\":{\"line\":0,\"ch\":58}}}"
                 },
                 {
-                  "title": "The Great Goat",
+                  "title": "The Strong Goat",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goat Giant\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Strong Goat.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goat Giant\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -258,9 +745,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":22.83072821299235}"
                 },
                 {
-                  "title": "The Great Knowledge Spirit",
+                  "title": "The Great Knowledge Spirit - Kánt",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -288,9 +775,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":17},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "The Great Knowledge Spirit",
+                  "title": "The Great Knowledge Spirit - Kánt",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -306,9 +793,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "The Great Knowledge Spirit",
+                  "title": "The Great Knowledge Spirit - Kánt",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -430,12 +917,108 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Logs/Session 3.md",
+                "file": "System Design/E-Board Perks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3"
+              "title": "E-Board Perks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dfe1315ce092cca3",
+        "type": "tabs",
+        "dimension": 44.81132075471698,
+        "children": [
+          {
+            "id": "5cf9a1213a6b2710",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Kids on Brooms",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166#settings\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Kids on Brooms",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166#settings/Personalization\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Kids on Brooms",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166#settings\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Kids on Brooms",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "ChatGPT",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://chatgpt.com/\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "ChatGPT",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://auth.openai.com/log-in\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "Login - OpenAI",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://chatgpt.com/?openaicom_referred=true\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "ChatGPT",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://chatgpt.com/?openaicom-did=210016a9-4411-452d-a2f1-046f37b045d8&openaicom_referred=true\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "ChatGPT",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://openai.com/chatgpt/overview/\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "ChatGPT | OpenAI",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=chatgpt&ia=web\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                },
+                {
+                  "title": "chatgpt at DuckDuckGo",
+                  "icon": "globe-2",
+                  "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=chatgpt\"},\"type\":\"webviewer\"}",
+                  "eState": "null"
+                }
+              ]
+            },
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166",
+                "title": "Kids on Brooms",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Kids on Brooms"
             }
           }
         ]
@@ -531,8 +1114,53 @@
       {
         "id": "672f934041827871",
         "type": "tabs",
-        "dimension": 70.23809523809524,
+        "dimension": 47.30769230769231,
         "children": [
+          {
+            "id": "f3fb2577cee6b48b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.5,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 143,
+                  "scale": 0.7132754626224458,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
           {
             "id": "a28aa098f80ecf7a",
             "type": "leaf",
@@ -589,7 +1217,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Spirits/The Great Whale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -599,7 +1226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Great Whale"
+              "title": "Backlinks"
             }
           },
           {
@@ -617,12 +1244,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Spirits/The Great Whale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Great Whale"
+              "title": "Outgoing links"
             }
           },
           {
@@ -687,13 +1313,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Spirits/The Great Whale.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Great Whale"
+              "title": "Outline"
             }
           }
         ]
@@ -701,7 +1326,7 @@
       {
         "id": "066a0d34f54e1a89",
         "type": "tabs",
-        "dimension": 29.761904761904766,
+        "dimension": 52.69230769230769,
         "children": [
           {
             "id": "7d31e8c9f68e74a1",
@@ -730,8 +1355,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -741,48 +1365,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "06dd36bad520a270",
+  "active": "5cf9a1213a6b2710",
   "lastOpenFiles": [
-    "People/Player Characters/Marlowe Melville (Rylee).md",
-    "Session Logs/Story Leads.md",
     "System Design/E-Board Perks.md",
-    "Lore/Spellcasters/Warlocks.md",
-    "Lore/Spellcasters/Sorcerers.md",
-    "Lore/Spellcasters/Witches.md",
-    "Lore/Spellcasters/Wizards.md",
-    "Lore/Broad History.md",
-    "Lore/Humanity.md",
-    "Lore/Magic.md",
-    "Lore/The Kamihara.md",
-    "Pasted image 20250704021953.png",
-    "System Design/Injury.md",
-    "System Design/Stealth.md",
-    "System Design/Strengths and Stupid Points.md",
-    "System Design/Stats.md",
-    "Organizations/Religions/Ulism.md",
-    "System Design",
-    "Countries/Orochi Nations/Neridora.md",
-    "Countries/Dead Nations/The Grand Aviran Empire.md",
-    "Countries/Country Template.md",
-    "People/Great Spirits and Divinity/The Great Whale.md",
-    "People/Great Spirits and Divinity/The Great Goat.md",
-    "People/Great Spirits and Divinity/The Great Knowledge Spirit.md",
-    "People/Templates.md",
-    "People/Relationships.canvas",
+    "People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md",
+    "People/Great Spirits and Divinity/The Great Moth - Sola.md",
+    "People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md",
     "People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md",
-    "Session Logs/Session 4.md",
+    "People/Great Spirits and Divinity/The Goddess.md",
+    "People/Spirits/Rosaline, The Weavesdropper.md",
+    "People/Templates.md",
+    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
+    "Lore/Avira.md",
+    "Lore/The Great Horrors.md",
+    "People/Great Spirits and Divinity/The Strong Goat.md",
+    "People/Great Spirits and Divinity/The Mountain Serpent.md",
+    "People/Great Spirits and Divinity/The Great Whale.md",
+    "Tools/Planner.md",
+    "Locations/Astarian Cities/Lake Prospect/Lake Prospect.md",
     "Session Logs/Session 3.md",
+    "People/Other Adults/The Immigration Agent.md",
+    "People/Other Adults/Whoever Broke into Benito's Room.md",
+    "People/Other Adults/The Man who found Marlowe.md",
+    "People/Families/Benito's Family",
+    "People/Families/Benito's Family/Apricot (Alvin).md",
+    "Session Logs/Session 4.md",
+    "Session Logs/Session 5.md",
+    "Tools/Websites.md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
+    "People/Families/Marlowe's Family/Cadence Melville.md",
+    "Obsidian Stuff/Images",
+    "Obsidian Stuff",
+    "Images",
+    "Organizations/School Organizations",
+    "Obsidian Stuff/Images/Pasted image 20250704021953.png",
+    "System Design",
+    "People/Relationships.canvas",
     "Locations/Astarian Cities/Lake Prospect/Nature",
     "People/Spirits",
     "Organizations/Corporations/Tech or Military",
-    "Countries/Dead Nations",
-    "Countries/First World Nations/Untitled/Untitled",
-    "Countries/Orochi Nations",
-    "Countries/Regions",
-    "Organizations/Global Organizations",
-    "People/Families/The De Narris Family"
+    "Countries/Dead Nations"
   ]
 }

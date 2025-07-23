@@ -33,11 +33,11 @@
 | Glass Cannon       | When making a magic roll, you can take an injury to ensure the spell is successful. This cannot crit, and cannot be used on stealth rolls.                                                                                                                                                                                                                                  |
 | Experimental Magic | When making a magic roll, you can choose to add a random magic effect with it. You cannot refuse after hearing the effect.                                                                                                                                                                                                                                                  |
 
-| The Deep Magic  | Description                                                                                                |
-| --------------- | ---------------------------------------------------------------------------------------------------------- |
-| Natural Sorcery | When learning new spells, you only need to perform the spell once.                                         |
-| Witch's Coven   | Once per session, two characters can roll the same stat and add their totals together during a stat check. |
-| Spirit's Soul   | Spend 15 Stupid Points to turn a severe injury you or another player has into a moderate injury.           |
+| The Deep Magic  | Description                                                                                                                                                                                      |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Natural Sorcery | When learning new spells, you only need to perform the spell once.                                                                                                                               |
+| Witch's Coven   | Once per session, two characters can roll the same stat and add their totals together during a stat check.                                                                                       |
+| Spirit's Soul   | When you explode your die, you can choose to spend Stupid Points after the roll. The amount of Stupid Points you spend is the amount of rolls that die stays at the last number you exploded to. |
 ## Level 12:
 
 | Party Animals             | Description                                                                                                                                                               |
