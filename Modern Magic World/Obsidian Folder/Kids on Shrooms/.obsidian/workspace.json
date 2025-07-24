@@ -943,6 +943,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Mason De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Mason De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mason De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Howard De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Howard De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Howard De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kids on Brooms",
+                  "icon": "globe-2",
+                  "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166\",\"title\":\"Kids on Brooms\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"Kids on Brooms\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Kids on Brooms",
                   "icon": "globe-2",
                   "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166#settings\"},\"type\":\"webviewer\"}",
@@ -1011,14 +1029,14 @@
               ]
             },
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166",
-                "title": "Kids on Brooms",
-                "mode": "webview"
+                "file": "People/Families/The De Narris Family/Howard De Narris.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Kids on Brooms"
+              "icon": "lucide-file",
+              "title": "Howard De Narris"
             }
           }
         ]
@@ -1131,6 +1149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "People/Families/The De Narris Family/Howard De Narris.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1158,7 +1177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Howard De Narris"
             }
           },
           {
@@ -1365,15 +1384,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "5cf9a1213a6b2710",
   "lastOpenFiles": [
+    "Pasted image 20250723235525.png",
+    "People/Families/The De Narris Family/Mason De Narris.md",
+    "People/Families/The De Narris Family/Howard De Narris.md",
     "System Design/E-Board Perks.md",
     "People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md",
     "People/Great Spirits and Divinity/The Great Moth - Sola.md",
@@ -1398,9 +1418,6 @@
     "People/Families/Benito's Family/Apricot (Alvin).md",
     "Session Logs/Session 4.md",
     "Session Logs/Session 5.md",
-    "Tools/Websites.md",
-    "People/Player Characters/Marlowe Melville (Rylee).md",
-    "People/Families/Marlowe's Family/Cadence Melville.md",
     "Obsidian Stuff/Images",
     "Obsidian Stuff",
     "Images",

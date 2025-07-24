@@ -15,7 +15,8 @@ How old is your character?
 Howard is around 
 
 What is your appearance like? 
-
+Inspiration:
+![[Pasted image 20250723235525.png]]
 
 What is your personality like?
 
