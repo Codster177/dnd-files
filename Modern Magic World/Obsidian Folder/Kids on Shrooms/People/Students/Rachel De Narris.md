@@ -29,7 +29,7 @@ What are your character's goals?
 Ensure she is able to get away with everything she wants and wants as much people as possible to think that she is hot shit. Beyond that, she wants to go to veterinarian school, but is pretty sure that her dad will help her get in. She is not nefarious, but does crave attention
 
 What are your character's fears?
-Not getting what she wants.
+Other people seeing her as flawed. Her loosing her status.
 
 ---
 ## Backstory:
@@ -37,20 +37,19 @@ Not getting what she wants.
 ---
 ## Schedule:
 
-| Schedule   | Period |
-| ---------- | ------ |
-|            | 1      |
-|            | 2      |
-|            | 3      |
-|            | 4      |
-|            | 5      |
-| Study Hall | 6      |
+| Schedule                  | Period |
+| ------------------------- | ------ |
+| [[Advanced Calc 1 - 1,2]] | 1      |
+| [[Advanced Calc 1 - 1,2]] | 2      |
+| Aviran 3                  | 3      |
+| Astaria History           | 4      |
+| [[Dance - 5]]             | 5      |
+| [[Study Hall - 6]]        | 6      |
 
 ---
 ## Rumors:
 There are many rumors about Rachel De Narris, and people can sometimes be afraid to talk about them because Rachel can ruin you if you get on her bad side.
 - Rachel cheated on her ex, [[Benito Garcia (Mela)]].
-- 
 
 ---
 ## Relationships:

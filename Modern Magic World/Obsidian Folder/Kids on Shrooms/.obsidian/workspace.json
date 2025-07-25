@@ -6,7 +6,6 @@
       {
         "id": "32b7f833bb99e9fc",
         "type": "tabs",
-        "dimension": 55.188679245283026,
         "children": [
           {
             "id": "06dd36bad520a270",
@@ -465,7 +464,7 @@
                 {
                   "title": "The Nullcasting",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Nullcasting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Nullcasting\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/The Nullcasting.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Nullcasting\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -561,7 +560,7 @@
                 {
                   "title": "Broad History",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":46.152141499031}"
                 },
                 {
@@ -573,7 +572,7 @@
                 {
                   "title": "Broad History",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -924,14 +923,30 @@
               "icon": "lucide-file",
               "title": "E-Board Perks"
             }
-          }
-        ]
-      },
-      {
-        "id": "dfe1315ce092cca3",
-        "type": "tabs",
-        "dimension": 44.81132075471698,
-        "children": [
+          },
+          {
+            "id": "ec45573ae2d9b41f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/History/Broad History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Broad History"
+            }
+          },
           {
             "id": "5cf9a1213a6b2710",
             "type": "leaf",
@@ -941,6 +956,222 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":61,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":34.736858974358974}"
+                },
+                {
+                  "title": "Study Hall - 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Study Hall - 6.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Study Hall - 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.23853567039648}"
+                },
+                {
+                  "title": "Advanced Environmental Science - 3,4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced Environmental Science - 3,4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Environmental Science - 3,4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Rebecca Kim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rebecca Kim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rebecca Kim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":12.260416666666666}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":33.998046875}"
+                },
+                {
+                  "title": "Advanced Avira History - Fifth Period",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Avira History - Fifth Period.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Avira History - Fifth Period\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "West Paradise High School",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"West Paradise High School\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Advanced Avira History - Fifth Period",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Avira History - Fifth Period.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Avira History - Fifth Period\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":0},\"to\":{\"line\":65,\"ch\":0}},\"scroll\":47.633463541666664}"
+                },
+                {
+                  "title": "Anthony Prince",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Other Students/Anthony Prince.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Anthony Prince\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":32.57275641025641}"
+                },
+                {
+                  "title": "Ian Long (Aaron)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":0},\"to\":{\"line\":53,\"ch\":0}},\"scroll\":38.399088541666664}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":17},\"to\":{\"line\":68,\"ch\":17}},\"scroll\":49.43069659142358}"
+                },
+                {
+                  "title": "Advanced Avira History - Fifth Period",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Avira History - Fifth Period.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Avira History - Fifth Period\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":40.331380208333336}"
+                },
+                {
+                  "title": "Anthony Prince",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Other Students/Anthony Prince.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Anthony Prince\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":96.06905799530674}"
+                },
+                {
+                  "title": "Anthony Prince",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Other Students/Anthony Prince.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Anthony Prince\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":28.996744791666668}"
+                },
+                {
+                  "title": "Session 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":556},\"to\":{\"line\":20,\"ch\":556}},\"scroll\":12.006944444444445}"
+                },
+                {
+                  "title": "Session 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.91304347826087}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Lexi Conner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Lexi Conner.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lexi Conner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":2},\"to\":{\"line\":40,\"ch\":2}},\"scroll\":21.038411458333332}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":154},\"to\":{\"line\":0,\"ch\":154}},\"scroll\":0}"
+                },
+                {
+                  "title": "Howard De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Howard De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Howard De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":228},\"to\":{\"line\":17,\"ch\":228}},\"scroll\":18.421875}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":123},\"to\":{\"line\":19,\"ch\":129}},\"scroll\":7.386068171528361}"
+                },
+                {
+                  "title": "Rosaline, The Weavesdropper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Rosaline, The Weavesdropper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rosaline, The Weavesdropper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Severing War",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/The Severing War.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Severing War\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Celestial Coven",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":193},\"to\":{\"line\":0,\"ch\":193}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Great Moth - Sola",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Moth - Sola.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Moth - Sola\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.361328125}"
+                },
+                {
+                  "title": "The Celestial Coven",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":200},\"to\":{\"line\":0,\"ch\":200}},\"scroll\":0}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":77},\"to\":{\"line\":49,\"ch\":77}},\"scroll\":46.36717351894194}"
+                },
+                {
+                  "title": "The Celestial Coven",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":195},\"to\":{\"line\":0,\"ch\":195}}}"
+                },
+                {
+                  "title": "Planner",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Tools/Planner.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false]}},\"icon\":\"lucide-trello\",\"title\":\"Planner\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Story Leads",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Story Leads.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Story Leads\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":22.4375}"
+                },
+                {
+                  "title": "Howard De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Howard De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Howard De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.166743436204515}"
                 },
                 {
                   "title": "Mason De Narris",
@@ -1031,12 +1262,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Families/The De Narris Family/Howard De Narris.md",
+                "file": "People/Students/Rachel De Narris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Howard De Narris"
+              "title": "Rachel De Narris"
             }
           }
         ]
@@ -1149,7 +1380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People/Families/The De Narris Family/Howard De Narris.md",
+                "file": "System Design/E-Board Perks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1172,12 +1403,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 143,
-                  "scale": 0.7132754626224458,
+                  "scale": 0.7132754626224477,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Howard De Narris"
+              "title": "Graph of E-Board Perks"
             }
           },
           {
@@ -1374,7 +1605,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1389,35 +1620,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5cf9a1213a6b2710",
+  "active": "06dd36bad520a270",
   "lastOpenFiles": [
+    "People/Students/Rachel De Narris.md",
+    "People/Player Characters/Li JiaShen (Nick).md",
+    "Dance - 5.md",
+    "Aviran 2 - 6.md",
+    "Advanced Calc 1 - 1,2.md",
+    "Study Hall - 6.md",
+    "People/Player Characters/Benito Garcia (Mela).md",
+    "Advanced Environmental Science - 3,4.md",
+    "People/Students/Rebecca Kim.md",
+    "Advanced Calc 2 - 1,2.md",
+    "Classes/Advanced Avira History - Fifth Period.md",
+    "Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md",
     "Pasted image 20250723235525.png",
-    "People/Families/The De Narris Family/Mason De Narris.md",
+    "Classes",
+    "People/Player Characters/Caspian Forrest (Kai).md",
+    "People/Students/Other Students/Anthony Prince.md",
+    "People/Player Characters/Ian Long (Aaron).md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
+    "Advanced Avira History.md",
+    "Session Logs/Session 2.md",
+    "Session Logs/Session 3.md",
+    "Session Logs/Session 4.md",
+    "People/Students/Lexi Conner.md",
     "People/Families/The De Narris Family/Howard De Narris.md",
     "System Design/E-Board Perks.md",
-    "People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md",
-    "People/Great Spirits and Divinity/The Great Moth - Sola.md",
-    "People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md",
-    "People/Great Spirits and Divinity/Mori, the Witch of Life and Death.md",
-    "People/Great Spirits and Divinity/The Goddess.md",
+    "Lore/History/Broad History.md",
     "People/Spirits/Rosaline, The Weavesdropper.md",
-    "People/Templates.md",
-    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
-    "Lore/Avira.md",
-    "Lore/The Great Horrors.md",
-    "People/Great Spirits and Divinity/The Strong Goat.md",
-    "People/Great Spirits and Divinity/The Mountain Serpent.md",
-    "People/Great Spirits and Divinity/The Great Whale.md",
-    "Tools/Planner.md",
-    "Locations/Astarian Cities/Lake Prospect/Lake Prospect.md",
-    "Session Logs/Session 3.md",
-    "People/Other Adults/The Immigration Agent.md",
-    "People/Other Adults/Whoever Broke into Benito's Room.md",
-    "People/Other Adults/The Man who found Marlowe.md",
+    "Lore/History/The Severing War.md",
+    "Lore/History",
     "People/Families/Benito's Family",
-    "People/Families/Benito's Family/Apricot (Alvin).md",
-    "Session Logs/Session 4.md",
-    "Session Logs/Session 5.md",
     "Obsidian Stuff/Images",
     "Obsidian Stuff",
     "Images",
@@ -1426,8 +1660,6 @@
     "System Design",
     "People/Relationships.canvas",
     "Locations/Astarian Cities/Lake Prospect/Nature",
-    "People/Spirits",
-    "Organizations/Corporations/Tech or Military",
-    "Countries/Dead Nations"
+    "People/Spirits"
   ]
 }

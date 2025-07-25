@@ -15,8 +15,7 @@ How old is your character?
 Howard is around 
 
 What is your appearance like? 
-Inspiration:
-![[Pasted image 20250723235525.png]]
+Howard has white masculine features. He is tall and lanky, at around 6'9". He has long salt and pepper hair and a stylized goatee. He has sharp features, and looks on the older side, likely early 60s. He has vibrant orange eyes.
 
 What is your personality like?
 

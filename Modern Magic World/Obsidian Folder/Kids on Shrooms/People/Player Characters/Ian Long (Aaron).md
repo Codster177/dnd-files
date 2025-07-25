@@ -43,14 +43,14 @@ He is afraid of being found out as a spirit. He would be fine telling people tha
 ---
 ## Schedule:
 
-| Schedule               | Period |
-| ---------------------- | ------ |
-| Advanced Biology       | 1      |
-| Advanced Biology       | 2      |
-| Algebra 2              | 3      |
-| Ceramics               | 4      |
-| Advanced Avira History | 5      |
-| Aviran 2               | 6      |
+| Schedule                                  | Period |
+| ----------------------------------------- | ------ |
+| Advanced Biology                          | 1      |
+| Advanced Biology                          | 2      |
+| Algebra 2                                 | 3      |
+| Ceramics                                  | 4      |
+| [[Advanced Avira History - Fifth Period]] | 5      |
+| Aviran 2                                  | 6      |
 
 ---
 ## Background:

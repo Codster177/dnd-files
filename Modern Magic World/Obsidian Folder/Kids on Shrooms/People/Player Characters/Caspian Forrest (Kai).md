@@ -55,14 +55,14 @@ On 24th of Second Spring my first grade year, I came home and mom was crying. Da
 ---
 ## Schedule:
 
-| Schedule               | Period |
-| ---------------------- | ------ |
-| Advanced Calculus 1    | 1      |
-| Advanced Calculus 1    | 2      |
-| Advanced Physics 1     | 3      |
-| Advanced Physics 1     | 4      |
-| Advanced Avira History | 5      |
-| Aviran 2               | 6      |
+| Schedule                                  | Period |
+| ----------------------------------------- | ------ |
+| Advanced Calculus 1                       | 1      |
+| Advanced Calculus 1                       | 2      |
+| Advanced Physics 1                        | 3      |
+| Advanced Physics 1                        | 4      |
+| [[Advanced Avira History - Fifth Period]] | 5      |
+| Aviran 2                                  | 6      |
 Tuesday and Thursdays: Mathlete Practice Afterschool
 One Saturday every ~2 months: Mathlete Competition
 

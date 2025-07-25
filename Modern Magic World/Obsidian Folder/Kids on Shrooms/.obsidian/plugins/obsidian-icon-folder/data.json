@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencil",
       "LiFlag",
       "LiMountain",
       "LiAtom",
-      "🪄",
-      "LiHistory"
+      "🪄"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "Obsidian Stuff": "LiFolderLock",
   "Lore": "LiAtom",
   "Locations": "LiMountain",
-  "Countries": "LiFlag"
+  "Countries": "LiFlag",
+  "Classes": "LiPencil"
 }

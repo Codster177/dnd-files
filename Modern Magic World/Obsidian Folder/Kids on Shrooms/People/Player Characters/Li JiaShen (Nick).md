@@ -57,8 +57,8 @@ I don’t know what her appearance will be like near the end since you know its 
 | Advanced Biology | 2      |
 | Algebra 2        | 3      |
 | Photography      | 4      |
-| Dance            | 5      |
-| Aviran 2         | 6      |
+| [[Dance - 5]]    | 5      |
+| [[Aviran 2 - 6]] | 6      |
 
 ---
 ## Backstory:

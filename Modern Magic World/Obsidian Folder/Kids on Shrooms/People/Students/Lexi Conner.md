@@ -34,14 +34,14 @@ What are your character's fears?
 ---
 ## Schedule:
 
-| Schedule | Period |
-| -------- | ------ |
-|          | 1      |
-|          | 2      |
-|          | 3      |
-|          | 4      |
-|          | 5      |
-|          | 6      |
+| Schedule           | Period |
+| ------------------ | ------ |
+| College Aviran 4   | 1      |
+| College Calculus 2 | 2      |
+|                    | 3      |
+|                    | 4      |
+|                    | 5      |
+|                    | 6      |
 
 ---
 ## Rumors:

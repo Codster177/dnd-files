@@ -1,3 +1,4 @@
+The dickhead who made fun of [[Caspian Forrest (Kai)]], [[Marlowe Melville (Rylee)]], and [[Ian Long (Aaron)]] for starting a math club.
 ## Gameplay Mechanics:
 
 | Stats:       | Current Die: |
@@ -34,14 +35,14 @@ What are your character's fears?
 ---
 ## Schedule:
 
-| Schedule | Period |
-| -------- | ------ |
-|          | 1      |
-|          | 2      |
-|          | 3      |
-|          | 4      |
-|          | 5      |
-|          | 6      |
+| Schedule                                  | Period |
+| ----------------------------------------- | ------ |
+|                                           | 1      |
+|                                           | 2      |
+|                                           | 3      |
+|                                           | 4      |
+| [[Advanced Avira History - Fifth Period]] | 5      |
+|                                           | 6      |
 
 ---
 ## Rumors:

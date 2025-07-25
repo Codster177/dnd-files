@@ -10,8 +10,6 @@ Georgia got caught by the HUMI when he tried reaching out to [[The Etheri]] once
 
 The only thing [[The Etheri]] was able to do was convince people in the [[Rane]] government to start a war, with an ally of [[Astaria]] as it would take time away from the project at the corporation Wonder!. The Etheri do not nearly know that this is the tip of the iceberg when it comes to knowledge on magic.  
 
-Things to work on:
-- 
 
 ## [[Benito Garcia (Mela)]]
 If Benito goes back to the park, play the spirit scene:

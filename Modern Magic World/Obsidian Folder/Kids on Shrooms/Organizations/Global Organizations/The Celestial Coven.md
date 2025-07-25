@@ -1,0 +1,1 @@
+The Celestial Coven was a coven of witches that oversaw strong aspects of the world. This coven was one of the forces leading the charge against [[The Grand Aviran Empire]] during [[The Severing War]]

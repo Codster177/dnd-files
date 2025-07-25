@@ -39,14 +39,14 @@ To be abandoned
 ---
 ## Schedule:
 
-| Schedule                       | Period |
-| ------------------------------ | ------ |
-| Advanced Calc 2                | 1      |
-| Advanced Calc 2                | 2      |
-| Advanced Environmental Science | 3      |
-| Advanced Environmental Science | 4      |
-| Advanced Cultural Studies      | 5      |
-| Study Advisement               | 6      |
+| Schedule                                 | Period |
+| ---------------------------------------- | ------ |
+| [[Advanced Calc 2 - 1,2]]                | 1      |
+| [[Advanced Calc 2 - 1,2]]                | 2      |
+| [[Advanced Environmental Science - 3,4]] | 3      |
+| [[Advanced Environmental Science - 3,4]] | 4      |
+| Advanced Cultural Studies                | 5      |
+| [[Study Hall - 6\|Study Advisement]]     | 6      |
 SGA Meets on Tuesdays and Thursdays after school. 
 Soccer meets every day after school at 6-7:30.
 

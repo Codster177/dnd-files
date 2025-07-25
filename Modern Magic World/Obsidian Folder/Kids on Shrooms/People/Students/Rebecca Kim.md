@@ -22,14 +22,14 @@ What are your character's fears?
 ---
 ## Schedule:
 
-| Schedule | Period |
-| -------- | ------ |
-|          | 1      |
-|          | 2      |
-|          | 3      |
-|          | 4      |
-|          | 5      |
-|          | 6      |
+| Schedule                                 | Period |
+| ---------------------------------------- | ------ |
+|                                          | 1      |
+|                                          | 2      |
+| [[Advanced Environmental Science - 3,4]] | 3      |
+| [[Advanced Environmental Science - 3,4]] | 4      |
+|                                          | 5      |
+|                                          | 6      |
 
 ---
 ## Rumors:
