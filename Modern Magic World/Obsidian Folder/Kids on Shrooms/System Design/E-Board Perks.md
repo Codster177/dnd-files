@@ -1,17 +1,17 @@
  These are abilities that are unlocked by each character reaching a minimum level of that die. For example, once every character has at least one dice that is a D8, they can purchase the level 8 perks. Each perk is 15 stupid points and each perk set is 30 stupid points. Once one is purchased it is unlocked for the entire party.
 ## Level 6:
 
-| Tactical Meeting (Once Per Session) | Description                                                                                                                                            |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Changing Roles                      | If you are in the same scene as another player making a check, you can roll their check instead.                                                       |
-| Quick Lookup                        | When making an Intelligence Check, explain how you use your phone to help you and gain a +5 on the roll.                                               |
-| Circling Back                       | When rolling a nat 1, you can gain Stupid Points equal to the type of dice you rolled. For example, if you rolled 1d6, you would gain 6 stupid points. |
+| Tactical Meeting (Once Per Session)    | Description                                                                                                                                            |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Changing Roles                         | If you are in the same scene as another player making a check, you can roll their check instead.                                                       |
+| Quick Lookup                           | When making an Intelligence Check, explain how you use your phone to help you and gain a +5 on the roll.                                               |
+| \|\|Circling Back\|\|<br><br>Unlocked! | When rolling a nat 1, you can gain Stupid Points equal to the type of dice you rolled. For example, if you rolled 1d6, you would gain 6 stupid points. |
 
-| Hitting the Court          | Description                                                                                          |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Work This Out              | If you exit a confrontation with only a light injury, you can spend a Stupid Point to get rid of it. |
-| We're All In This Together | When in the same scene as someone, you can freely lend Stupid Points to them.                        |
-| Get'cha Head In The Game   | When you and one or more other characters are following a plan, gain +2 to Charisma rolls.           |
+| Hitting the Court                                   | Description                                                                                          |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Work This Out                                       | If you exit a confrontation with only a light injury, you can spend a Stupid Point to get rid of it. |
+| \|\|We're All In This Together\|\|<br><br>Unlocked! | When in the same scene as someone, you can freely lend Stupid Points to them.                        |
+| Get'cha Head In The Game                            | When you and one or more other characters are following a plan, gain +2 to Charisma rolls.           |
 ## Level 8:
 
 | Failing the Exam         | Description                                                                       |
@@ -24,7 +24,7 @@
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Go Out Swinging      | While injured, spend 2 Stupid Points to gain advantage on a roll.                                                                                              |
 | Taking the Blame     | You can choose to take an injury instead of someone else you are in a scene with that has a Moderate Injury. You then gain 3 Stupid Points.                    |
-| Apes Strong Together | Once per session, when a character fails a Constitution check that would result in their death, every character in the scene can instead take a Severe Injury. |
+| Apes Together Strong | Once per session, when a character fails a Constitution check that would result in their death, every character in the scene can instead take a Severe Injury. |
 ## Level 10:
 
 | The Wizarding Arts | Description                                                                                                                                                                                                                                                                                                                                                                 |
