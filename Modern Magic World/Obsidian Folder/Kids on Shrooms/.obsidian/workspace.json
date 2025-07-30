@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Cedrela, the Queen Bee Spirit",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
@@ -982,12 +988,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/E-Board Perks.md",
+                "file": "Classes/Advanced Avira History - Fifth Period.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E-Board Perks"
+              "title": "Advanced Avira History - Fifth Period"
             }
           },
           {
@@ -1038,7 +1044,7 @@
                 {
                   "title": "Study Hall - 6",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Study Hall - 6.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Study Hall - 6\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Study Hall - 6.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Study Hall - 6\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -1050,7 +1056,7 @@
                 {
                   "title": "Advanced Environmental Science - 3,4",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Advanced Environmental Science - 3,4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Environmental Science - 3,4\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Environmental Science - 3,4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Environmental Science - 3,4\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -1446,7 +1452,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "System Design/E-Board Perks.md",
+                "file": "Classes/Advanced Avira History - Fifth Period.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1474,7 +1480,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of E-Board Perks"
+              "title": "Graph of Advanced Avira History - Fifth Period"
             }
           },
           {
@@ -1686,27 +1692,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "06dd36bad520a270",
+  "active": "64ae6053fec70fa3",
   "lastOpenFiles": [
+    "System Design/E-Board Perks.md",
     "People/Spirits/Cedrela, the Queen Bee Spirit.md",
     "People/Player Characters/Marlowe Melville (Rylee).md",
     "People/Families/Marlowe's Family/Vincenzo (Vince) Melville.md",
     "Session Logs/Session 3.md",
     "Countries/Orochi Nations/Neridora.md",
-    "System Design/E-Board Perks.md",
     "System Design/Injury.md",
     "Session Logs/Story Leads.md",
     "Classes/desktop.ini",
     "People/Students/Rachel De Narris.md",
     "People/Player Characters/Li JiaShen (Nick).md",
-    "Dance - 5.md",
-    "Aviran 2 - 6.md",
-    "Advanced Calc 1 - 1,2.md",
-    "Study Hall - 6.md",
+    "Classes/Dance - 5.md",
+    "Classes/Aviran 2 - 6.md",
+    "Classes/Advanced Calc 1 - 1,2.md",
+    "Classes/Study Hall - 6.md",
     "People/Player Characters/Benito Garcia (Mela).md",
-    "Advanced Environmental Science - 3,4.md",
+    "Classes/Advanced Environmental Science - 3,4.md",
     "People/Students/Rebecca Kim.md",
-    "Advanced Calc 2 - 1,2.md",
+    "Classes/Advanced Calc 2 - 1,2.md",
     "Classes/Advanced Avira History - Fifth Period.md",
     "Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md",
     "Pasted image 20250723235525.png",
