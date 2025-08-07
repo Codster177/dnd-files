@@ -18,6 +18,132 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Wonder! Aerospace and Defense",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Corporations/Tech or Military/Wonder! Aerospace and Defense.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wonder! Aerospace and Defense\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Doorman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit - Kánt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit - Kánt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Doorman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Goddess",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Goddess.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goddess\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Doorman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":53},\"to\":{\"line\":0,\"ch\":53}}}"
+                },
+                {
+                  "title": "The Goddess",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Goddess.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goddess\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":256},\"to\":{\"line\":0,\"ch\":256}}}"
+                },
+                {
+                  "title": "The Doorman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Great Knowledge Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Great Knowledge Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Knowledge Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":17},\"to\":{\"line\":33,\"ch\":17}},\"scroll\":4.379470926848199}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Goddess",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Goddess.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Goddess\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":89},\"to\":{\"line\":0,\"ch\":89}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Doorman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":17},\"to\":{\"line\":33,\"ch\":17}},\"scroll\":0}"
+                },
+                {
+                  "title": "Templates",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Templates.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Templates\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":137,\"ch\":17},\"to\":{\"line\":104,\"ch\":0}},\"scroll\":94.69583333333334}"
+                },
+                {
+                  "title": "The Doorman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Space Spirit - Aurorlin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Space Spirit - Aurorlin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":358},\"to\":{\"line\":20,\"ch\":358}},\"scroll\":6.843153741672595}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":16},\"to\":{\"line\":77,\"ch\":16}},\"scroll\":65.90104166666667}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Advanced Avira History - Fifth Period",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Avira History - Fifth Period.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Avira History - Fifth Period\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "E-Board Perks",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
@@ -988,12 +1114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Advanced Avira History - Fifth Period.md",
+                "file": "Lore/The Great Horrors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Avira History - Fifth Period"
+              "title": "The Great Horrors"
             }
           },
           {
@@ -1452,7 +1578,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Classes/Advanced Avira History - Fifth Period.md",
+                "file": "Lore/The Great Horrors.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1480,7 +1606,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Advanced Avira History - Fifth Period"
+              "title": "Graph of The Great Horrors"
             }
           },
           {
@@ -1677,7 +1803,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 565.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1694,9 +1820,21 @@
   },
   "active": "64ae6053fec70fa3",
   "lastOpenFiles": [
+    "Organizations/Corporations/Tech or Military/Wonder! Aerospace and Defense.md",
+    "People/Great Spirits and Divinity/The Doorman.md",
+    "People/Great Spirits and Divinity/The Great Knowledge Spirit - Kánt.md",
+    "People/Great Spirits and Divinity/The Goddess.md",
+    "The Great Knowledge Spirit.md",
+    "Lore/History/Broad History.md",
+    "People/Templates.md",
+    "People/Great Spirits and Divinity/The Space Spirit - Aurorlin.md",
+    "People/Player Characters/Caspian Forrest (Kai).md",
+    "People/Player Characters/Li JiaShen (Nick).md",
+    "People/Player Characters/Benito Garcia (Mela).md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
+    "Classes/Advanced Avira History - Fifth Period.md",
     "System Design/E-Board Perks.md",
     "People/Spirits/Cedrela, the Queen Bee Spirit.md",
-    "People/Player Characters/Marlowe Melville (Rylee).md",
     "People/Families/Marlowe's Family/Vincenzo (Vince) Melville.md",
     "Session Logs/Session 3.md",
     "Countries/Orochi Nations/Neridora.md",
@@ -1704,25 +1842,13 @@
     "Session Logs/Story Leads.md",
     "Classes/desktop.ini",
     "People/Students/Rachel De Narris.md",
-    "People/Player Characters/Li JiaShen (Nick).md",
     "Classes/Dance - 5.md",
     "Classes/Aviran 2 - 6.md",
     "Classes/Advanced Calc 1 - 1,2.md",
     "Classes/Study Hall - 6.md",
-    "People/Player Characters/Benito Garcia (Mela).md",
     "Classes/Advanced Environmental Science - 3,4.md",
-    "People/Students/Rebecca Kim.md",
-    "Classes/Advanced Calc 2 - 1,2.md",
-    "Classes/Advanced Avira History - Fifth Period.md",
-    "Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md",
     "Pasted image 20250723235525.png",
     "Classes",
-    "People/Player Characters/Caspian Forrest (Kai).md",
-    "People/Students/Other Students/Anthony Prince.md",
-    "People/Player Characters/Ian Long (Aaron).md",
-    "Advanced Avira History.md",
-    "Session Logs/Session 2.md",
-    "Session Logs/Session 4.md",
     "Lore/History",
     "People/Families/Benito's Family",
     "Obsidian Stuff/Images",

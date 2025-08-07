@@ -18,7 +18,7 @@ How old is your character?
 
 
 What is your appearance like?
-Aurorlin's appearance is that of an endless dark Manta Ray with no stinger or mouth. Many cultures believe that it is impossible to see Aurorlin's face, as they is endless as is the night sky. Few have claimed to spot their face leading the twilight into the night. It is said that those who spot Aurorlin's face get a wish to spend on their wildest dreams.
+Aurorlin's appearance is that of an endless dark Manta Ray with no stinger or mouth. Many cultures believe that it is impossible to see Aurorlin's face, as they are endless as is the night sky. Few have claimed to spot their face leading the twilight into the night. It is said that those who spot Aurorlin's face get a wish to spend on their wildest dreams.
 
 What is your personality like?
 
