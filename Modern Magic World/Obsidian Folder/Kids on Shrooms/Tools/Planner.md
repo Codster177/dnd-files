@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Session 4]]
 - [ ] Benito's Witch Politics
-	- [[Whoever Broke into Benito's Room]]
+	- [[Fulan (Familiar)]]
 	- Enemies of [[The Celestial Coven]].
 - [ ] Astarian Controversy
 	- [[The Immigration Agent]]

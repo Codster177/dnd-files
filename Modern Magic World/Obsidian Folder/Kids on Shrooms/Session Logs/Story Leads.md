@@ -20,6 +20,8 @@ If Benito goes back to the park, play the spirit scene:
 
 Benito's story will involve the unfinished business of [[Hazel Eyes]]
 
+The person who broke into Benito's window is [[Sabine Yew]], the Witch of the Draining Rot, and Hazel Eyes youngest daughter.
+
 
 
 ## [[Li JiaShen (Nick)]]

@@ -19,6 +19,7 @@ What are your character's fears?
 ---
 ## Backstory:
 
+
 ---
 ## Rumors:
 ---
