@@ -1,4 +1,4 @@
- These are abilities that are unlocked by each character reaching a minimum level of that die. For example, once every character has at least one dice that is a D8, they can purchase the level 8 perks. Each perk is 15 stupid points and each perk set is 30 stupid points. Once one is purchased it is unlocked for the entire party.
+ These are abilities that are unlocked by 3 characters reaching a minimum level of that die. For example, once 3 characters have at least one dice that is a D8, they can purchase the level 8 perks. Each perk is 15 stupid points and each perk set is 30 stupid points. Once one is purchased it is unlocked for the entire party.
 ## Level 6:
 
 | Tactical Meeting (Once Per Session)    | Description                                                                                                                                            |
