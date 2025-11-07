@@ -4,7 +4,7 @@
 | Tactical Meeting (Once Per Session)    | Description                                                                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Changing Roles                         | If you are in the same scene as another player making a check, you can roll their check instead.                                                       |
-| Quick Lookup                           | When making an Intelligence Check, explain how you use your phone to help you and gain a +5 on the roll.                                               |
+| \|\|Quick Lookup\|\|<br><br>Unlocked!  | When making an Intelligence Check, explain how you use your phone to help you and gain a +5 on the roll.                                               |
 | \|\|Circling Back\|\|<br><br>Unlocked! | When rolling a nat 1, you can gain Stupid Points equal to the type of dice you rolled. For example, if you rolled 1d6, you would gain 6 stupid points. |
 
 | Hitting the Court                                   | Description                                                                                          |
