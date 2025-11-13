@@ -28,6 +28,7 @@ We are calling Adversity Tokens "Stupid Points". They can be used to boost a die
 | Unassuming          | Once per session, you can spend 2 AT to not be seen. (GM's Discretion)                                                                                                                                                                                                                  |
 | Wild                | You can spend 1 AT to communicate with an animal.                                                                                                                                                                                                                                       |
 ## Special Strengths:
+These are strengths that I will assign throughout the story depending on situations. There will be more added.
 
 | Strength:    | Description:                                                                                  |
 | ------------ | --------------------------------------------------------------------------------------------- |

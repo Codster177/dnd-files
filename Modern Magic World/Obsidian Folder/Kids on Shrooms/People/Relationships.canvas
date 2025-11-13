@@ -2,10 +2,8 @@
 	"nodes":[
 		{"id":"f2615df9aebac926","type":"file","file":"People/Player Characters/Marlowe Melville (Rylee).md","x":-920,"y":-1800,"width":400,"height":400},
 		{"id":"fd8b959a6c63b461","type":"file","file":"People/Player Characters/Caspian Forrest (Kai).md","x":-920,"y":-200,"width":400,"height":400},
-		{"id":"0a1a36caadc76159","type":"text","text":"Friends","x":-845,"y":-830,"width":250,"height":60,"color":"3"},
 		{"id":"2fdcf13f8b0adf36","type":"file","file":"People/Player Characters/Benito Garcia (Mela).md","x":-120,"y":-1800,"width":400,"height":400},
 		{"id":"3c4a143f258e36fa","type":"text","text":"Family","x":440,"y":-1630,"width":250,"height":60,"color":"5"},
-		{"id":"e5068861983b96d1","type":"text","text":"Friends","x":-45,"y":-830,"width":250,"height":60,"color":"3"},
 		{"id":"4587f9a852df453d","type":"file","file":"People/Families/Caspian's Family/Jessica May.md","x":-1880,"y":-200,"width":400,"height":400},
 		{"id":"779b621f521f47d6","type":"text","text":"Family","x":-1280,"y":-30,"width":250,"height":60,"color":"5"},
 		{"id":"d6a3a83c94246458","type":"file","file":"People/Player Characters/Li JiaShen (Nick).md","x":-120,"y":-200,"width":400,"height":400},
@@ -21,13 +19,11 @@
 		{"id":"86537f149236a991","type":"text","text":"Family","x":-1320,"y":-1630,"width":250,"height":60,"color":"5"},
 		{"id":"9d78f976a0cc32f2","type":"file","file":"People/Families/Marlowe's Family/Guilia Melville.md","x":-1880,"y":-2240,"width":400,"height":400},
 		{"id":"cebb0831dd2d8bde","type":"file","file":"People/Families/Marlowe's Family/Cadence Melville.md","x":-1880,"y":-2680,"width":400,"height":400},
-		{"id":"f9219190798a8cc5","type":"text","text":"???","x":-460,"y":-830,"width":250,"height":60},
 		{"id":"0a21a0490a232556","type":"file","file":"People/Families/Benito's Family/Hido Garcia.md","x":1006,"y":-2240,"width":400,"height":400},
 		{"id":"d019657623a20ddd","type":"file","file":"People/Families/Benito's Family/Alisandra Garcia.md","x":1006,"y":-2680,"width":400,"height":400},
 		{"id":"2a1c140325b68b80","type":"file","file":"People/Families/Benito's Family/Elio Garcia.md","x":1006,"y":-1800,"width":400,"height":400},
 		{"id":"81a80a48b67698d3","type":"file","file":"People/Families/Benito's Family/Luis Garcia.md","x":1006,"y":-1360,"width":400,"height":400},
 		{"id":"4a809c13dd76a450","type":"file","file":"People/Families/Benito's Family/Sierra Garcia.md","x":1006,"y":-920,"width":400,"height":400},
-		{"id":"561cbdc9d23ae350","type":"text","text":"Other Social Connections ([[Caspian Forrest (Kai)]])","x":-845,"y":1400,"width":250,"height":60,"color":"4"},
 		{"id":"23268f9925e7b1e8","type":"text","text":"Other Social Connections ([[Li JiaShen (Nick)]])","x":-35,"y":1400,"width":250,"height":60,"color":"4"},
 		{"id":"aa59dfbcd2becae6","type":"text","text":"Friends","x":-845,"y":1720,"width":250,"height":60,"color":"5"},
 		{"id":"e9bba49608dec6d1","type":"text","text":"Other Social Connections ([[Marlowe Melville (Rylee)]])","x":-2405,"y":1400,"width":250,"height":60,"color":"4"},
@@ -39,7 +35,9 @@
 		{"id":"f981e6d0f2818373","type":"text","text":"Friends\n","x":-35,"y":1720,"width":250,"height":60,"color":"5"},
 		{"id":"06d83d7366d84aaf","type":"text","text":"Other Social Relationships ([[Benito Garcia (Mela)]])","x":1406,"y":1400,"width":250,"height":60,"color":"4"},
 		{"id":"40d6a2e715e9351d","type":"text","text":"Friends","x":1406,"y":1720,"width":250,"height":60,"color":"5"},
-		{"id":"297cca0b11baf449","type":"file","file":"People/Students/Rebecca Kim.md","x":1331,"y":1940,"width":400,"height":400}
+		{"id":"297cca0b11baf449","type":"file","file":"People/Students/Rebecca Kim.md","x":1331,"y":1940,"width":400,"height":400},
+		{"id":"561cbdc9d23ae350","type":"text","text":"Other Social Connections ([[Caspian Forrest (Kai)]])","x":-845,"y":1400,"width":250,"height":60,"color":"4"},
+		{"id":"0a1a36caadc76159","type":"text","text":"Friends","x":-440,"y":-830,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"f258970b45550ba6","fromNode":"d6a3a83c94246458","fromSide":"right","toNode":"ad3fd679e635246c","toSide":"left","color":"5"},
@@ -48,8 +46,6 @@
 		{"id":"4cb7c989763e0f17","fromNode":"f2615df9aebac926","fromSide":"bottom","toNode":"0a1a36caadc76159","toSide":"top","color":"3"},
 		{"id":"6489e5a8386518c4","fromNode":"fd8b959a6c63b461","fromSide":"top","toNode":"0a1a36caadc76159","toSide":"bottom","color":"3"},
 		{"id":"cd7f695cc26e42ce","fromNode":"858b810974f58ab5","fromSide":"right","toNode":"0a1a36caadc76159","toSide":"left","color":"3"},
-		{"id":"783f85a97ac7cad1","fromNode":"d6a3a83c94246458","fromSide":"top","toNode":"e5068861983b96d1","toSide":"bottom","color":"3"},
-		{"id":"9bccd4a1b5d24dbe","fromNode":"2fdcf13f8b0adf36","fromSide":"bottom","toNode":"e5068861983b96d1","toSide":"top","color":"3"},
 		{"id":"6e53b70ab6c427c1","fromNode":"d6a3a83c94246458","fromSide":"left","toNode":"fd8b959a6c63b461","toSide":"right","color":"1","label":"Bullies"},
 		{"id":"423e77eba510966c","fromNode":"ad3fd679e635246c","fromSide":"right","toNode":"048cbccec3f6579e","toSide":"left","color":"5","label":"Grandfather"},
 		{"id":"05df468c543173cf","fromNode":"a56cd70cd3a13cb0","fromSide":"top","toNode":"048cbccec3f6579e","toSide":"bottom","color":"5","label":"Father"},
@@ -65,8 +61,6 @@
 		{"id":"0caa0f31adae5883","fromNode":"86537f149236a991","fromSide":"left","toNode":"24cf8465b1038d29","toSide":"right","color":"5"},
 		{"id":"f8dba704a69f0c14","fromNode":"86537f149236a991","fromSide":"left","toNode":"9d78f976a0cc32f2","toSide":"right","color":"5"},
 		{"id":"f2093e7022e660fb","fromNode":"86537f149236a991","fromSide":"left","toNode":"cebb0831dd2d8bde","toSide":"right","color":"5"},
-		{"id":"4d27455c656275b0","fromNode":"0a1a36caadc76159","fromSide":"right","toNode":"f9219190798a8cc5","toSide":"left"},
-		{"id":"d40471ee6e2031f5","fromNode":"e5068861983b96d1","fromSide":"left","toNode":"f9219190798a8cc5","toSide":"right"},
 		{"id":"936daaee04a3dae7","fromNode":"3c4a143f258e36fa","fromSide":"right","toNode":"2a1c140325b68b80","toSide":"left","color":"5","label":"Brother"},
 		{"id":"b12f60a9d5b45bd3","fromNode":"3c4a143f258e36fa","fromSide":"right","toNode":"81a80a48b67698d3","toSide":"left","color":"5","label":"Brother"},
 		{"id":"291f4b2983c61f11","fromNode":"3c4a143f258e36fa","fromSide":"right","toNode":"4a809c13dd76a450","toSide":"left","color":"5","label":"Sister"},
@@ -83,6 +77,8 @@
 		{"id":"72066f23939fe724","fromNode":"aa59dfbcd2becae6","fromSide":"bottom","toNode":"60929f13704caa1a","toSide":"top","color":"5","label":"Acquaintance"},
 		{"id":"90244df8a329c716","fromNode":"40d6a2e715e9351d","fromSide":"bottom","toNode":"297cca0b11baf449","toSide":"top","color":"5","label":"Friend"},
 		{"id":"04bef24d16da77e3","fromNode":"06d83d7366d84aaf","fromSide":"bottom","toNode":"40d6a2e715e9351d","toSide":"top","color":"5"},
-		{"id":"0c7f907503b14823","fromNode":"23268f9925e7b1e8","fromSide":"bottom","toNode":"f981e6d0f2818373","toSide":"top","color":"5"}
+		{"id":"0c7f907503b14823","fromNode":"23268f9925e7b1e8","fromSide":"bottom","toNode":"f981e6d0f2818373","toSide":"top","color":"5"},
+		{"id":"766c690fd1a9b4fa","fromNode":"2fdcf13f8b0adf36","fromSide":"bottom","toNode":"0a1a36caadc76159","toSide":"top","color":"3"},
+		{"id":"fdd38f1c311b25aa","fromNode":"d6a3a83c94246458","fromSide":"top","toNode":"0a1a36caadc76159","toSide":"bottom","color":"3"}
 	]
 }

@@ -25,7 +25,7 @@ What year is your character?
 Senior 
 
 What is your appearance like? 
-// 
+6'3" Hispanic boy 
 
 What kind of cliques or clichés would your character be a part of? 
 Jocks/ Popular 
