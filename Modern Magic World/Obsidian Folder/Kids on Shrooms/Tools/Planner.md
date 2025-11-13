@@ -12,7 +12,7 @@ kanban-plugin: board
 	- Enemies of [[The Celestial Coven]].
 - [ ] Astarian Controversy
 	- [[The Immigration Agent]]
-	- [[The Man who found Marlowe]]
+	- [[Kingston Lang]]
 	- More information about non-wizard Astarian Government magic users.
 - [ ] Threads
 	- Magic: Individuals, Small Rebellious Groups, Government People, and Spirits in [[Lake Prospect]]

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4c4c34b49ded55c6",
+    "id": "b9a6e1e4e81eb98e",
     "type": "split",
     "children": [
       {
-        "id": "32b7f833bb99e9fc",
+        "id": "54744e170ebb1010",
         "type": "tabs",
         "children": [
           {
-            "id": "f492220aa625d406",
+            "id": "08179be9021c0636",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,589 +18,31 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Scholars of Avira",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/Scholars of Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scholars of Avira\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Orochi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":31},\"to\":{\"line\":2,\"ch\":31}},\"scroll\":0}"
-                },
-                {
-                  "title": "Astaria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Astaria.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Astaria\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":25.079427083333332}"
-                },
-                {
-                  "title": "Avira",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Avira\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Humanity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Humanity\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Broad History",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":54.79658878838914}"
-                },
-                {
-                  "title": "Era 6 - The Modern Age",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 6 - The Modern Age.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 6 - The Modern Age\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Broad History",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Mountain Serpent",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Mountain Serpent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Mountain Serpent\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Astaria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Astaria.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Astaria\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.015625}"
-                },
-                {
-                  "title": "The Grand Aviran Empire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Dead Nations/The Grand Aviran Empire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Grand Aviran Empire\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Orochi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Palicia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Palicia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Palicia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Orochi",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Neridora",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Neridora.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Neridora\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Country Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Country Template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Country Template\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Rane",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Rane.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rane\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Jiā",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Jiā.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jiā\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Astaria",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Astaria.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Astaria\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":46.404459635416664}"
-                },
-                {
-                  "title": "The Celestial Coven",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Etheri",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Etheri.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Etheri\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Celestial Coven",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Scholars of Avira",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/Scholars of Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scholars of Avira\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Developed International Concord",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/Developed International Concord.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Developed International Concord\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Wonder! Aerospace and Defense",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Corporations/Tech or Military/Wonder! Aerospace and Defense.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wonder! Aerospace and Defense\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Kamihara",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Great Horrors",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Great Horrors.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Horrors\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The Kamihara",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Kamihara.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Kamihara\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Magic",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Avira",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Avira\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Humanity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Humanity\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Broad History",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.74709805107665}"
-                },
-                {
-                  "title": "E-Board Perks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Strengths and Stupid Points",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stealth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stats",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Injury",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "E-Board Perks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Injury",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stealth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Strengths and Stupid Points",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":110},\"to\":{\"line\":30,\"ch\":110}},\"scroll\":0}"
-                },
-                {
-                  "title": "Stealth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stats",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Injury",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stealth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "E-Board Perks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.7326007326007326}"
-                },
-                {
-                  "title": "Stats",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stealth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Strengths and Stupid Points",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stealth",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stats",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Injury",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Stats",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Injury",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Injury.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Injury\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "E-Board Perks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Benito Garcia (Mela)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Li JiaShen (Nick)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Jace Shotwell",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Jace Shotwell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jace Shotwell\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Rachel De Narris",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Apricot (Alvin)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Apricot (Alvin).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Apricot (Alvin)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elio Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Elio Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elio Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Apricot (Alvin)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Apricot (Alvin).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Apricot (Alvin)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Alisandra Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Alisandra Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alisandra Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":38},\"to\":{\"line\":0,\"ch\":38}}}"
-                },
-                {
-                  "title": "Luis Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Luis Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Luis Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
                   "title": "Hido Garcia",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Hido Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hido Garcia\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Elio Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Elio Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elio Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":67},\"to\":{\"line\":0,\"ch\":67}}}"
-                },
-                {
-                  "title": "Hido Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Hido Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hido Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":41},\"to\":{\"line\":0,\"ch\":41}}}"
-                },
-                {
-                  "title": "Luis Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Luis Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Luis Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":107},\"to\":{\"line\":0,\"ch\":107}}}"
-                },
-                {
-                  "title": "Sierra Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Sierra Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sierra Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":80},\"to\":{\"line\":0,\"ch\":80}}}"
-                },
-                {
-                  "title": "Luis Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Luis Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Luis Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":57},\"to\":{\"line\":0,\"ch\":57}}}"
-                },
-                {
-                  "title": "Hido Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Hido Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hido Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elio Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Elio Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elio Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Apricot (Alvin)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Apricot (Alvin).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Apricot (Alvin)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elio Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Elio Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elio Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":42},\"to\":{\"line\":0,\"ch\":42}}}"
-                },
-                {
-                  "title": "Luis Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Luis Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Luis Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hido Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Hido Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hido Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elio Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Elio Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elio Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hido Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Hido Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hido Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":15},\"to\":{\"line\":0,\"ch\":15}}}"
-                },
-                {
-                  "title": "Alisandra Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Alisandra Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Alisandra Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
-                },
-                {
-                  "title": "Luis Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Luis Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Luis Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Elio Garcia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Elio Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Elio Garcia\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Vincenzo (Vince) Melville",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Marlowe's Family/Vincenzo (Vince) Melville.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vincenzo (Vince) Melville\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":17},\"to\":{\"line\":25,\"ch\":17}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Religions/The Church of Abeus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Church of Abeus"
-            }
-          },
-          {
-            "id": "abec4879b97207f6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Isabella Renner",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Isabella Renner.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Isabella Renner\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Ian Long (Aaron)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":12},\"to\":{\"line\":74,\"ch\":12}},\"scroll\":70.59482210927573}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Player Characters/Marlowe Melville (Rylee).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marlowe Melville (Rylee)"
-            }
-          },
-          {
-            "id": "3ddced9f84eb171a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
+                  "title": "Release Notes 1.10.3",
+                  "icon": "lucide-book-up",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.10.3\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.10.3\"}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "People/Player Characters/Caspian Forrest (Kai).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caspian Forrest (Kai)"
-            }
-          },
-          {
-            "id": "7b7559552e71699e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                "file": "People/Relationships.canvas",
+                "viewState": {
+                  "x": -474.5,
+                  "y": 43.34255192878294,
+                  "zoom": -3.0343703914062106
                 }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Player Characters/Li JiaShen (Nick).md",
-                "mode": "source",
-                "source": false
               },
-              "icon": "lucide-file",
-              "title": "Li JiaShen (Nick)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Relationships"
             }
           }
         ]
@@ -609,15 +51,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a1d5a2f2db27691",
+    "id": "3562b43e45c3e601",
     "type": "split",
     "children": [
       {
-        "id": "e655fb544adda770",
+        "id": "4b04f0b2e49f8223",
         "type": "tabs",
         "children": [
           {
-            "id": "64ae6053fec70fa3",
+            "id": "7f8b662e335ac4ab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -639,7 +81,7 @@
             }
           },
           {
-            "id": "64c78c37b3694ff8",
+            "id": "c90c7722501aba94",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -665,7 +107,7 @@
             }
           },
           {
-            "id": "659268b365aff7b1",
+            "id": "eb0e4c852e53593a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -687,106 +129,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "c056fbcf08f2a7a9",
+    "id": "82e5305b6257e76f",
     "type": "split",
     "children": [
       {
-        "id": "672f934041827871",
+        "id": "7ba290c724731ef8",
         "type": "tabs",
-        "dimension": 69.64285714285714,
         "children": [
           {
-            "id": "f3fb2577cee6b48b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Lore/History/Era 4 - The Age of Discovery.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.5,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 143,
-                  "scale": 0.3628873693012163,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Era 4 - The Age of Discovery"
-            }
-          },
-          {
-            "id": "a28aa098f80ecf7a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_780b39ca6b79",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 5,
-                    "month": 2,
-                    "year": 1621
-                  },
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 5,
-                    "month": 0,
-                    "year": 1621
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": false,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_8a784948c8cb",
-                "child": "ID_9b392ba9fb79"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "efb65932aa16ecf9",
+            "id": "c9f64d486c59c33e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -800,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Relationships.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -809,11 +164,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Relationships"
             }
           },
           {
-            "id": "2c6134228054aade",
+            "id": "4c426e132cb9f8cc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -827,15 +182,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Relationships.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Relationships"
             }
           },
           {
-            "id": "5b60341c00d9e33c",
+            "id": "d659813b5a6805fb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -859,30 +215,7 @@
             }
           },
           {
-            "id": "d8c0e4138550dbde",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
-            }
-          },
-          {
-            "id": "13ef9cd19a420fd6",
+            "id": "e3421543ac657c2c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -896,491 +229,38 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "People/Relationships.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "066a0d34f54e1a89",
-        "type": "tabs",
-        "dimension": 30.357142857142854,
-        "children": [
-          {
-            "id": "7d31e8c9f68e74a1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_780b39ca6b79",
-                "id": "ID_9b392ba9fb79",
-                "parent": "ID_8a784948c8cb"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "title": "Outline of Relationships"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-kanban:Create new board": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "ef970f14734d5153",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e897077b1cc0e41e",
-        "type": "window",
-        "children": [
-          {
-            "id": "740a38968a540432",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5cf9a1213a6b2710",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Graph view",
-                      "icon": "lucide-git-fork",
-                      "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Rachel De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Li JiaShen (Nick)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":61,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Rachel De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":34.736858974358974}"
-                    },
-                    {
-                      "title": "Study Hall - 6",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Study Hall - 6.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Study Hall - 6\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Benito Garcia (Mela)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.23853567039648}"
-                    },
-                    {
-                      "title": "Advanced Environmental Science - 3,4",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Environmental Science - 3,4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Environmental Science - 3,4\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Rebecca Kim",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rebecca Kim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rebecca Kim\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":12.260416666666666}"
-                    },
-                    {
-                      "title": "Benito Garcia (Mela)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":0},\"to\":{\"line\":49,\"ch\":0}},\"scroll\":33.998046875}"
-                    },
-                    {
-                      "title": "Advanced Avira History - Fifth Period",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Avira History - Fifth Period.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Avira History - Fifth Period\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "West Paradise High School",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"West Paradise High School\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Advanced Avira History - Fifth Period",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Avira History - Fifth Period.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Avira History - Fifth Period\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Caspian Forrest (Kai)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":0},\"to\":{\"line\":65,\"ch\":0}},\"scroll\":47.633463541666664}"
-                    },
-                    {
-                      "title": "Anthony Prince",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Other Students/Anthony Prince.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Anthony Prince\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":32.57275641025641}"
-                    },
-                    {
-                      "title": "Ian Long (Aaron)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":0},\"to\":{\"line\":53,\"ch\":0}},\"scroll\":38.399088541666664}"
-                    },
-                    {
-                      "title": "Marlowe Melville (Rylee)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":17},\"to\":{\"line\":68,\"ch\":17}},\"scroll\":49.43069659142358}"
-                    },
-                    {
-                      "title": "Advanced Avira History - Fifth Period",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classes/Advanced Avira History - Fifth Period.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Advanced Avira History - Fifth Period\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Marlowe Melville (Rylee)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":40.331380208333336}"
-                    },
-                    {
-                      "title": "Anthony Prince",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Other Students/Anthony Prince.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Anthony Prince\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Marlowe Melville (Rylee)",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":96.06905799530674}"
-                    },
-                    {
-                      "title": "Anthony Prince",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Other Students/Anthony Prince.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Anthony Prince\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":28.996744791666668}"
-                    },
-                    {
-                      "title": "Session 2",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 2\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":556},\"to\":{\"line\":20,\"ch\":556}},\"scroll\":12.006944444444445}"
-                    },
-                    {
-                      "title": "Session 3",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 3.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.91304347826087}"
-                    },
-                    {
-                      "title": "Session 4",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Lexi Conner",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Lexi Conner.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lexi Conner\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":2},\"to\":{\"line\":40,\"ch\":2}},\"scroll\":21.038411458333332}"
-                    },
-                    {
-                      "title": "Rachel De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":154},\"to\":{\"line\":0,\"ch\":154}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Howard De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Howard De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Howard De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":228},\"to\":{\"line\":17,\"ch\":228}},\"scroll\":18.421875}"
-                    },
-                    {
-                      "title": "Rachel De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":123},\"to\":{\"line\":19,\"ch\":129}},\"scroll\":7.386068171528361}"
-                    },
-                    {
-                      "title": "Rosaline, The Weavedropper",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Rosaline, The Weavedropper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rosaline, The Weavesdropper\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "The Severing War",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 5 - The Severing War.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Severing War\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "The Celestial Coven",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":193},\"to\":{\"line\":0,\"ch\":193}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "The Great Moth - Sola",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Great Moth - Sola.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Great Moth - Sola\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.361328125}"
-                    },
-                    {
-                      "title": "The Celestial Coven",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":200},\"to\":{\"line\":0,\"ch\":200}},\"scroll\":0}"
-                    },
-                    {
-                      "title": "Broad History",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":77},\"to\":{\"line\":49,\"ch\":77}},\"scroll\":46.36717351894194}"
-                    },
-                    {
-                      "title": "The Celestial Coven",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":195},\"to\":{\"line\":0,\"ch\":195}}}"
-                    },
-                    {
-                      "title": "Planner",
-                      "icon": "lucide-trello",
-                      "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Tools/Planner.md\",\"kanbanViewState\":{\"kanban-plugin\":\"board\",\"list-collapse\":[false]}},\"icon\":\"lucide-trello\",\"title\":\"Planner\"}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Story Leads",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Story Leads.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Story Leads\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":22.4375}"
-                    },
-                    {
-                      "title": "Howard De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Howard De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Howard De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.166743436204515}"
-                    },
-                    {
-                      "title": "Mason De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Mason De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mason De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Howard De Narris",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Howard De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Howard De Narris\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Kids on Brooms",
-                      "icon": "globe-2",
-                      "state": "{\"type\":\"webviewer\",\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166\",\"title\":\"Kids on Brooms\",\"mode\":\"webview\"},\"icon\":\"globe-2\",\"title\":\"Kids on Brooms\"}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Kids on Brooms",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166#settings\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "Kids on Brooms",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166#settings/Personalization\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "Kids on Brooms",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166#settings\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "Kids on Brooms",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chatgpt.com/c/684ba8e5-a094-8005-bf23-200198b30166\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "ChatGPT",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chatgpt.com/\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "ChatGPT",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://auth.openai.com/log-in\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "Login - OpenAI",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chatgpt.com/?openaicom_referred=true\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "ChatGPT",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://chatgpt.com/?openaicom-did=210016a9-4411-452d-a2f1-046f37b045d8&openaicom_referred=true\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "ChatGPT",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://openai.com/chatgpt/overview/\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "ChatGPT | OpenAI",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=chatgpt&ia=web\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    },
-                    {
-                      "title": "chatgpt at DuckDuckGo",
-                      "icon": "globe-2",
-                      "state": "{\"state\":{\"url\":\"https://duckduckgo.com/?q=chatgpt\"},\"type\":\"webviewer\"}",
-                      "eState": "null"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "People/Relationships.canvas",
-                    "viewState": {
-                      "x": -269.1941101879281,
-                      "y": -725.7111374890353,
-                      "zoom": -1.3333333333333333
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Relationships"
-                }
-              },
-              {
-                "id": "33a101b4fdb4a9e1",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "People/Other Adults/Marcel Lohan.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Marcel Lohan"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 737,
-        "y": 214,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f492220aa625d406",
+  "active": "08179be9021c0636",
   "lastOpenFiles": [
-    "Organizations/Global Organizations/Scholars of Avira.md",
-    "Countries/Orochi Nations/Orochi.md",
-    "Organizations/Global Organizations/Developed International Concord.md",
-    "Countries/First World Nations/Astaria.md",
-    "Lore/Avira.md",
-    "Lore/Humanity.md",
-    "Lore/History/Broad History.md",
-    "Lore/History/Era 6 - The Modern Age.md",
-    "People/Great Spirits and Divinity/The Mountain Serpent.md",
-    "People/Relationships.canvas",
-    "Countries/Dead Nations/The Grand Aviran Empire.md",
-    "Countries/Orochi Nations/Palicia.md",
-    "Countries/Orochi Nations/Neridora.md",
-    "Countries/Country Template.md",
-    "Countries/First World Nations/Rane.md",
-    "Countries/First World Nations/Jiā.md",
-    "Organizations/Global Organizations/The Celestial Coven.md",
-    "Organizations/Global Organizations/The Etheri.md",
-    "Organizations/Corporations/Tech or Military/Wonder! Aerospace and Defense.md",
-    "Lore/The Kamihara.md",
-    "Lore/The Great Horrors.md",
-    "Lore/Magic.md",
-    "Lore/History/Events/The Beginning of Avira.md",
-    "The Great Knowledge Spirit.md",
-    "Tindomye.md",
-    "System Design/E-Board Perks.md",
-    "System Design/Strengths and Stupid Points.md",
-    "Obsidian Stuff/Images/Pasted image 20250704021953.png",
-    "Lore/History/Events",
-    "People/Witches/Sabine Yew",
-    "Classes/desktop.ini",
-    "Pasted image 20250723235525.png",
-    "Classes",
-    "Lore/History",
-    "People/Families/Benito's Family",
-    "Obsidian Stuff/Images",
-    "Obsidian Stuff",
-    "Images",
-    "Organizations/School Organizations"
+    "People/Families/Benito's Family/Hido Garcia.md"
   ]
 }

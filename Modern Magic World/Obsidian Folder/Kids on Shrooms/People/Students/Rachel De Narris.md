@@ -66,3 +66,15 @@ There are many rumors about Rachel De Narris, and people can sometimes be afraid
 	- Brother
 	- Worry filled, wanting to be cool guy at school. Similar to Rachel, he wants to be treated like he is better than everyone. Contrary to her, he is not charismatic, so when people treat him like the brat he is, he get emotional and angry, instead of verbally putting someone in their place.
 	- Is treated like a failure to his father constantly and can never do enough. Damien works with his father to get better at learning magic, and although he is magically capable, he is relatively disappointing and Howard expects him to be better.
+
+
+Some History:
+
+- Rachel has been friends with Milani since 1615. Her and Lexi were a trio of friends.
+- Benito and Rachel started dating in First Autumn of 1620.
+- Rachel started being friends with Madison towards the middle of the Second Summer of 1620.
+- Milani was kidnapped towards the end of the Second Summer of 1620. 
+- Rachel found Milani underneath her manor, kidnapped by Howard and Damien.
+- Howard and Damien ended up killing Milani to reinforce their ideology into Rachel's mind subconsciously, as well as performing a stronger spell onto her to keep her mind at bay.
+- Madison caught Damien kidnapping Milani and made a deal with him.
+- 
