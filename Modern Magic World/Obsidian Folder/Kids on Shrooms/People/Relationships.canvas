@@ -12,7 +12,6 @@
 		{"id":"048cbccec3f6579e","type":"file","file":"People/Families/Shen's Family/Li LewMingzhi.md","x":1006,"y":-200,"width":400,"height":400},
 		{"id":"b49cb2843fc6cf33","type":"file","file":"People/Families/Shen's Family/Li ShiWang.md","x":1006,"y":800,"width":400,"height":400},
 		{"id":"ab908602dad4f25d","type":"file","file":"People/Families/Caspian's Family/Georgia Forrest.md","x":-1880,"y":240,"width":400,"height":400},
-		{"id":"858b810974f58ab5","type":"file","file":"People/Player Characters/Ian Long (Aaron).md","x":-1355,"y":-1000,"width":400,"height":400},
 		{"id":"4b1f15ccf3b42804","type":"text","text":"\"Family\"","x":-1730,"y":-830,"width":250,"height":60,"color":"5"},
 		{"id":"29eda3881d85e153","type":"file","file":"People/Other Adults/Marcel Lohan.md","x":-2640,"y":-1000,"width":400,"height":400},
 		{"id":"24cf8465b1038d29","type":"file","file":"People/Families/Marlowe's Family/Vincenzo (Vince) Melville.md","x":-1880,"y":-1800,"width":400,"height":400},
@@ -37,7 +36,8 @@
 		{"id":"40d6a2e715e9351d","type":"text","text":"Friends","x":1406,"y":1720,"width":250,"height":60,"color":"5"},
 		{"id":"297cca0b11baf449","type":"file","file":"People/Students/Rebecca Kim.md","x":1331,"y":1940,"width":400,"height":400},
 		{"id":"561cbdc9d23ae350","type":"text","text":"Other Social Connections ([[Caspian Forrest (Kai)]])","x":-845,"y":1400,"width":250,"height":60,"color":"4"},
-		{"id":"0a1a36caadc76159","type":"text","text":"Friends","x":-440,"y":-830,"width":250,"height":60,"color":"3"}
+		{"id":"0a1a36caadc76159","type":"text","text":"Friends","x":-440,"y":-830,"width":250,"height":60,"color":"3"},
+		{"id":"858b810974f58ab5","type":"file","file":"People/Player Characters/Ian Long (Aaron).md","x":-1355,"y":-1000,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"f258970b45550ba6","fromNode":"d6a3a83c94246458","fromSide":"right","toNode":"ad3fd679e635246c","toSide":"left","color":"5"},

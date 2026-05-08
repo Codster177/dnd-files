@@ -30,7 +30,8 @@ We are calling Adversity Tokens "Stupid Points". They can be used to boost a die
 ## Special Strengths:
 These are strengths that I will assign throughout the story depending on situations. There will be more added.
 
-| Strength:    | Description:                                                                                  |
-| ------------ | --------------------------------------------------------------------------------------------- |
-| Spirit       | You can communicate with any animal, and you can spend 2 AT to communicate with plants.       |
-| Witch's Aura | You have an effect that is automatically effecting people who enter a certain radius of you.  |
+| Strength:    | Description:                                                                                 |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| Spirit       | You can communicate with any animal, and you can spend 2 AT to communicate with plants.      |
+| Witch's Aura | You have an effect that is automatically effecting people who enter a certain radius of you. |
+|              |                                                                                              |

@@ -41,3 +41,10 @@ What are your character's fears?
 ## Themes:
 ---
 ## Relationships:
+
+
+___
+## Inspiration:
+
+![[Pasted image 20260120033243.png]]
+
