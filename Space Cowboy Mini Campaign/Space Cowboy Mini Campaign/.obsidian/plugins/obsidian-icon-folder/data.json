@@ -1,0 +1,67 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiHammer",
+      "LiBuilding2",
+      "LiBook",
+      "LiNotebookPen",
+      "LiComputer"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Session Logs": {
+    "iconName": "LiNotebookPen",
+    "iconColor": "#c54b16"
+  },
+  "System Design": "LiComputer",
+  "Tools": "LiHammer",
+  "People": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#df4343"
+  },
+  "Organizations": {
+    "iconName": "LiBuilding2",
+    "iconColor": "#b1911b"
+  },
+  "Obsidian Stuff": "LiFolderLock",
+  "Lore": {
+    "iconName": "LiBook",
+    "iconColor": "#a134b7"
+  },
+  "Locations": "LiMountain",
+  "Countries": "LiFlag",
+  "Classes": "LiPencil",
+  "Places": {
+    "iconName": "LiSatellite",
+    "iconColor": "#44883f"
+  },
+  "SW5E System Design": {
+    "iconName": "LiComputer",
+    "iconColor": "#66bbcc"
+  }
+}

@@ -11,7 +11,7 @@ kanban-plugin: board
 	- [[Fulan (Familiar)]]
 	- Enemies of [[The Celestial Coven]].
 - [ ] Astarian Controversy
-	- [[The Immigration Agent]]
+	- [[Lamar Goldberg]]
 	- [[Kingston Lang]]
 	- More information about non-wizard Astarian Government magic users.
 - [ ] Threads
