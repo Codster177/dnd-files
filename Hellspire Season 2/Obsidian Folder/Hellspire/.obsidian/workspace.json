@@ -1,0 +1,350 @@
+{
+  "main": {
+    "id": "b9a6e1e4e81eb98e",
+    "type": "split",
+    "children": [
+      {
+        "id": "54744e170ebb1010",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce9801f21b6420c7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chronomancy Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Chronomancy Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chronomancy Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pasted image 20260613012312",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Images/Pasted image 20260613012312.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20260613012312\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chronomancy Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Chronomancy Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chronomancy Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pasted image 20260613012312",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Images/Pasted image 20260613012312.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20260613012312\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chronomancy Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Chronomancy Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chronomancy Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Time Travel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Time Travel.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Travel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Chronomancy Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Chronomancy Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chronomancy Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Time Travel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Time Travel.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Travel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chronomancy Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Chronomancy Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chronomancy Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Time Travel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Time Travel.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Travel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Release Notes 1.10.6",
+                  "icon": "lucide-book-up",
+                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.10.6\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.10.6\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side Stories/Deyrale's Exciting Adventure Through Hell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deyrale's Exciting Adventure Through Hell"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3562b43e45c3e601",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b04f0b2e49f8223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8b662e335ac4ab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c90c7722501aba94",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb0e4c852e53593a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "82e5305b6257e76f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ba290c724731ef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9f64d486c59c33e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Relationships.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Relationships"
+            }
+          },
+          {
+            "id": "4c426e132cb9f8cc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Relationships.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Relationships"
+            }
+          },
+          {
+            "id": "d659813b5a6805fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3421543ac657c2c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Relationships.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Relationships"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-kanban:Create new board": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "ce9801f21b6420c7",
+  "lastOpenFiles": [
+    "Tools/Homebrew Rulesets/Chronomancy Spells.md",
+    "Side Stories/Deyrale's Exciting Adventure Through Hell.md",
+    "Lore",
+    "Side Stories",
+    "Session Logs",
+    "Images",
+    "Images/Pasted image 20260613012312.png",
+    "Welcome.md",
+    "Tools/Homebrew Rulesets/Time Travel.md",
+    "Tools/Homebrew Rulesets",
+    "Tools",
+    "People/Other Adults/Stanley Reed.md",
+    "Session Logs/Session 3.md",
+    "Session Logs/Session 4.md",
+    "Session Logs/Session 1.md",
+    "Session Logs/Session 2.md",
+    "People/Other Adults/Kingston Lang.md",
+    "Session Logs/Session 5.md",
+    "People/Other Adults/Lamar Goldberg.md",
+    "People/Other Adults/Marcel Lohan.md",
+    "People/Other Adults/Garret Lennings.md",
+    "Session Logs/Session 6.md",
+    "Tools/Websites.md",
+    "People/Great Spirits and Divinity/The Doorman.md",
+    "Tools/Planner.md",
+    "Tools/Language and Naming Conventions.md",
+    "People/Witches/Sabine Yew/Fulan (Familiar).md",
+    "System Design/Injury.md",
+    "System Design/E-Board Perks.md",
+    "System Design/Strengths and Stupid Points.md",
+    "System Design/Stealth.md",
+    "System Design/Stats.md",
+    "Locations/Astarian Cities/Lake Prospect/City Life/Velvet Row.md",
+    "Pasted image 20260120033243.png"
+  ]
+}
