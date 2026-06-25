@@ -1,6 +1,6 @@
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     | D8           |
 | Dexterity    | D10          |

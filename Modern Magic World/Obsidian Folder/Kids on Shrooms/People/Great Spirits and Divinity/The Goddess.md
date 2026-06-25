@@ -1,7 +1,7 @@
-The Goddess is the true Goddess of this world. She is formed Avira into the planet it is almost 5500 years ago to protect her children, the spirits, from [[The Great Horrors]] of the universe. She now continues to protect the world in the form of the moon.
+The Goddess is the true Goddess of this world. She is formed [[Avira]] into the planet it is almost 5500 years ago to protect her children, the spirits, from [[The Great Horrors]] of the universe. She now continues to protect the world in the form of the moon.
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

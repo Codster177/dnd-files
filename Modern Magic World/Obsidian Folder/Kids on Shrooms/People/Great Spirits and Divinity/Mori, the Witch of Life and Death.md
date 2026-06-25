@@ -2,11 +2,11 @@ Mori is the first witch. She holds many titles, that being the following:
 - The Witch of Life and Death
 - The Witch of Life
 - The Witch of Death
-- The Mother of Witches
+- The Mother of [[Witches]]
 - The Lady of Death
 - The Lady of Souls
 
-Mori being the first witch gave way to the rest of the witches of Avira to hold station and power over their magical realms.
+Mori being the first witch gave way to the rest of the [[Witches]] of [[Avira]] to hold station and power over their magical realms.
 
 ## Character Breakdown:
 

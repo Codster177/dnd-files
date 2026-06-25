@@ -86,7 +86,7 @@ Has Choir Tuesday, Wednesday, and Thursday from 5:00 to 7:00.
 ### Family:
 - [[Vincenzo (Vince) Melville]]
 	- Father
-	- Marlowe only lives with her father, as the rest of her family is hoped to be still back in Neridora. They went to immigrate with Marlowe, but were separated when the ship they were on crashed.
+	- Marlowe only lives with her father, as the rest of her family is hoped to be still back in [[Neridora]]. They went to immigrate with Marlowe, but were separated when the ship they were on crashed.
 - [[Guilia Melville]]
 	- Mother
 	- Lost at sea.

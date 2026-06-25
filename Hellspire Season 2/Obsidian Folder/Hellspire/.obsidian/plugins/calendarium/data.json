@@ -361,12 +361,848 @@
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events",
       "dateFormat": "MM-DD-YYYY"
+    },
+    {
+      "name": "Sei Karenda",
+      "description": null,
+      "id": "ID_8ac84afaea0b",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sun",
+            "id": "ID_b9b88ad8dbeb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Mon",
+            "id": "ID_abda2b5b7928",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Tue",
+            "id": "ID_c998494ac998",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Wend",
+            "id": "ID_088bdbc8b82b",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Thur",
+            "id": "ID_298a482958db",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Fri",
+            "id": "ID_e9083bd9b838",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Sater",
+            "id": "ID_e85b2af88a1b",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "First Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_f84a28191968",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Second Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_cb7af938185a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Third Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_58ab2b58d82b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Fourth Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_6a2a2a884af8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Half-year",
+            "type": "month",
+            "length": 30,
+            "id": "ID_78f8baeb0b9b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Sixth Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_ba591b493beb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Seventh Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_08b8fa292aab",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Eighth Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_396a5aaa7b0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Ninth Tenth",
+            "type": "month",
+            "length": 30,
+            "id": "ID_1aaaa858cabb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "End-year",
+            "type": "month",
+            "length": 31,
+            "id": "ID_1abb3b9a98ba",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Mun",
+            "cycle": 30.1,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_7b296ae8fa9b"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": []
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_49ab8bd818ab",
+            "name": "Winter",
+            "type": "Periodic",
+            "kind": "Winter",
+            "duration": 75.25,
+            "peak": 0,
+            "color": "#0bcfe9",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_b82838789859",
+            "name": "Spring",
+            "type": "Periodic",
+            "kind": "Spring",
+            "duration": 75.25,
+            "peak": 0,
+            "color": "#1ee313",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_a958290b59fb",
+            "name": "Summer",
+            "type": "Periodic",
+            "kind": "Summer",
+            "duration": 75.25,
+            "peak": 0,
+            "color": "#e74d0e",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "ID_38a879d87968",
+            "name": "Fall",
+            "type": "Periodic",
+            "kind": "Autumn",
+            "duration": 75.25,
+            "peak": 0,
+            "color": "#eabf14",
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Imperial",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 18,
+        "month": 0,
+        "year": 1127
+      },
+      "events": [
+        {
+          "name": "Date Start",
+          "description": "<p>12:00</p>",
+          "id": "1298063",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 4,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "11:30pm Almint is kidnapped",
+          "description": "",
+          "id": "1302726",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 7,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "3:00am King Gilles Freia dies",
+          "description": "",
+          "id": "1302727",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 21,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "11:30PM Almint is turned into an Ulitharid",
+          "description": "",
+          "id": "1611692",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 17,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Almint drank cold potion",
+          "description": "",
+          "id": "1634912",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 6,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "12:00PM Knights from Freia arrive looking for Almint",
+          "description": "",
+          "id": "1704482",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 12,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "11:30PM Lord Gallium returns from the siege of Lootbridge City",
+          "description": "",
+          "id": "1715482",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 13,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "10:00PM Lord Gallium begins the siege of Lootbridge City",
+          "description": "",
+          "id": "1715483",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 10,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "2:00PM Almint Friea dies",
+          "description": "",
+          "id": "1715490",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 11,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "2:15 Almints body is preserved inside of the bag of holding",
+          "description": "",
+          "id": "1715491",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 11,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "2:30PM The party all goes down",
+          "description": "",
+          "id": "1715492",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 11,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "12:00AM Lord Gallium begins to revive Almint, instead of turning Ig into a brain dragon",
+          "description": "",
+          "id": "1715493",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 14,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "6:00pm The Sunken Tavern burns",
+          "description": "",
+          "id": "1611718",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 10,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "12:00AM Ig begins transformation again",
+          "description": "",
+          "id": "1715494",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 18,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "2:30 AM Gabble and Deyrale wake up",
+          "description": "",
+          "id": "1715495",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 14,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "10:00PM Ig begins transformation",
+          "description": "",
+          "id": "1715496",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 11,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "12:00PM The match begins",
+          "description": "",
+          "id": "1715497",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 14,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "2:00PM Almint (Mind Flayered) goes to the Knights to return back to Freia",
+          "description": "",
+          "id": "1715500",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 18,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "3:00PM The Party arrives again at the city and discovers that it is occupied by the Knights of Freia",
+          "description": "",
+          "id": "2147894",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 18,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "5:00PM After infiltrating the Pirate Lord's Lair, they defeat the treasurer and some mindflayers and escape with the dragon Ig, leaving Dama behind",
+          "description": "",
+          "id": "2147947",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 18,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Session 1 of Season 2 Starts",
+          "description": "",
+          "id": "2145698",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 10,
+            "year": 1127,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "8:00AM The party spent the night back at their camp, and in the morning they infiltrated the taken over pirate guild base, taking Sir Albert along with them",
+          "description": "",
+          "id": "2147948",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 19,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "11:00AM The party arrives at the ruins of Lootbridge City and discover Kix and his refuge. Inside of it, they discover Badger, who is disguised as a prisoner",
+          "description": "",
+          "id": "2147994",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 19,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "9:00PM The Party and the boarding party arrive at the royal ship and infiltrate it",
+          "description": "",
+          "id": "2147996",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 19,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "1:00AM The Pirate Lords ship falls and the party finds the last key on Almints corpse",
+          "description": "",
+          "id": "2147997",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 20,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "6:30PM The portal opens and hell begins to invade.",
+          "description": "",
+          "id": "2148423",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 20,
+            "year": 1107,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "3:00AM The battle for Ig's Village, Forest Guard Village, begins",
+          "description": "",
+          "id": "2148424",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 8,
+            "year": 1113,
+            "month": 4
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "10:00PM Forest Guard Village falls, Ig escapes after helping the remaining survivors escape",
+          "description": "",
+          "id": "2148425",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 12,
+            "year": 1113,
+            "month": 5
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "2:00AM Ig moves into his new lair",
+          "description": "",
+          "id": "2148426",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 13,
+            "year": 1113,
+            "month": 5
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "12:00PM Ig is found by Queen Layla and agrees to journey with her",
+          "description": "",
+          "id": "2148440",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 2,
+            "year": 1123,
+            "month": 2
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Players arrive at Fort Lakegap",
+          "description": "",
+          "id": "2429178",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 12,
+            "year": 1127,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Players arrive at Fort Lakegap",
+          "description": "",
+          "id": "2496760",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 13,
+            "year": 1127,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Left the Abandoned Infernal Lab",
+          "description": "",
+          "id": "2650658",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 16,
+            "year": 1127,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Heading to the Mech (4:30PM)",
+          "description": "",
+          "id": "2747300",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 17,
+            "year": 1127,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Party arrives at the mech (12:30 AM)",
+          "description": "",
+          "id": "2937697",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 18,
+            "year": 1127,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Party is murdered (12:00PM)",
+          "description": "",
+          "id": "2937709",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 18,
+            "year": 1127,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_780b39ca6b79",
+  "defaultCalendar": "ID_8ac84afaea0b",
   "eventPreview": false,
   "exit": {
     "saving": false,

@@ -2,7 +2,7 @@
 ||
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

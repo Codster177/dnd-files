@@ -6,7 +6,7 @@ There are different forms of time travel both forward and back in time. These fo
 
 ## High Magic with Conjuration:
 
-Utilizing high magic to physically travel in time is very high in magical cost. Chronomantic magic is extremely rare with only a handful of wizards in the world knowing the simplest of chronomancy spells. Traveling through time is a feat only few entities are capable of, let alone wizards and sorcerers. Legendary sources of time travel included Time Dragons, powerful 9th level rituals, and boons from gods to serve a divine mission.
+Utilizing high magic to physically travel in time is very high in magical cost. Chronomantic magic is extremely rare with only a handful of wizards in the world knowing the simplest of [[Chronomancy Spells]]. Traveling through time is a feat only few entities are capable of, let alone wizards and sorcerers. Legendary sources of time travel included Time Dragons, powerful 9th level rituals, and boons from gods to serve a divine mission.
 
 
 

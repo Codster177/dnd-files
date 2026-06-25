@@ -1,7 +1,7 @@
 Sabine Yew is the [[Witches|Witch]] of the Draining Rot. She is the youngest daughter of [[Hazel Eyes]]. 
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

@@ -1,7 +1,7 @@
-The dickhead who made fun of [[Caspian Forrest (Kai)]], [[Marlowe Melville (Rylee)]], and [[Ian Long (Aaron)]] for starting a math club.
+The dickhead who made fun of [[Caspian Forrest (Kai)]], [[Marlowe Melville (Rylee)]], and [[Ian Long (Aaron)]] for starting a [[Math Club]].
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

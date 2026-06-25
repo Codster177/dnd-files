@@ -1,4 +1,4 @@
-Benito Guillermo Garcia, or Apricot, is a senior at Lake Prospect high school. He is played by Mela, and inherits the position of Witch of the Eternal Woods.
+Benito Guillermo Garcia, or Apricot, is a senior at [[Lake Prospect]] high school. He is played by Mela, and inherits the position of Witch of the Eternal Woods.
 
 His birthday is 8/36/1603, or the 36th of Second Winter, 1603. This makes him 17.
 
@@ -68,9 +68,9 @@ Soccer meets every day after school at 6-7:30.
 		- [[Session 1]]:
 			- After being embarrassed by Rachel and Madison, Benito attempted to make Shen feel a little better by offering his support. That is, he walked up to her, gave her a thumbs up, and awkwardly shuffled away.
 ### Family:
-- Hido Garcia
+- [[Hido Garcia]]
 	- Father
-- Alisandra Garcia
+- [[Alisandra Garcia]]
 	- Mother
 - Benito's Older Brother
 	- Brother

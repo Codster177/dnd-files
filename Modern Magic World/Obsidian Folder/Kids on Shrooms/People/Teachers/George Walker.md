@@ -1,7 +1,7 @@
 George Walker watches over the Study Hall periods at [[West Paradise High School]].
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

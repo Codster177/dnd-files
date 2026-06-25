@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "54744e170ebb1010",
+        "id": "ce7edd89c0939f93",
         "type": "tabs",
         "children": [
           {
@@ -16,6 +16,996 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Raw Season 2 Act 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 13\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 13\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":7},\"to\":{\"line\":1,\"ch\":337}}}"
+                },
+                {
+                  "title": "Session 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 12.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 12\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 13\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Raw Season 2 Act 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":675},\"to\":{\"line\":2,\"ch\":675}},\"scroll\":0.8370445344129555}"
+                },
+                {
+                  "title": "Session 13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 13\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 12.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 12\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":154},\"to\":{\"line\":27,\"ch\":154}},\"scroll\":35.753441220238095}"
+                },
+                {
+                  "title": "Raw Season 2 Act 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":1031},\"to\":{\"line\":2,\"ch\":1031}},\"scroll\":0.5192307692307693}"
+                },
+                {
+                  "title": "Session 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 12.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 12\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Raw Season 2 Act 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2017},\"to\":{\"line\":0,\"ch\":2017}},\"scroll\":0}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":96.15125868055556}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Raw Season 2 Act 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":305},\"to\":{\"line\":0,\"ch\":305}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Raw Season 2 Act 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":55},\"to\":{\"line\":0,\"ch\":55}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 12.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 12\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":508},\"to\":{\"line\":23,\"ch\":508}},\"scroll\":23.008544921875}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 10.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 10.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":107,\"ch\":0},\"to\":{\"line\":107,\"ch\":0}},\"scroll\":84.32877604166667}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":803},\"to\":{\"line\":64,\"ch\":803}},\"scroll\":69.10416666666667}"
+                },
+                {
+                  "title": "Aji Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Aji Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aji Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ariel Grimwill",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Ariel Grimwill.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ariel Grimwill\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Catherine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Catherine.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Catherine\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Leo Soraia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Leo Soraia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Leo Soraia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Leolar Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Leolar Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Leolar Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lulin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Lulin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lulin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ninsk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Ninsk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ninsk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Solace Forger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Solace Forger.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Solace Forger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Tip Trinket",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Tip Trinket.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tip Trinket\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Percy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Percy.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Percy\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ninsk",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Ninsk.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ninsk\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gilles Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 1/Gilles Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gilles Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":7.455729166666667}"
+                },
+                {
+                  "title": "Lord Gallium",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 1/Lord Gallium.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lord Gallium\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":16997},\"to\":{\"line\":6,\"ch\":16997}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":31.99175347222222}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}}}"
+                },
+                {
+                  "title": "The Wish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Specific Notes/The Wish.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Wish\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Mind, Body, and Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Specific Notes/Mind, Body, and Soul.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mind, Body, and Soul\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale's Exciting Adventure Through Hell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Side Stories/Deyrale's Exciting Adventure Through Hell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale's Exciting Adventure Through Hell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":12},\"to\":{\"line\":51,\"ch\":18}},\"scroll\":39.596354166666664}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nampha",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Nampha.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nampha\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nampha",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Nampha.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nampha\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nampha",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Nampha.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nampha\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":37},\"to\":{\"line\":49,\"ch\":37}},\"scroll\":39.354239004629626}"
+                },
+                {
+                  "title": "Aji Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Aji Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aji Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "CLAUDE",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CLAUDE.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CLAUDE\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":145},\"to\":{\"line\":37,\"ch\":145}},\"scroll\":21.331845238095237}"
+                },
+                {
+                  "title": "Session 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 10.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.494032118055555}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.6178385416666665}"
+                },
+                {
+                  "title": "CLAUDE",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CLAUDE.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CLAUDE\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":109},\"to\":{\"line\":60,\"ch\":109}},\"scroll\":42.77853598014888}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Frink",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 1/Frink.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frink\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Leolar Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Leolar Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Leolar Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 8.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.81749131944444}"
+                },
+                {
+                  "title": "Session 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 9.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 9\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.371744791666666}"
+                },
+                {
+                  "title": "Frink",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 1/Frink.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frank\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lulin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Lulin.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lulin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 8.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 11\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":571},\"to\":{\"line\":43,\"ch\":571}}}"
+                },
+                {
+                  "title": "Session 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 10.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":668},\"to\":{\"line\":53,\"ch\":668}}}"
+                },
+                {
+                  "title": "Session 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 9.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 9\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":392},\"to\":{\"line\":47,\"ch\":392}}}"
+                },
+                {
+                  "title": "Session 10",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 10.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 10\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 8.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.18023553507424475}"
+                },
+                {
+                  "title": "Session 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 9.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 8.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 7.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 9",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 9.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 8\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 8",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 8.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
+                  "title": "Session 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 6.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":9},\"to\":{\"line\":0,\"ch\":9}}}"
+                },
+                {
+                  "title": "Session 7",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 7.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":775},\"to\":{\"line\":39,\"ch\":775}}}"
+                },
+                {
+                  "title": "Session 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 6.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":729},\"to\":{\"line\":42,\"ch\":729}}}"
+                },
+                {
+                  "title": "Session 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":732},\"to\":{\"line\":39,\"ch\":732}}}"
+                },
+                {
+                  "title": "Session 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":1197},\"to\":{\"line\":1,\"ch\":1197}},\"scroll\":0}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":28},\"to\":{\"line\":0,\"ch\":28}}}"
+                },
+                {
+                  "title": "Deyrale's Exciting Adventure Through Hell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Side Stories/Deyrale's Exciting Adventure Through Hell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale's Exciting Adventure Through Hell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Wish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Specific Notes/The Wish.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Wish\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mind, Body, and Soul",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Specific Notes/Mind, Body, and Soul.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mind, Body, and Soul\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":359},\"to\":{\"line\":18,\"ch\":359}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Wish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Specific Notes/The Wish.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Wish\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":243},\"to\":{\"line\":26,\"ch\":243}},\"scroll\":6.8132754342431765}"
+                },
+                {
+                  "title": "Leolar Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Leolar Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Leolar Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":109},\"to\":{\"line\":18,\"ch\":109}},\"scroll\":0}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":4},\"to\":{\"line\":13,\"ch\":13}}}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":685},\"to\":{\"line\":22,\"ch\":685}},\"scroll\":9.53179264555669}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":18},\"to\":{\"line\":12,\"ch\":18}}}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Time Travel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Time Travel.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Travel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Chronomancy Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Chronomancy Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chronomancy Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Time Travel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Time Travel.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Time Travel\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Chronomancy Spells",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Homebrew Rulesets/Chronomancy Spells.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chronomancy Spells\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0.03}"
+                },
+                {
+                  "title": "Aji Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/NPCs/Origin in Season 2/Aji Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aji Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":247},\"to\":{\"line\":22,\"ch\":259}},\"scroll\":1}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":96},\"to\":{\"line\":10,\"ch\":96}}}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":13},\"to\":{\"line\":3,\"ch\":13}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":89},\"to\":{\"line\":11,\"ch\":89}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":10},\"to\":{\"line\":0,\"ch\":10}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "Almint Friea",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Almint Friea.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Almint Friea\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":28},\"to\":{\"line\":2,\"ch\":28}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":19},\"to\":{\"line\":2,\"ch\":19}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":5},\"to\":{\"line\":2,\"ch\":5}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":38},\"to\":{\"line\":14,\"ch\":38}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":84},\"to\":{\"line\":11,\"ch\":89}}}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":105},\"to\":{\"line\":10,\"ch\":105}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":180},\"to\":{\"line\":10,\"ch\":180}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":18},\"to\":{\"line\":12,\"ch\":18}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nampha",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Nampha.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nampha\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Almint Friea",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Almint Friea.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Almint Friea\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":28},\"to\":{\"line\":0,\"ch\":28}}}"
+                },
+                {
+                  "title": "Deyrale's Exciting Adventure Through Hell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Side Stories/Deyrale's Exciting Adventure Through Hell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale's Exciting Adventure Through Hell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Chronomancy Spells",
@@ -88,12 +1078,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Stories/Deyrale's Exciting Adventure Through Hell.md",
+                "file": "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deyrale's Exciting Adventure Through Hell"
+              "title": "Session 4"
             }
           }
         ]
@@ -180,7 +1170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200
   },
   "right": {
     "id": "82e5305b6257e76f",
@@ -189,6 +1179,7 @@
       {
         "id": "7ba290c724731ef8",
         "type": "tabs",
+        "dimension": 70.86538461538461,
         "children": [
           {
             "id": "c9f64d486c59c33e",
@@ -205,7 +1196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Relationships.canvas",
+                "file": "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,11 +1206,52 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relationships"
+              "title": "Backlinks for Raw Season 2 Act 1 Summary"
             }
           },
           {
-            "id": "4c426e132cb9f8cc",
+            "id": "58b1f21623acfdd8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_8ac84afaea0b",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 26,
+                    "month": 2,
+                    "year": 1111
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "year": 1127,
+                    "month": 0,
+                    "day": 17
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_a81a58493ac8",
+                "child": "ID_291af9ebb848"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "0f7fece4618c9b6d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -233,16 +1265,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Relationships.canvas",
+                "file": "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relationships"
+              "title": "Outgoing links from Session 4"
             }
           },
           {
-            "id": "d659813b5a6805fb",
+            "id": "882ce68a1c8ce3e1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -266,7 +1298,7 @@
             }
           },
           {
-            "id": "e3421543ac657c2c",
+            "id": "5db77043a49def60",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -280,20 +1312,51 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Relationships.canvas",
+                "file": "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relationships"
+              "title": "Outline of Session 4"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b613e62720f30bb8",
+        "type": "tabs",
+        "dimension": 29.134615384615387,
+        "children": [
+          {
+            "id": "d7216994ae642c8c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_8ac84afaea0b",
+                "id": "ID_291af9ebb848",
+                "parent": "ID_a81a58493ac8"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 412.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -307,44 +1370,109 @@
       "bases:Create new base": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-kanban:Create new board": false,
+      "obisidian-note-linker:Note Linker": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ce9801f21b6420c7",
+  "floating": {
+    "id": "a514559b609e3057",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cd972b8b710c4423",
+        "type": "window",
+        "children": [
+          {
+            "id": "264db1b8ce3366b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c843488353443dd9",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Session 4",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Raw Season 2 Act 1 Summary",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Raw Season 2 Act 1 Summary"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -674,
+        "y": -307,
+        "width": 739,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c843488353443dd9",
   "lastOpenFiles": [
-    "Tools/Homebrew Rulesets/Chronomancy Spells.md",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 13.md",
+    "Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 12.md",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 2",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1",
+    "Session Logs/Season 1 (The Hellbringers)/Season Summary.md",
+    "Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md",
+    "Characters/Gods and Deities",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 11.md",
+    "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 10.md",
+    "Characters/NPCs/Origin in Season 2/Aji Skipplestump.md",
+    "Characters/NPCs/Origin in Season 2/Ariel Grimwill.md",
+    "Characters/NPCs/Origin in Season 2/Catherine.md",
+    "Characters/NPCs/Origin in Season 2/Leo Soraia.md",
+    "Characters/NPCs/Origin in Season 2/Leolar Spirit.md",
+    "Characters/NPCs/Origin in Season 2/Lulin.md",
+    "Characters/NPCs/Origin in Season 2/Ninsk.md",
+    "Characters/NPCs/Origin in Season 2/Solace Forger.md",
+    "Characters/NPCs/Origin in Season 2/Tip Trinket.md",
+    "Characters/NPCs/Origin in Season 2/Percy.md",
+    "Characters/NPCs/Origin in Season 1/Gilles Freia.md",
+    "Characters/NPCs/Origin in Season 1/Lord Gallium.md",
+    "Session Logs/Season 1 (The Hellbringers)/Season Summary.md.tmp.19616.61c4148517da",
+    "Characters/NPCs/Origin in Season 2/Skip Leafing.md",
+    "Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md",
+    "Lore/Specific Notes/The Wish.md",
+    "Lore/Specific Notes/Mind, Body, and Soul.md",
     "Side Stories/Deyrale's Exciting Adventure Through Hell.md",
-    "Lore",
-    "Side Stories",
-    "Session Logs",
-    "Images",
+    "Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md.tmp.26396.1782202872783",
+    "Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Nampha.md.tmp.26396.1782202869901",
+    "Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md.tmp.26396.1782202865153",
+    "Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md.tmp.26396.1782202814641",
+    "Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md.tmp.26396.1782202762621",
+    "CLAUDE.md.tmp.26396.1782202700254",
     "Images/Pasted image 20260613012312.png",
-    "Welcome.md",
-    "Tools/Homebrew Rulesets/Time Travel.md",
-    "Tools/Homebrew Rulesets",
-    "Tools",
-    "People/Other Adults/Stanley Reed.md",
-    "Session Logs/Session 3.md",
-    "Session Logs/Session 4.md",
-    "Session Logs/Session 1.md",
-    "Session Logs/Session 2.md",
-    "People/Other Adults/Kingston Lang.md",
-    "Session Logs/Session 5.md",
-    "People/Other Adults/Lamar Goldberg.md",
-    "People/Other Adults/Marcel Lohan.md",
-    "People/Other Adults/Garret Lennings.md",
-    "Session Logs/Session 6.md",
-    "Tools/Websites.md",
-    "People/Great Spirits and Divinity/The Doorman.md",
-    "Tools/Planner.md",
-    "Tools/Language and Naming Conventions.md",
-    "People/Witches/Sabine Yew/Fulan (Familiar).md",
-    "System Design/Injury.md",
-    "System Design/E-Board Perks.md",
-    "System Design/Strengths and Stupid Points.md",
-    "System Design/Stealth.md",
-    "System Design/Stats.md",
-    "Locations/Astarian Cities/Lake Prospect/City Life/Velvet Row.md",
     "Pasted image 20260120033243.png"
   ]
 }

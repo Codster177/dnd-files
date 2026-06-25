@@ -1,7 +1,7 @@
-The Doorman is a spirit of humanity and opportunity. 
+The Doorman is a spirit of [[Humanity]] and opportunity. 
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

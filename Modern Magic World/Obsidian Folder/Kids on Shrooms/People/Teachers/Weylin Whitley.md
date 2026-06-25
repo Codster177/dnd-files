@@ -1,7 +1,7 @@
 Weylin Whitley is a new language arts teacher at [[West Paradise High School]]. He teaches Aviran 2. 
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     | 1D6          |
 | Dexterity    | 1D8          |

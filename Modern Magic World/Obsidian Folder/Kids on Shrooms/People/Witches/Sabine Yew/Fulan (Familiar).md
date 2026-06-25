@@ -1,7 +1,7 @@
 Fulan is the familiar to the [[Sabine Yew]], the Witch of the Draining Rot.
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

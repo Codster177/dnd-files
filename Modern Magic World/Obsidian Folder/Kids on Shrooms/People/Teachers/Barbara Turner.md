@@ -1,7 +1,7 @@
 Barbara Turner teaches Algebra 2, along with some of the other math classes, at [[West Paradise High School]].
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

@@ -13,9 +13,9 @@ kanban-plugin: board
 - [ ] Astarian Controversy
 	- [[Lamar Goldberg]]
 	- [[Kingston Lang]]
-	- More information about non-wizard Astarian Government magic users.
+	- More information about non-wizard Astarian Government [[Magic]] users.
 - [ ] Threads
-	- Magic: Individuals, Small Rebellious Groups, Government People, and Spirits in [[Lake Prospect]]
+	- [[Magic]]: Individuals, Small Rebellious Groups, Government People, and Spirits in [[Lake Prospect]]
 - [ ] Remember to think about
 	- The Palician teacher and her immigration story.
 	- The Janitor and the attention he might bring.

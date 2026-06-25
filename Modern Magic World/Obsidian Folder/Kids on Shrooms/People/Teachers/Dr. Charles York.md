@@ -1,7 +1,7 @@
 Dr. Charles York teaches Advanced Environmental Science at [[West Paradise High School]].
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

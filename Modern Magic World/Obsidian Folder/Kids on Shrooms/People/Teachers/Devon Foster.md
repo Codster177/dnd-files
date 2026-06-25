@@ -1,7 +1,7 @@
 Devon Foster teaches Ceramics at [[West Paradise High School]], along with some of the other art classes.
 ## Gameplay Mechanics:
 
-| Stats:       | Current Die: |
+| [[Stats]]:       | Current Die: |
 | ------------ | ------------ |
 | Strength     |              |
 | Dexterity    |              |

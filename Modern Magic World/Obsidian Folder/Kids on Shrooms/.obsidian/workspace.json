@@ -56,6 +56,114 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Era 3 - The First Dark Age",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 3 - The First Dark Age.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 3 - The First Dark Age\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 2 - The Great Awakening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 2 - The Great Awakening.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 2 - The Great Awakening\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 1 - Migration and Early Settlements",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 1 - Migration and Early Settlements.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 1 - Migration and Early Settlements\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 1 - Migration and Early Settlements",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 1 - Migration and Early Settlements.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 1 - Migration and Early Settlements\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Witches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Witches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Warlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Warlocks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":49.37210746769254}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Milani Toll",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Milani Toll.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Milani Toll\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cedrela, the Queen Bee Spirit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Rosaline, The Weavedropper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Rosaline, The Weavedropper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rosaline, The Weavedropper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":83.25231092436975}"
+                },
+                {
+                  "title": "Ian Long (Aaron)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":73.94425031766201}"
+                },
+                {
+                  "title": "Sweet Lake Forest",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astarian Cities/Lake Prospect/Nature/Sweet Lake Forest.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sweet Lake Forest\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "West Paradise High School",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"West Paradise High School\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Doorman",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.504557291666664}"
+                },
+                {
                   "title": "Release Notes 1.10.6",
                   "icon": "lucide-book-up",
                   "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.10.6\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.10.6\"}",
@@ -66,12 +174,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Great Spirits and Divinity/The Doorman.md",
+                "file": "Lore/History/Broad History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Doorman"
+              "title": "Broad History"
             }
           },
           {
@@ -711,11 +819,30 @@
       "bases:Create new base": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-kanban:Create new board": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "ce9801f21b6420c7",
   "lastOpenFiles": [
+    "Lore/History/Era 3 - The First Dark Age.md",
+    "Lore/History/Era 2 - The Great Awakening.md",
+    "Lore/History/Era 1 - Migration and Early Settlements.md",
+    "Lore/History/Broad History.md",
+    "Lore/Spellcasters/Witches.md",
+    "Lore/Spellcasters/Warlocks.md",
+    "People/Students/Rachel De Narris.md",
+    "People/Students/Milani Toll.md",
+    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
+    "People/Spirits/Rosaline, The Weavedropper.md",
+    "People/Player Characters/Li JiaShen (Nick).md",
+    "People/Player Characters/Ian Long (Aaron).md",
+    "Lore/Magic.md",
+    "Locations/Astarian Cities/Lake Prospect/Nature/Sweet Lake Forest.md",
+    "Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md",
+    "People/Great Spirits and Divinity/The Doorman.md",
+    "Lore/Humanity.md",
+    "System Design/Stats.md",
     "People/Other Adults/Stanley Reed.md",
     "Session Logs/Session 3.md",
     "Session Logs/Session 4.md",
@@ -724,23 +851,6 @@
     "People/Other Adults/Kingston Lang.md",
     "Session Logs/Session 5.md",
     "People/Other Adults/Lamar Goldberg.md",
-    "People/Other Adults/Marcel Lohan.md",
-    "People/Other Adults/Garret Lennings.md",
-    "Session Logs/Session 6.md",
-    "Tools/Websites.md",
-    "People/Great Spirits and Divinity/The Doorman.md",
-    "Tools/Planner.md",
-    "Tools/Language and Naming Conventions.md",
-    "People/Witches/Sabine Yew/Fulan (Familiar).md",
-    "System Design/Injury.md",
-    "System Design/E-Board Perks.md",
-    "System Design/Strengths and Stupid Points.md",
-    "System Design/Stealth.md",
-    "System Design/Stats.md",
-    "Locations/Astarian Cities/Lake Prospect/City Life/Velvet Row.md",
-    "Locations/Astarian Cities/Lake Prospect/Nature/Sweet Lake Forest.md",
-    "Locations/Astarian Cities/Lake Prospect/Lake Prospect.md",
-    "Pasted image 20260120033243.png",
-    "People/Families/Benito's Family/Hido Garcia.md"
+    "Pasted image 20260120033243.png"
   ]
 }
