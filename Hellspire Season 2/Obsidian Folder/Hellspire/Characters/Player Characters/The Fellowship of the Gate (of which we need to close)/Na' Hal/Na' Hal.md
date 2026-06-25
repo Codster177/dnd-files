@@ -5,7 +5,7 @@
 | **Class**       | Hexblade Warlock                 |
 | **Level**       | 10                               |
 | **Status**      | Alive                            |
-| **Affiliation** | Royal Knights of New Friea       |
+| **Affiliation** | Royal Knights of New Freia       |
 
 Na'Hal is not a single being but two imps, [[Nampha]] and [[Andhal]], created from one soul. Together they combine into the form of a tiefling, with [[Nampha]] handling spellcasting and [[Andhal]] handling physical combat. Their patron is a sentient greatsword connected to the Archdevil Angmar.
 
@@ -26,7 +26,7 @@ Na'Hal found a hidden key in the dungeon's supply closet and broke through a rus
 #### Session 6 - The Stomach Devil and the Lair
 Na'Hal spotted the stomach devil emerging from the acid lake and warned the party. During the battle on the battlements, his hexblade's curse empowered his strikes, but the devil's ribcage opened like a maw and swallowed him. Suffering necrotic damage inside the creature, he was freed when [[Fel Sinderheim|Fel]] summoned a reaper spirit into its gullet. Na'Hal channeled all his remaining power into a banishing strike that sent the devil into the void, then collapsed unconscious and was revived by [[Fel Sinderheim|Fel]]'s healing. He recognized the hellish stone root as a manifestation of the Hells' dominion using his infernal knowledge. During the scramble to salvage [[Ig]]'s lair before The Engine of Nessus arrived, Na'Hal secretly consulted his sword about taking [[Gabble Skipplestump]]'s amulet, then grabbed it.
 
-#### Session 7 - New Friea
+#### Session 7 - New Freia
 Na'Hal gave a cautious affirmation to the Queen's garrison commission. He received a helm of comprehend languages from [[Harold Gobblefern]] and studied the retrieved amulet, finding it to be a potent spell focus that could enhance his magic if attuned through a ritual with his sword. At Cats tavern, Na'Hal lost all his copper at blackjack and drank heavily, pushing his constitution to the limit. His disguise began to falter as [[Andhal]] worked frantically to maintain the illusion while [[Nampha]] kept the body upright. He eventually collapsed into two separate imps before passing out. His companions carried him to a room before anyone noticed.
 
 #### Session 8 - The Blind Man's Bargain
@@ -47,7 +47,7 @@ In the mountain cave, Na'Hal found a cauldron of swirling purple energy and dipp
 - [[Zilton Zalzalm]] - Party member. Their relationship is marked by tension over the sword's influence. After a midnight confrontation, they reached a fragile understanding based on their shared goal of closing the Gate.
 - [[Fel Sinderheim|Fel]] - Party member. Na'Hal helped Fel survive his spirit crisis by offering [[Nampha]]'s body. They share a bond forged through mutual vulnerability.
 - [[Leolar Spirit]] (the blind man) - An enigmatic figure who traded unicorn hair for a soul coin. Na'Hal distrusts him, and the sword considers the blind man dangerously powerful.
-- [[Layla Tenama]] - Queen of New Friea and Na'Hal's liege. Na'Hal is guarded around her, keeping his fiendish nature hidden.
+- [[Layla Tenama]] - Queen of New Freia and Na'Hal's liege. Na'Hal is guarded around her, keeping his fiendish nature hidden.
 - [[Scarlet]] - A tiefling woman recruited into the garrison. There was a flirtatious dynamic during her interview.
 
 ---

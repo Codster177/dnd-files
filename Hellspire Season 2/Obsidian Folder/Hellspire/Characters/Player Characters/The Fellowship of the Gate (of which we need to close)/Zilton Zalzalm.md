@@ -6,7 +6,7 @@
 | **Level**       | 10                                                     |
 | **Age**         | 6,000                                                  |
 | **Status**      | Active                                                 |
-| **Affiliation** | Mechanus Disaster Response, Royal Knights of New Friea |
+| **Affiliation** | Mechanus Disaster Response, Royal Knights of New Freia |
 
 ### Backstory
 
@@ -25,8 +25,8 @@ Zilton's eidetic memory proved invaluable as he studied a recruitment journal fo
 #### Session 6 - The Stomach Devil and the Stone
 Zilton stood sentinel during the eight-hour flight on [[Ig]]'s back, observing his allies in sentry mode. He noted subtle imperfections in [[Na' Hal|Na'Hal]]'s tiefling illusion: hair that moved unnaturally in the wind, a faint shimmer at the edges. During the stomach devil battle, he dashed up the wall and fired a crossbow bolt into the creature's shoulder. Back at the fort, he studied the hellish stone vein and noted it resembled a root more than simple ore, bluntly suggesting that [[Malm]] might be the gate itself. He also snatched a newspaper clipping headlined "King's Son - Turmoil" from [[Ig]]'s lair during the evacuation.
 
-#### Session 7 - New Friea
-Zilton accepted the Queen's garrison commission immediately and without hesitation. [[Harold Gobblefern]] gifted him a mechanical dog construct, which he named Dot. He visited the Friea Monument, studying the silver effigies of King [[Gilles Freia]] and Prince [[Almint Friea|Almond]], and reading a newspaper article about the king adopting the bird-like humanoid prince, which had sparked tensions with the Empire of Al. At Cats tavern, he played blackjack for the first time, his mechanical mind grasping the probabilities instantly, and won his first hand. He spent the entire night reading an ancient tome of dragon history, committing every restored page to his eidetic memory.
+#### Session 7 - New Freia
+Zilton accepted the Queen's garrison commission immediately and without hesitation. [[Harold Gobblefern]] gifted him a mechanical dog construct, which he named Dot. He visited the Freia Monument, studying the silver effigies of King [[Gilles Freia]] and Prince [[Almint Freia|Almond]], and reading a newspaper article about the king adopting the bird-like humanoid prince, which had sparked tensions with the Empire of Al. At Cats tavern, he played blackjack for the first time, his mechanical mind grasping the probabilities instantly, and won his first hand. He spent the entire night reading an ancient tome of dragon history, committing every restored page to his eidetic memory.
 
 #### Session 8 - Draconic Lore and Diplomatic Disaster
 Zilton shared his overnight discoveries about the draconic gods: how the five great dragon worms merged into three gods (Bahamut, Sardior, and Tiamat), the thousand-year war between them, and a restored map of chromatic territories showing a desert of ice, a swamp of acid, an island of hell, an overgrown jungle, and hills of sand surrounding a mysterious central symbol. He visited the Church of the Watcher and asked the pastor about unicorns. When [[Solace Forger]] cast a mending spell on his ancient book, she restored scratched-out names and unblacked a crucial page. At the Gemstone City keep, Zilton's blunt demand for assistance and an insult directed at a gnome councilwoman nearly caused a diplomatic disaster, saved only by [[Fel Sinderheim|Fel]]'s charm and the Queen's token.
@@ -45,8 +45,8 @@ At Forest Guard Village, **Queen** [[Layla Tenama]] reported that [[Ig]] was sco
 - [[Na' Hal|Na'Hal]] - Party member. Zilton distrusts Na'Hal's sentient sword after it paralyzed him and killed the celestial stag. Despite this, he and Na'Hal reached a fragile understanding based on their shared goal of closing the Gate.
 - [[Fel Sinderheim|Fel]] - Party member and fellow garrison member. A reliable ally whose bardic magic has saved the party multiple times.
 - Dot - Zilton's mechanical dog companion, gifted by [[Harold Gobblefern]]. Dot has combat capabilities and can track scents.
-- [[Layla Tenama]] - Queen of New Friea and Zilton's liege. He respects her authority and accepted her commission without hesitation.
-- [[Harold Gobblefern]] - Gnome inventor in New Friea who provided Dot, magical items, and agreed to research countermeasures against The Engine of Nessus.
+- [[Layla Tenama]] - Queen of New Freia and Zilton's liege. He respects her authority and accepted her commission without hesitation.
+- [[Harold Gobblefern]] - Gnome inventor in New Freia who provided Dot, magical items, and agreed to research countermeasures against The Engine of Nessus.
 - [[Skip Leafing]] - Half-elf engineer whom Zilton accepted into the garrison on the spot, though [[Fel Sinderheim|Fel]] and [[Na' Hal|Na'Hal]] intervened with conditions.
 - [[Ig]] - The emerald dragon companion of the Queen. Zilton has flown on Ig's back and studied draconic lore connected to him.
 

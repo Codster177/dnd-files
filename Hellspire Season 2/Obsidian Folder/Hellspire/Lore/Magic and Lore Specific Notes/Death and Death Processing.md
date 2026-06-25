@@ -1,0 +1,6 @@
+Upon death, creature's souls will journey to the domain that best fits them with this criteria:
+
+1. If a creature sold their soul to a deity or a representative of a deity, their soul is universally bound to that deity and therefore their domain. Upon death, their soul is whatever the deity wants to do with it.
+2. If a creature dedicates their life to a deity and follows the deity's rules strictly, then the deity has to accept them into their domain. The deity decides on the rules, and upon breaking of any rules the deity can rule against the creature from joining their domain upon death.
+3. If a creature retains their soul upon death and has not strictly followed a god, their soul enters Judgement. Judgement will utilize the souls actions throughout life, personality, and significance of redemption upon death. After a soul is determined for a fit domain, the deity in control of that domain must accept them, and then they are joined into that domain.
+4. On rare situations for very rare kinds of creatures, if they are not fit to any domain upon death they will be exiled randomly among the Astral Sea or Elemental Chaos. A soul who has unfinished business may return as undead.

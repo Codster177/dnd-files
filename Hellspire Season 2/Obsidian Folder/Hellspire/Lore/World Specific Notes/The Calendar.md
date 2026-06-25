@@ -1,0 +1,3 @@
+The Sei Karenda calendar system was invented in year -1 by a gnome named (), and only started when he determined that the planet had reached a natural period at which it should be the next year.
+
+He then started to sell this calendar system to both merchants and farmers, as it eased the ability for merchants to keep in track of sales with others, and it eased the ability of farmers to determine when crops should be harvested.

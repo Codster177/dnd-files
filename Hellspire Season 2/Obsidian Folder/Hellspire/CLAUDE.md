@@ -29,7 +29,7 @@ Tools/
 ### Obsidian Linking
 - All character names in session logs and articles should use `[[Character Name]]` links.
 - When a character is referred to by a short name or alias, use piped links: `[[Full Name|Alias]]`.
-  - Examples: `[[Fel Sinderheim|Fel]]`, `[[Na' Hal|Na'Hal]]`, `[[Leolar Spirit|the blind man]]`, `[[Almint Friea|Almond]]`, `[[Deyrale Dinglebottom|Daryl]]`
+  - Examples: `[[Fel Sinderheim|Fel]]`, `[[Na' Hal|Na'Hal]]`, `[[Leolar Spirit|the blind man]]`, `[[Almint Freia|Almond]]`, `[[Deyrale Dinglebottom|Daryl]]`
 - Titles (Queen, Captain, etc.) stay outside the link: `**Queen** [[Layla Tenama]]`
 
 ### Characters
@@ -73,6 +73,6 @@ Article body sections (include as applicable):
 ## Important World Context
 - The campaign is set in a world where a Gate to Hell has been opened, unleashing an infernal invasion.
 - **Season 1 (The Hellbringers):** Gabble Skipplestump opened the gate using a goblet of fire and a wand. Malm is now trapped in the gate's roots. Deyrale fell into the Nine Hells.
-- **Season 2 (The Fellowship of the Gate):** Fel, Zilton, and Na'Hal are on a mission to close the Gate to Hell. They operate as a royal garrison under Queen Layla Tenama of New Friea.
+- **Season 2 (The Fellowship of the Gate):** Fel, Zilton, and Na'Hal are on a mission to close the Gate to Hell. They operate as a royal garrison under Queen Layla Tenama of New Freia.
 - The Engine of Nessus is a colossal infernal war machine threatening the world.
 - Leolar Spirit (the blind man) is an omniscient NPC guiding events from the shadows, invisible even to gods.

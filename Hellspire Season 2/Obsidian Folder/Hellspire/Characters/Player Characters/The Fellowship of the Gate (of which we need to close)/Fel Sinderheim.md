@@ -6,7 +6,7 @@
 | **Level**       | 10                                    |
 | **Age**         | 6,053                                 |
 | **Status**      | Alive                                 |
-| **Affiliation** | Royal Knights of New Friea            |
+| **Affiliation** | Royal Knights of New Freia            |
 
 ### Backstory
 
@@ -27,8 +27,8 @@ In the dungeon below the fort, Fel produced torches and investigated ancient blo
 #### Session 6 - The Stomach Devil and the Stone
 During the battle with a stomach devil on the battlements, Fel made a desperate gamble: he summoned a reaper spirit directly inside the creature's gullet to force [[Na' Hal|Na'Hal]] free after the warlock was swallowed. The gamble succeeded. He then used mass healing to revive the unconscious [[Na' Hal|Na'Hal]]. Later, Fel investigated the abyssal sigil in the dungeon and discovered a vein of hellish stone weeping blue blood. Despite the risk, he placed his hand on the stone and received a vision: he saw himself holding a spiraled unicorn horn slick with stag's blood, the hellish root parting before their combined power. This vision established the party's next objective. During the scramble to salvage [[Ig]]'s lair before The Engine of Nessus arrived, Fel attempted to recall [[Deyrale Dinglebottom|Deyrale]]'s belongings but his memory failed him. He focused on retrieving more of [[Malm]]'s notes instead.
 
-#### Session 7 - New Friea
-Upon arriving in New Friea, Fel climbed onto a table in the gathering hall and played his spectral violin, earning a gold piece from a passing dwarf. **Queen** [[Layla Tenama]] offered the party a commission as a garrison of the Royal Knights, which Fel accepted enthusiastically. He received a cloak of displacement from [[Harold Gobblefern]] and attempted to barter with the blacksmith through performance, though his nervous solo fell flat. At Cats tavern, his music flowed effortlessly, earning steady tips. That night, Fel dreamed of the dungeon where [[Aji Skipplestump|Aji]] confronted him, accusing him of stealing his body and demanding it back. Fel apologized but refused to return it.
+#### Session 7 - New Freia
+Upon arriving in New Freia, Fel climbed onto a table in the gathering hall and played his spectral violin, earning a gold piece from a passing dwarf. **Queen** [[Layla Tenama]] offered the party a commission as a garrison of the Royal Knights, which Fel accepted enthusiastically. He received a cloak of displacement from [[Harold Gobblefern]] and attempted to barter with the blacksmith through performance, though his nervous solo fell flat. At Cats tavern, his music flowed effortlessly, earning steady tips. That night, Fel dreamed of the dungeon where [[Aji Skipplestump|Aji]] confronted him, accusing him of stealing his body and demanding it back. Fel apologized but refused to return it.
 
 #### Session 8 - The Mind War Begins
 Fel retrieved plate armor from the Tunnel Hall Smithy. He entered the Church of the Watcher with [[Zilton Zalzalm]], where he met [[Solace Forger]], a dwarven cleric who recognized his face from over thirty years prior, and recruited her into the garrison. He discovered the plate armor was too heavy for him and reconfigured it into half plate using a modular design the blacksmith had built in. Later, at Smelter's Heaven, Fel attempted to charm the wood elf armorer [[Lulin]] into a discount on a dagger. During the encounter he collapsed unconscious as his mind was pulled into a violent vision: [[Aji Skipplestump|Aji]] broke through a cell door and attacked him with his fists. Fel cast a sleeping spell on himself to escape the beating, and woke on the armory floor. He purchased the dagger at a reduced price and left shaken.
@@ -47,7 +47,7 @@ In the vision, Fel rallied the group with a motivational speech and mass cure wo
 - [[Aji Skipplestump]] - The gnome whose body Fel inhabits. Aji is trapped within their shared mindscape and is hostile, demanding his body back. Fel's presence has reshaped Aji's mental landscape into a dungeon.
 - [[Na' Hal|Na'Hal]] - Party member and fellow garrison member. Na'Hal helped Fel survive his spirit crisis by offering [[Nampha]]'s body as a vessel.
 - [[Zilton Zalzalm]] - Party member and fellow garrison member. A reliable ally in combat.
-- [[Layla Tenama]] - Queen of New Friea and Fel's liege. She is wary of Fel but accepted him into her garrison. Fel's attempts at charm have met cold responses.
+- [[Layla Tenama]] - Queen of New Freia and Fel's liege. She is wary of Fel but accepted him into her garrison. Fel's attempts at charm have met cold responses.
 - [[Deyrale Dinglebottom]] - A Season 1 hero whose maul and gear Fel now carries. Fel has heard Deyrale's voice in visions.
 - [[Solace Forger]] - A dwarven cleric Fel recruited into the garrison. She recognized his face from over thirty years ago.
 
