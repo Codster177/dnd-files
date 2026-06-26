@@ -18,9 +18,411 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Griffin Bullethole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Griffin Bullethole.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Griffin Bullethole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":23},\"to\":{\"line\":0,\"ch\":23}}}"
+                },
+                {
+                  "title": "Gilles Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Gilles Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gilles Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":292},\"to\":{\"line\":10,\"ch\":292}}}"
+                },
+                {
+                  "title": "Frink",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Frink.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Frink\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":54}}}"
+                },
+                {
+                  "title": "Fish",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Fish.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fish\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dama",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Dama.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dama\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":33},\"to\":{\"line\":2,\"ch\":33}}}"
+                },
+                {
+                  "title": "Cthulhu",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Cthulhu.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cthulhu\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dama",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Dama.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dama\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Cthulhu",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Cthulhu.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cthulhu\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Camila Aleleaf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Camila Aleleaf.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Camila Aleleaf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":33},\"to\":{\"line\":2,\"ch\":33}}}"
+                },
+                {
+                  "title": "Byrst",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Byrst.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Byrst\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Barnacle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Barnacle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Barnacle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":30},\"to\":{\"line\":2,\"ch\":30}}}"
+                },
+                {
+                  "title": "Badger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Badger.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Badger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Asmodeus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Asmodeus.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Asmodeus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":23},\"to\":{\"line\":0,\"ch\":23}}}"
+                },
+                {
+                  "title": "Layla Tenama",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Layla Tenama.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Layla Tenama\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":354},\"to\":{\"line\":10,\"ch\":354}},\"scroll\":0}"
+                },
+                {
+                  "title": "Kix",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Kix.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kix\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":35},\"to\":{\"line\":2,\"ch\":35}},\"scroll\":10.794487847222221}"
+                },
+                {
+                  "title": "Barnacle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Barnacle.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Barnacle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Badger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Badger.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Badger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.495251494899755}"
+                },
+                {
+                  "title": "Asmodeus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Asmodeus.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Asmodeus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.23828125}"
+                },
+                {
+                  "title": "Badger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Badger.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Badger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":23},\"to\":{\"line\":0,\"ch\":23}}}"
+                },
+                {
+                  "title": "Ariel Grimwill",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 2/Ariel Grimwill.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ariel Grimwill\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Aji Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 2/Aji Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aji Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Almint Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Almint Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Almint Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.176920572916668}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":23},\"to\":{\"line\":0,\"ch\":23}},\"scroll\":0}"
+                },
+                {
+                  "title": "Almint Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Almint Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Almint Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":29.538151041666666}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":98},\"to\":{\"line\":6,\"ch\":98}},\"scroll\":22.209635416666668}"
+                },
+                {
+                  "title": "Almint Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Almint Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Almint Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Almint Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Almint Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Almint Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Nampha",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Nampha.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nampha\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":18},\"to\":{\"line\":0,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Zilton Zalzalm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Zilton Zalzalm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Zilton Zalzalm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":372},\"to\":{\"line\":14,\"ch\":372}},\"scroll\":2.443162538174415}"
+                },
+                {
+                  "title": "Fel Sinderheim",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Fel Sinderheim.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fel Sinderheim\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":10.081603939500528}"
+                },
+                {
+                  "title": "Andhal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Andhal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Andhal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":14},\"to\":{\"line\":0,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Na' Hal",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Na' Hal.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Na' Hal\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":7.0884673958189115}"
+                },
+                {
+                  "title": "Nampha",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Fellowship of the Gate (of which we need to close)/Na' Hal/Nampha.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Nampha\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "The Hellbringers",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"The Hellbringers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Hellbringers\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Hellbringers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Malm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Malm.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Malm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.287322274881516}"
+                },
+                {
+                  "title": "Gabble Skipplestump",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gabble Skipplestump\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Deyrale Dinglebottom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Deyrale Dinglebottom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Almint Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers/Almint Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Almint Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Raw Season 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Raw Season 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Badger",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Origin in Season 1/Badger.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Badger\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Season Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 1 (The Hellbringers)/Season Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Season Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":96.80425347222223}"
+                },
+                {
+                  "title": "The Spire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Countries/The Spire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Spire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Forest Guard Village",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Settlements/Forest Guard Village.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Forest Guard Village\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Spire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Countries/The Spire.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Spire\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":164},\"to\":{\"line\":2,\"ch\":164}}}"
+                },
+                {
+                  "title": "The Arc Rebellion",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Countries/The Arc Rebellion.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Arc Rebellion\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Sand Babies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Countries/The Sand Babies.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Sand Babies\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ice Sheet City",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Settlements/Ice Sheet City.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ice Sheet City\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":32},\"to\":{\"line\":0,\"ch\":32}}}"
+                },
+                {
+                  "title": "Freia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Countries/Freia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Freia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Raw Season 2 Act 1 Summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":1562},\"to\":{\"line\":41,\"ch\":1562}},\"scroll\":40.443487394957984}"
+                },
+                {
+                  "title": "City of the Damned",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Settlements/City of the Damned.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"City of the Damned\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":32},\"to\":{\"line\":0,\"ch\":32}},\"scroll\":0}"
+                },
+                {
+                  "title": "The Hellbringers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Player Characters/The Hellbringers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Hellbringers\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -1534,12 +1936,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Settlements/City of the Damned.md",
+                "file": "Characters/Origin in Season 1/Gus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "City of the Damned"
+              "title": "Gus"
             }
           }
         ]
@@ -1830,104 +2232,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "a514559b609e3057",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cd972b8b710c4423",
-        "type": "window",
-        "children": [
-          {
-            "id": "264db1b8ce3366b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c843488353443dd9",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Session 4",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Raw Season 2 Act 1 Summary",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Raw Season 2 Act 1 Summary"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 640,
-        "y": 0,
-        "width": 640,
-        "height": 752,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "ce9801f21b6420c7",
   "lastOpenFiles": [
-    "The Hellbringers.md",
-    "Locations/Settlements/City of the Damned.md",
-    "Locations/Settlements/Clearwind.md",
-    "Locations/Settlements/City of the Damned.md.tmp.18016.3a27bffddb5f",
-    "Locations/Settlements/Coalmouth.md",
-    "Locations/Settlements/Fortitude.md",
-    "Locations/Settlements/Frostport.md",
-    "Locations/Landmarks/Gaping Inferno.md",
-    "Locations/Landmarks/The Great Plateau.md",
-    "Locations/Landmarks/The Golden Palace.md",
-    "Locations/Landmarks/The Infinite Dungeon.md",
-    "Locations/Landmarks/The Ocean Floor's Cove.md",
-    "Locations/Landmarks/The Everexpanding Library.md",
-    "Locations/Landmarks/The Experiment Site.md",
-    "Locations/Landmarks/Deathstroke Dunes.md",
-    "Locations/Landmarks/Canyon of the Giants.md",
-    "Locations/Settlements/Snowburied City.md",
-    "Locations/Countries/Feldin.md",
-    "Locations/Countries/Everreach.md",
-    "Locations/Countries/Evergreen Kingdom.md",
-    "Locations/Countries/Egrouca.md",
-    "Locations/Countries/Dragonscar.md",
-    "Locations/Countries/Bruibary Monarchy.md",
-    "Locations/Settlements/Torin Village.md",
-    "Locations/Settlements/Underrough City.md",
-    "Locations/Settlements/Warslumber Keep.md",
-    "Locations/Settlements/Wetbranch City.md",
-    "Locations/Settlements",
-    "Locations/Landmarks",
-    "Locations/Countries",
-    "Locations",
-    "Location Log for Hellspire.xlsx",
-    "Lore/Campaign Specific Notes/The Brazier of Hellish Fire.md.tmp.18016.1b43ebfa19b8",
-    "Lore/Campaign Specific Notes/The Brazier of Hellish Fire.md.tmp.18016.2cceeb70a0a3",
-    "Lore/World Specific Notes",
-    "Lore/Magic and Lore Specific Notes",
+    "Characters/Origin in Season 1/Griffin Bullethole.md",
+    "Characters/Origin in Season 1/Gilles Freia.md",
+    "Characters/Origin in Season 1/Frink.md",
+    "Characters/Origin in Season 1/Fish.md",
+    "Characters/Origin in Season 1/Dama.md",
+    "Characters/Origin in Season 1/Cthulhu.md",
+    "Characters/Origin in Season 1/Camila Aleleaf.md",
+    "Characters/Origin in Season 1/Byrst.md",
+    "Characters/Origin in Season 1/Barnacle.md",
+    "Characters/Origin in Season 1/Badger.md",
+    "Characters/Origin in Season 1/Asmodeus.md",
+    "Characters/Origin in Season 1/Layla Tenama.md",
+    "Characters/Origin in Season 1/Kix.md",
+    "Characters/Origin in Season 2/Ariel Grimwill.md",
+    "Characters/Origin in Season 2/Aji Skipplestump.md",
+    "Characters/Origin in Season 1/Cthulhu.md.tmp.15536.8af1da103a2d",
+    "Characters/Origin in Season 1/Asmodeus.md.tmp.15536.a6040d1dd51c",
+    "Characters/Origin in Season 1/Torrin Streats.md",
+    "Characters/Origin in Season 1/Sir Albert.md",
+    "Characters/Origin in Season 1/Sir Albert.md.tmp.15536.4da2b5e75cc1",
+    "Characters/Origin in Season 1/Loo.md",
+    "Characters/Origin in Season 1/Loo.md.tmp.15536.fd9ddb4ac724",
+    "Characters/Origin in Season 1/Oogloo.md",
+    "Characters/Origin in Season 1/Oogloo.md.tmp.15536.5e94994f3d41",
+    "Characters/Origin in Season 1/Dama.md.tmp.15536.ec7bf7b073c1",
+    "Characters/Origin in Season 1/Gus.md",
+    "Characters/Origin in Season 1/Gus.md.tmp.15536.6cfda2620824",
+    "Characters/Origin in Season 1/Kix.md.tmp.15536.d2afd8a1da61",
+    "Characters/Origin in Season 1/The Treasurer.md",
+    "Characters/Origin in Season 1/The Treasurer.md.tmp.15536.faf1eb895fe6",
+    "Characters/Origin in Season 1/Fish.md.tmp.15536.23515cb0ad51",
+    "Characters/Origin in Season 1/Violence.md",
+    "Characters/Origin in Season 1/Peace.md",
+    "Characters/Player Characters/The Hellbringers/Gabble Skipplestump.md",
+    "Characters/Player Characters/The Hellbringers/Almint Freia.md",
+    "Characters/Player Characters/The Hellbringers/Deyrale Dinglebottom.md",
     "Images/Pasted image 20260613012312.png",
     "Pasted image 20260120033243.png"
   ]

@@ -1,8 +1,8 @@
-| | |
-|---|---|
-| **Type** | City |
-| **Original Ownership (1107)** | [[Freia]] |
-| **Status in 1127** | [[The Al Empire]] |
+|                               |                   |
+| ----------------------------- | ----------------- |
+| **Type**                      | City              |
+| **Original Ownership (1107)** | [[Freia]]         |
+| **Status in 1127**            | [[The Al Empire]] |
 
 ## Overview
 

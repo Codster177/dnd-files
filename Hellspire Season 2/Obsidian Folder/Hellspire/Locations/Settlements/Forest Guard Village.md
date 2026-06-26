@@ -1,8 +1,8 @@
-| | |
-|---|---|
-| **Type** | Town |
+|                               |               |
+| ----------------------------- | ------------- |
+| **Type**                      | Town          |
 | **Original Ownership (1107)** | [[The Spire]] |
-| **Status in 1127** | [[New Freia]] |
+| **Status in 1127**            | [[New Freia]] |
 
 ## Overview
 

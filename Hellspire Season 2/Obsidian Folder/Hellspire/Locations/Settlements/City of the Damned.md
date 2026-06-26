@@ -1,8 +1,8 @@
-| | |
-|---|---|
-| **Type** | City |
+|                               |                                       |
+| ----------------------------- | ------------------------------------- |
+| **Type**                      | City                                  |
 | **Original Ownership (1107)** | [[Outcasts Coast]] (The Damned Guild) |
-| **Status in 1127** | In Ruins from the Invasion |
+| **Status in 1127**            | In Ruins from the Invasion            |
 
 ## Overview
 

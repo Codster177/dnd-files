@@ -1,8 +1,8 @@
-| | |
-|---|---|
-| **Type** | Capital |
-| **Original Ownership (1107)** | [[The Spire]] |
-| **Status in 1127** | In Ruins from the Invasion |
+|                               |                            |
+| ----------------------------- | -------------------------- |
+| **Type**                      | Capital                    |
+| **Original Ownership (1107)** | [[The Spire]]              |
+| **Status in 1127**            | In Ruins from the Invasion |
 
 ## Overview
 
