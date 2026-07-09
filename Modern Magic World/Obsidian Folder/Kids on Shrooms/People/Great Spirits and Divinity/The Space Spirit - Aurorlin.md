@@ -35,6 +35,8 @@ What are your character's fears?
 
 Aurorlin is the representation of the atmosphere and that beyond. Aurorlin and [[The Great Moth - Sola]] are the last protection of [[Avira]] from [[The Great Horrors]] of the universe, if [[The Goddess]] was to ever fail at protecting her children. Where [[The Great Moth - Sola]] protects the world from the closest great horror, processing it into the sun to the mortals of the world, Aurorlin is focused on protecting the [[Avira]] from the rest of the horrors in the universe, and processes them into the stars of the night sky. 
 
+Aurorlin and Sola are children of [[The Goddess]], dedicating their existence to helping their mother defend the world, akin to how Helios pulled the sun and moon. The horrors feed off of life and [[Magic]], and witnessing one would cause you to go mad; the energy and effort they constantly spend attacking [[Avira]] is exactly what the two siblings catch and repurpose into something that actively helps the life below.
+
 ---
 ## Relationships:
 

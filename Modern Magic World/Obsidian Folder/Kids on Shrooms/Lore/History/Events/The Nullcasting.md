@@ -1,0 +1,9 @@
+The Nullcasting is the spell that ended [[Era 5 - The Severing War]] on 8/30/1511 AV, cast to end a war of more than a century decisively in favor of the wizards who would become the [[Scholars of Avira]]. It was a single casting, not a standing enchantment. Nothing maintains it, because nothing needs to; the damage was done in one day.
+
+The spell did three things at once. It dealt physical damage to the world itself, in some capacities akin to a nuclear bomb. It corrupted the minds of people across the world to forget [[Magic]] ever existed, sparing only the people of [[Orochi]], who sat beyond its reach. And it stripped magic from everyone who was not strong enough to protect their own: some casters were strong enough to keep all of their magic, others came out of it much weaker, and most lost it entirely.
+
+The spell was not clean. Experienced magic users of every kind, [[Wizards]], [[Sorcerers]], [[Warlocks]], who fully succumbed to it had enough of their memory corrupted to leave them mentally unwell, many with compromised consciousness, disabled in various ways for the rest of their lives. The public explanation was simply the war. Veterans homes became vastly popular across [[Astaria]], [[Rane]], and the other countries of the [[Main Continent]] in the years that followed.
+
+The physical damage rewrote geography. The land around [[The Kamihara]] was destroyed outright, and what had been part of the mainland became the island the blockades now circle.
+
+The Nullcasting did not make the world permanently magic-blind on its own. People born after 1511 grow up blind because the [[Scholars of Avira]], previously the core of [[The Grand Aviran Empire]], keep up the conspiracy that magic does not exist. They have built false histories and entire systems to hold the blindness in place, all while quietly incorporating magic into modern technology.

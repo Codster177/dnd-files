@@ -1,0 +1,1 @@
+Goodsprings is [[Astaria]]'s oasis city, a Vegas-like glitter of lights in the western desert, built beside the small border lake it is named for. [[Rane]]'s territory begins at the city's edge, making Goodsprings the closest thing the two countries have to a front door between them.

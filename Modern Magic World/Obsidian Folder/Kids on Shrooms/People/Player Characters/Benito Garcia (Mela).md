@@ -1,5 +1,7 @@
 Benito Guillermo Garcia, or Apricot, is a senior at [[Lake Prospect]] high school. He is played by Mela, and inherits the position of Witch of the Eternal Woods.
 
+His station covers all woods and greenery, not one forest. Destroying it would require every tree to be logged and paved, so unlike a witch of some single grove, his power is in no real danger of dying by chainsaw (see [[Witch Magic and Stations]]).
+
 His birthday is 8/36/1603, or the 36th of Second Winter, 1603. This makes him 17.
 
 ---

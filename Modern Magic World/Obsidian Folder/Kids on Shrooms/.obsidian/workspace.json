@@ -18,6 +18,294 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Wizards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Wizards.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Witches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Witches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Warlocks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Warlocks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlocks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sorcerers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Sorcerers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spirits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Spirits.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Spirits\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kingston Lang Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Kingston Lang Development.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingston Lang Development\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lamar Goldberg Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Lamar Goldberg Development.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lamar Goldberg Development\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kingston Lang Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Kingston Lang Development.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingston Lang Development\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lamar Goldberg Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Lamar Goldberg Development.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lamar Goldberg Development\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kingston Lang Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Kingston Lang Development.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingston Lang Development\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 6 HUMI Source Plot Hole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Session 6 HUMI Source Plot Hole.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 6 HUMI Source Plot Hole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":61,\"ch\":0}},\"scroll\":36.53151166717779}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":171,\"ch\":196},\"to\":{\"line\":171,\"ch\":204}},\"scroll\":163.1140756302521}"
+                },
+                {
+                  "title": "Unnamed Nations (Map Holding Pen)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Unnamed Nations (Map Holding Pen).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Unnamed Nations (Map Holding Pen)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.1666666666666667}"
+                },
+                {
+                  "title": "Aviani Palace Design Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Aviani Palace Design Ideas.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Aviani Palace Design Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Tindomye",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Tindomye.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tindomye\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Claude Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Claude Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Claude Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":41},\"to\":{\"line\":39,\"ch\":41}},\"scroll\":35.32934083601286}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":31},\"to\":{\"line\":0,\"ch\":31}},\"scroll\":1}"
+                },
+                {
+                  "title": "Pre Humanity - The Age of Spirits",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Pre Humanity - The Age of Spirits.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Pre Humanity - The Age of Spirits\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 1 - Migration and Early Settlements",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 1 - Migration and Early Settlements.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 1 - Migration and Early Settlements\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":37},\"to\":{\"line\":1,\"ch\":37}}}"
+                },
+                {
+                  "title": "Era 2 - The Great Awakening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 2 - The Great Awakening.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 2 - The Great Awakening\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 1 - Migration and Early Settlements",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 1 - Migration and Early Settlements.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 1 - Migration and Early Settlements\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 2 - The Great Awakening",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 2 - The Great Awakening.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 2 - The Great Awakening\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 4 - The Age of Discovery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 4 - The Age of Discovery.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 4 - The Age of Discovery\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Era 5 - The Severing War",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 5 - The Severing War.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 5 - The Severing War\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 4 - The Age of Discovery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 4 - The Age of Discovery.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 4 - The Age of Discovery\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 5 - The Severing War",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 5 - The Severing War.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 5 - The Severing War\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Main Continent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Main Continent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Main Continent\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Claude Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Claude Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Claude Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":179},\"to\":{\"line\":43,\"ch\":179}},\"scroll\":38.13588812980359}"
+                },
+                {
+                  "title": "Main Continent",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Main Continent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Yama\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+                },
+                {
+                  "title": "Orochi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Claude Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Claude Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Claude Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":184},\"to\":{\"line\":43,\"ch\":184}},\"scroll\":2.388888888888889}"
+                },
+                {
+                  "title": "Broad History",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":46.806919950466416}"
+                },
+                {
+                  "title": "Claude Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Claude Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Claude Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":127},\"to\":{\"line\":135,\"ch\":127}},\"scroll\":130.34522332506202}"
+                },
+                {
+                  "title": "Fort Victor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astaria/Towns/Fort Victor.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fort Victor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Auburn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astaria/Towns/Auburn.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Auburn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lake Prospect",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astaria/Cities/Lake Prospect/Lake Prospect.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lake Prospect\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Beckley City",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astaria/Cities/Beckley City.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Beckley City\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+                },
+                {
+                  "title": "Lake Prospect",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astaria/Cities/Lake Prospect/Lake Prospect.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Lake Prospect\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Neridora",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Neridora.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Neridora\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Palicia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Palicia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Palicia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Orochi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Palicia",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/Orochi Nations/Palicia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Palicia\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Orochi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":213},\"to\":{\"line\":7,\"ch\":213}},\"scroll\":0}"
+                },
+                {
+                  "title": "Claude Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Claude Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Claude Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":171},\"to\":{\"line\":72,\"ch\":171}},\"scroll\":13.229817708333334}"
+                },
+                {
+                  "title": "Relationships",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"People/Relationships.canvas\",\"viewState\":{\"x\":-1062.9051297292474,\"y\":459.79978574022175,\"zoom\":-1.3677037247395436}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"Relationships\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Hido Garcia",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Benito's Family/Hido Garcia.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hido Garcia\"}",
@@ -32,21 +320,18 @@
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "People/Relationships.canvas",
-                "viewState": {
-                  "x": -109.00897048961446,
-                  "y": -140.40257069926804,
-                  "zoom": -1.3677037247395436
-                }
+                "file": "Lore/Magic/Spellcasters/Witches.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Relationships"
+              "icon": "lucide-file",
+              "title": "Witches"
             }
           },
           {
-            "id": "ce9801f21b6420c7",
+            "id": "eb3e27c91e9a7ab5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -54,6 +339,42 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "The Aviran Calendar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Aviran Calendar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Aviran Calendar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Avira",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Avira\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 4 - The Age of Discovery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 4 - The Age of Discovery.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 4 - The Age of Discovery\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 5 - The Severing War",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 5 - The Severing War.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 5 - The Severing War\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Era 4 - The Age of Discovery",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 4 - The Age of Discovery.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 4 - The Age of Discovery\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Era 3 - The First Dark Age",
@@ -71,115 +392,349 @@
                   "title": "Era 1 - Migration and Early Settlements",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 1 - Migration and Early Settlements.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 1 - Migration and Early Settlements\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.330462184873948}"
+                },
+                {
+                  "title": "Shen Backstory and Her Mother (URGENT)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Shen Backstory and Her Mother (URGENT).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shen Backstory and Her Mother (URGENT)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":119},\"to\":{\"line\":12,\"ch\":119}},\"scroll\":0}"
+                },
+                {
+                  "title": "Hazel Eyes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Witches/Hazel Eyes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hazel Eyes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.580729166666666}"
+                },
+                {
+                  "title": "Witch Magic and Stations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Witch Magic and Stations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witch Magic and Stations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.776041666666666}"
+                },
+                {
+                  "title": "Warlock Magic and Pacts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Warlock Magic and Pacts.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlock Magic and Pacts\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Broad History",
+                  "title": "Spirit Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Spirit Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Spirit Magic\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Era 1 - Migration and Early Settlements",
+                  "title": "Sorcerer Magic and Bloodlines",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Era 1 - Migration and Early Settlements.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Era 1 - Migration and Early Settlements\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Broad History",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Sorcerer Magic and Bloodlines.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Magic and Bloodlines\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Witches",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Witches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witches\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Witches.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8064516129032258}"
                 },
                 {
-                  "title": "Warlocks",
+                  "title": "Wizard Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Spellcasters/Warlocks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlocks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Wizard Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizard Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":181},\"to\":{\"line\":4,\"ch\":181}},\"scroll\":0}"
                 },
                 {
-                  "title": "Broad History",
+                  "title": "Magic",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/History/Broad History.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Broad History\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":49.37210746769254}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":238},\"to\":{\"line\":17,\"ch\":238}},\"scroll\":2.0868385345997287}"
                 },
                 {
-                  "title": "Rachel De Narris",
+                  "title": "Worldbuilding Questions",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9336734693877551}"
+                },
+                {
+                  "title": "Orochi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Orochi.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Orochi\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Milani Toll",
+                  "title": "Main Continent",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Milani Toll.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Milani Toll\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Main Continent.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Main Continent\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Cedrela, the Queen Bee Spirit",
+                  "title": "Tindomye",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Cedrela, the Queen Bee Spirit.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Cedrela, the Queen Bee Spirit\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Tindomye.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Tindomye\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Rosaline, The Weavedropper",
+                  "title": "Pasted image 20250704021953",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Obsidian Stuff/Images/Pasted image 20250704021953.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20250704021953\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20260120033243",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Obsidian Stuff/Images/Pasted image 20260120033243.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20260120033243\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20250704021953",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Obsidian Stuff/Images/Pasted image 20250704021953.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20250704021953\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Pasted image 20260120033243",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"Obsidian Stuff/Images/Pasted image 20260120033243.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20260120033243\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Modify Memory",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Spirits/Rosaline, The Weavedropper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rosaline, The Weavedropper\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Wizard Spells/Modify Memory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Modify Memory\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Astaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Astaria.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Astaria\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":643},\"to\":{\"line\":82,\"ch\":643}},\"scroll\":69.30729166666667}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.521484375}"
                 },
                 {
                   "title": "Li JiaShen (Nick)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":83.25231092436975}"
-                },
-                {
-                  "title": "Ian Long (Aaron)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":73.94425031766201}"
-                },
-                {
-                  "title": "Sweet Lake Forest",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astarian Cities/Lake Prospect/Nature/Sweet Lake Forest.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sweet Lake Forest\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "West Paradise High School",
+                  "title": "Mason De Narris",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"West Paradise High School\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Mason De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mason De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Howard De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Howard De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Howard De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Math Club",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/School Organizations/Math Club.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Math Club\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ulism",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Religions/Ulism.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ulism\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Church of Abeus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Religions/The Church of Abeus.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Church of Abeus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ulism",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Religions/Ulism.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ulism\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Church of Abeus",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Religions/The Church of Abeus.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Church of Abeus\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Developed International Concord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/Developed International Concord.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Developed International Concord\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Etheri",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Etheri.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Etheri\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "The Celestial Coven",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/The Celestial Coven.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Celestial Coven\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Scholars of Avira",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Organizations/Global Organizations/Scholars of Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scholars of Avira\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "The Doorman",
+                  "title": "Wizards",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Great Spirits and Divinity/The Doorman.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Doorman\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.504557291666664}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Wizards.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Release Notes 1.10.6",
-                  "icon": "lucide-book-up",
-                  "state": "{\"type\":\"release-notes\",\"state\":{\"currentVersion\":\"1.10.6\"},\"icon\":\"lucide-book-up\",\"title\":\"Release Notes 1.10.6\"}",
-                  "eState": "{}"
+                  "title": "Sorcerers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Sorcerers.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Avira",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Avira\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":82.73550420168067}"
+                },
+                {
+                  "title": "Wizard Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Wizard Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizard Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sorcerer Magic and Bloodlines",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Sorcerer Magic and Bloodlines.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sorcerer Magic and Bloodlines\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Spirit Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Spirit Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Spirit Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Warlock Magic and Pacts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Warlock Magic and Pacts.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Warlock Magic and Pacts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Witch Magic and Stations",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Witch Magic and Stations.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Witch Magic and Stations\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wizard Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Wizard Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizard Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":223},\"to\":{\"line\":0,\"ch\":223}}}"
+                },
+                {
+                  "title": "Wizards",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Spellcasters/Wizards.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizards\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wizard Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Types of Magic/Wizard Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wizard Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":39},\"to\":{\"line\":0,\"ch\":39}}}"
+                },
+                {
+                  "title": "Magic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/Magic/Magic.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Magic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":201,\"ch\":77},\"to\":{\"line\":201,\"ch\":77}},\"scroll\":218.2701612903226}"
+                },
+                {
+                  "title": "Session 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.630580357142857}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 6 HUMI Source Plot Hole",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Session 6 HUMI Source Plot Hole.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 6 HUMI Source Plot Hole\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":82},\"to\":{\"line\":30,\"ch\":82}},\"scroll\":24.139308681672027}"
+                },
+                {
+                  "title": "Session 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.797526041666666}"
+                },
+                {
+                  "title": "Worldbuilding Questions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Worldbuilding Questions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Worldbuilding Questions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":174},\"to\":{\"line\":29,\"ch\":174}},\"scroll\":24.139308681672027}"
+                },
+                {
+                  "title": "Astaria",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Countries/First World Nations/Astaria.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Astaria\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/History/Broad History.md",
+                "file": "Lore/The Kamihara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broad History"
+              "title": "The Kamihara"
             }
           },
           {
@@ -692,7 +1247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 350.5
   },
   "right": {
     "id": "82e5305b6257e76f",
@@ -792,21 +1347,196 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Relationships.canvas",
+                "file": "Tools/Claude Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relationships"
+              "title": "Outline of Claude Notes"
+            }
+          },
+          {
+            "id": "88c5070eff557992",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_780b39ca6b79",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 2,
+                    "year": 1621
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_0999eb690b78"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "21b0ca900546b10f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_780b39ca6b79",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 2,
+                    "year": 1621
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_da296b3aeaab"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "262ad56ad74ef920",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_780b39ca6b79",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 2,
+                    "year": 1621
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_a82a694aeae9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "c52af1872c942df4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_780b39ca6b79",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 3,
+                    "month": 2,
+                    "year": 1621
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 2,
+                    "year": 1621
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": false,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_79baa91999e8",
+                "child": "ID_ab4b1909d93b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "c876658bb438ee6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c445e3e90d8ae69",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_780b39ca6b79",
+                "id": "ID_ab4b1909d93b",
+                "parent": "ID_79baa91999e8"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -819,38 +1549,50 @@
       "bases:Create new base": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-kanban:Create new board": false,
-      "calendarium:Open Calendarium": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "ce9801f21b6420c7",
+  "active": "eb3e27c91e9a7ab5",
   "lastOpenFiles": [
+    "Lore/The Aviran Calendar.md",
+    "Lore/Avira.md",
+    "Lore/Humanity.md",
+    "Lore/History/Era 4 - The Age of Discovery.md",
+    "Lore/History/Era 5 - The Severing War.md",
     "Lore/History/Era 3 - The First Dark Age.md",
     "Lore/History/Era 2 - The Great Awakening.md",
     "Lore/History/Era 1 - Migration and Early Settlements.md",
-    "Lore/History/Broad History.md",
-    "Lore/Spellcasters/Witches.md",
-    "Lore/Spellcasters/Warlocks.md",
-    "People/Students/Rachel De Narris.md",
-    "People/Students/Milani Toll.md",
-    "People/Spirits/Cedrela, the Queen Bee Spirit.md",
-    "People/Spirits/Rosaline, The Weavedropper.md",
-    "People/Player Characters/Li JiaShen (Nick).md",
-    "People/Player Characters/Ian Long (Aaron).md",
-    "Lore/Magic.md",
-    "Locations/Astarian Cities/Lake Prospect/Nature/Sweet Lake Forest.md",
-    "Locations/Astarian Cities/Lake Prospect/Schools/West Paradise High School.md",
-    "People/Great Spirits and Divinity/The Doorman.md",
-    "Lore/Humanity.md",
-    "System Design/Stats.md",
-    "People/Other Adults/Stanley Reed.md",
-    "Session Logs/Session 3.md",
-    "Session Logs/Session 4.md",
-    "Session Logs/Session 1.md",
-    "Session Logs/Session 2.md",
-    "People/Other Adults/Kingston Lang.md",
-    "Session Logs/Session 5.md",
-    "People/Other Adults/Lamar Goldberg.md",
-    "Pasted image 20260120033243.png"
+    "Tools/Claude Notes/Worldbuilding Questions.md",
+    "Tools/Claude Notes/Shen Backstory and Her Mother (URGENT).md",
+    "People/Witches/Hazel Eyes.md",
+    "Lore/Magic/Types of Magic/Witch Magic and Stations.md",
+    "Lore/Magic/Types of Magic/Warlock Magic and Pacts.md",
+    "Lore/Magic/Types of Magic/Spirit Magic.md",
+    "Lore/Magic/Types of Magic/Sorcerer Magic and Bloodlines.md",
+    "People/Families/Caspian's Family/Georgia Forrest.md",
+    "Lore/Magic/Spellcasters/Witches.md",
+    "Lore/Magic/Types of Magic/Wizard Magic.md",
+    "Lore/Magic/Magic.md",
+    "Tools/Claude Notes/Worldbuilding Questions.md.tmp.10976.d2b707e4c5a0",
+    "Tools/Claude Notes/Worldbuilding Questions.md.tmp.10976.700e1f22e430",
+    "Tools/Claude Notes/Worldbuilding Questions.md.tmp.10976.a47912df8710",
+    "Tools/Claude Notes/Nullcasting Loose Ends.md.tmp.10976.18d5bc228741",
+    "Tools/Claude Notes/Spirit Questions.md",
+    "Tools/Claude Notes/Spirit Questions.md.tmp.10976.b91553d96a49",
+    "Tools/Claude Notes/Holidays of Avira.md",
+    "Tools/Claude Notes/Holidays of Avira.md.tmp.10976.67a0581b804a",
+    "Tools/Claude Notes/False History Design.md",
+    "Tools/Claude Notes/False History Design.md.tmp.10976.5c5386152e4d",
+    "Tools/Claude Notes/Hazel Eyes and Sabine Backstories.md",
+    "Tools/Claude Notes/Hazel Eyes and Sabine Backstories.md.tmp.10976.9acfd17cbefd",
+    "Tools/Claude Notes/Major Witch Stations.md",
+    "Tools/Claude Notes/Major Witch Stations.md.tmp.10976.d0b554b5275b",
+    "Tools/Claude Notes/Enchanted Objects Tracking.md",
+    "Tools/Claude Notes/Enchanted Objects Tracking.md.tmp.10976.26d7766e6407",
+    "Tools/Claude Notes/The Doorman Plot Hole.md",
+    "Obsidian Stuff/Images/Pasted image 20250704021953.png",
+    "Obsidian Stuff/Images/Pasted image 20260120033243.png",
+    "People/Relationships.canvas"
   ]
 }

@@ -1,11 +1,11 @@
-|                       |                                              |
-| --------------------- | -------------------------------------------- |
-| **Species**           | Dragonborn                                   |
-| **Class**             | Paladin                                       |
-| **Age**               | *(unknown — to be filled in)*                |
-| **Status**            | Dead (decapitated by [[Fish]])               |
-| **Current Location**  | —                                            |
-| **Affiliation(s)**    | In service to a dragon; briefly allied with the Hellbringers |
+|                      |                                                              |
+| -------------------- | ------------------------------------------------------------ |
+| **Species**          | Dragonborn                                                   |
+| **Class**            | Paladin                                                      |
+| **Age**              | *(unknown — to be filled in)*                                |
+| **Status**           | Dead (decapitated by [[Fish]])                               |
+| **Current Location** | —                                                            |
+| **Affiliation(s)**   | In service to a dragon; briefly allied with the Hellbringers |
 
 ### Backstory
 

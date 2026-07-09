@@ -18,6 +18,10 @@ What are your character's fears?
 
 ---
 ## Backstory:
+Vince came over to [[Astaria]] from [[Neridora]] about a year before [[Marlowe Melville (Rylee)|Marlowe]] did, and went through the [[Astaria#The HUMI|HUMI]]'s immigration process then, his memories of magic and spirits wiped like every other immigrant out of [[Orochi]]. That is why he remembers the harbor reunion clearly: by the time Marlowe arrived, his processing was long done.
+
+If Marlowe ever tells him something that is Orochi-only information, it would be handled with a simple one time modify memory spell, not the complicated ritual that happens during immigration.
+
 ---
 ## Schedule:
 ---

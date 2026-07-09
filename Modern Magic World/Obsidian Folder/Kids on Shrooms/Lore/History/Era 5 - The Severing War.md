@@ -7,3 +7,5 @@ The war between [[The Grand Aviran Empire]] and forces of Spirits and their [[Wa
 
 This war started following the 1300s, a period of abundant conquering of kingdoms on behalf of [[The Grand Aviran Empire]]. 
 
+In the history the world remembers, the blame for the war was assigned to [[Orochi]]. The Severing War is publicly known as a century long war between most of the world and Orochi, and that blame gave the newly formed [[Developed International Concord]] the flexibility to establish the embargo that still stands.
+

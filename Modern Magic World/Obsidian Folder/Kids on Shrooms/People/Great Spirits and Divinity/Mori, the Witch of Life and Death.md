@@ -29,6 +29,10 @@ What are your character's fears?
 
 ---
 ## Backstory:
+Mori is a psychopomp. She has ascended to a being beyond death, and helps guide various people and creatures to the afterlife.
+
+She is also the enforcer of witch tradition. A witch who abandons their station and lives on powerless typically ends up with Mori hunting them; escaping her is akin to escaping death, very rare but it happens. She spares the ones whose stations were never powerful enough to attract her, and the ones with a good reason that convinces her. For outrageous violations, a witch blatantly disrespecting or actively working against their own station, she steps in personally.
+
 ---
 ## Schedule:
 ---

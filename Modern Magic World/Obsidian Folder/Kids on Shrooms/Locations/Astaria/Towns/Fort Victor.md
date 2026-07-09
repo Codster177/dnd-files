@@ -1,0 +1,1 @@
+Fort Victor is a town on [[Astaria]]'s northern border, where the country meets its large unnamed northern neighbor near the coast. As the name says, it began as a border fort, and it is still the checkpoint the northern highway passes through on its way out of the country.

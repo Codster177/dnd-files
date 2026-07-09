@@ -1,0 +1,1 @@
+Beckley City is a city in western [[Astaria]], set against the great mountain range that splits the country's grassland half from its desert half. It is the last major stop before the highways climb into the passes, with [[Marietta]] and [[Sweetwater]] to its east and the desert cities toward [[Goodsprings]] and the [[Rane]] border beyond the mountains.

@@ -4,7 +4,7 @@
 	- Top Priority: Report any dangerous [[Magic]] that is nation shattering or worse.
 	- Second Priority: Identify key contact points to the [[Scholars of Avira]] and identify how deep the corruption goes. Is [[Astaria]] worth saving at all?
 - For [[Astaria#The HUMI|The HUMI]]:
-	- Top Priority: Investigate [[Wonder! Aerospace and Defense]] to ensure only the qualified personnel for Project: Touch the Stars was working on it. Eliminate anyone who was unqualified.
+	- Top Priority: Investigate [[Wonder Aerospace and Defense]] to ensure only the qualified personnel for Project: Touch the Stars was working on it. Eliminate anyone who was unqualified.
 
 Georgia got caught by the HUMI when he tried reaching out to [[The Etheri]] once he discovered the intentions for Project: Touch the Stars. He had the base equations that were being built upon by the project as proof to [[The Etheri]]. The intention was to send the information back for actions to be made upon it, but once his position was compromised he has done small sabotage missions for [[The Etheri]] ever since leaving the country.
 

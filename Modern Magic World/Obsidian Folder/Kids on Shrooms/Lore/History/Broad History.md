@@ -1,12 +1,12 @@
 Broad Timeline in form of Eras:
 ```timeline-labeled [line-3, body-2] 
-date: Around </br> -4000 BA
+date: Around </br> -40000 BA
 title: [[The Beginning of Avira|The Beginning of Avira]]
 content: The Goddess seeks to create a home for her children protected away from the horrors of the universe. Finding the planet that will be known as Avira a suitable home for her children, she touches the planet for the only time.
 - This act creates the [[The Kamihara]]. 
 
 
-date: -4000 BA</br>-</br>-2100 BA
+date: -40000 BA</br>-</br>-2100 BA
 title: Pre-Humanity: [[Pre Humanity - The Age of Spirits|The Age of Spirits]]
 content: Spirits roam the Earth living in their own form of harmony. The spirits would naturally clash welcomely. Water and fire spirits would dance endlessly killing each other, and living forever. The world was fulfilling the purpose it was designed for by the Goddess, and spirits enjoyed their heaven.
 
