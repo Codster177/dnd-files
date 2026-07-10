@@ -27,7 +27,7 @@ Here is what I am ruling as the answer to this backstory:
 - During the move to Astaria, ShiWang was found out as a spirit.
 	- TODO: found out by who, and what happened to him after. This is the gap where he leaves Shen's life.
 - SiSheng's death: the complications that started with the pregnancy manifested into an illness, and years later that illness is what killed her.
-- The butterfly spirit in Shen's backstory only appears after ShiWang dies. Spirits don't truly die: they don't age to death, and when one is killed its soul returns to [[The Kamihara]] and rejoins the reincarnation cycle (already canon in the Kamihara note).
+- Spirits don't truly die: they don't age to death, and when one is killed its soul returns to [[The Kamihara]] and rejoins the reincarnation cycle (already canon in the Kamihara note).
 	- This answers half the TODO above: whatever happened when he was found out, it killed him.
 - Related lore: a lot of what the [[Scholars of Avira]] do is capture spirits and keep them for future use. Worth holding next to the TODO about who found ShiWang out.
 - When ShiWang died, he returned to the Kamihara and eventually came back as the new butterfly spirit. Reincarnation keeps no memories, but it keeps the passions and the feelings.
