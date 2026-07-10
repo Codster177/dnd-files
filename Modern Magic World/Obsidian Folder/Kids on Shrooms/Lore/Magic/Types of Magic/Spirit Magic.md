@@ -3,4 +3,4 @@ Spirit magic is the magic of the [[Spirits]] themselves, the fifth category adde
 Two fundamental rules bound it:
 
 - Spirits cannot cast wizard magic. Their nature and wizardry do not mix.
-- Among humans, only [[Warlocks]] can cast any type of spirit magic, and only because a spirit's pact grants it to them.
+- Among humans, only [[Sorcerers]] that have spirit-based bloodlines and [[Warlocks]] can cast any type of spirit magic, and only because a spirit's powers that are related to those spellcasters.

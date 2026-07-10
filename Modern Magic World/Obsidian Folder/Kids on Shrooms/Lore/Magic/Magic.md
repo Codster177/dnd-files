@@ -7,7 +7,7 @@ A person can hold two sources of magic, but it is taboo. Spirits may not like a 
 Two rules do lie in the fundamentals of magic itself:
 
 - Spirits cannot cast wizard magic.
-- Warlocks are the only humans that can cast spirit magic, and only the magic they receive from the spirit they are in a pact with.
+- Warlocks and Sorcerers descending from spirit bloodlines are the only humans that can cast spirit magic, and only the magic they receive from the spirit they are associated with.
 
 ## What Wizardry Cannot Do
 

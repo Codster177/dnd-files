@@ -1,1 +1,0 @@
-Daogao is the capital city of [[Jiā]], sitting on the green southern coast of the subcontinent, with [[Méilí]] just west along the same shore. The strait south of it looks across to [[Astaria]]'s northern coast.
