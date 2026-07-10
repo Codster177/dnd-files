@@ -34,6 +34,10 @@ What are your character's fears?
 
 ---
 ## Backstory:
+The Great Whale is a godlike spirit, one of the few powerful enough to ignore the blockades around [[The Kamihara]] entirely.
+
+The Whale is a spirit of good, and its latest act of faith is a warlock. It selected [[Marlowe Melville (Rylee)]] after looking into her soul and psyche, and chose her with the hope and intention of Marlowe being the Great Whale's change in the world.
+
 ---
 ## Themes:
 
@@ -47,3 +51,6 @@ The Great Whale represents some of the following themes:
 
 ---
 ## Relationships:
+- [[Marlowe Melville (Rylee)]]
+	- Warlock
+	- The pact between them is a very loose one. The Great Whale is always able to gauge Marlowe's values and passions, and as long as she fits with them, the power is granted, gaining strength as her values and passions align stronger. What the Whale gets out of the arrangement is, hopefully, a better world.

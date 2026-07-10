@@ -1,0 +1,1 @@
+Victoria is a city in southern [[Astaria]], sitting inland near the neck of land that runs down toward the southern peninsula. Its highways run north to [[Sweetwater]] and east toward [[Township]] and [[Lake Prospect]].

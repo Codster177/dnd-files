@@ -21,6 +21,8 @@ That his son would not show signs of continuation for his lineage, and would not
 ## Backstory:
 Georgia was 33 when [[Caspian Forrest (Kai)]] (his son) was born. During that time, he was working for [[Astaria#The HUMI|the HUMI]], but was secretly reporting to a segment of the Ranen government called the [[The Etheri|Etheri]] 
 
+The coldness Georgia showed his son was never really about sports. Sorcery is bloodline power that can rarely skip generations (see [[Sorcerer Magic and Bloodlines]]), and what disappointed Georgia was that Caspian never showed signs of inheriting his sorcery power.
+
 ---
 ## Schedule:
 Works for a Ranen "Terrorist" Organization. Formerly worked for [[Astaria#The HUMI|the HUMI]].

@@ -44,6 +44,14 @@ What is different about your characters appearance, personality, goals, and fear
 Becomes much more confident. Goals are the same.
 
 ---
+## Backstory:
+Marlowe immigrated to [[Astaria]] from [[Neridora]]. Like every immigrant out of [[Orochi]], she was put through the [[Astaria#The HUMI|HUMI]]'s immigration process, and the Massive memory modification ritual of [[Modify Memory]] was cast on her in the rune room, wiping and reframing her memories of magic and spirits.
+
+The wipe did not hold. Her own magic cracked it, pushing past the mental barrier the ritual left behind and recovering what was taken.
+
+Her magic comes from a warlock's pact with [[The Great Whale]], and it is a very loose one (see [[Warlock Magic and Pacts]]). The Whale is always able to gauge her values and passions; as long as Marlowe fits with them, the power is granted, and it gains strength as her values and passions align stronger. The Great Whale looked into her soul and psyche before choosing her, hoping Marlowe will be its change in the world.
+
+---
 ## Schedule:
 
 | Schedule                                                          | Period |

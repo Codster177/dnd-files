@@ -1,6 +1,8 @@
 Caspian Forrest is the character played by Kai. They are a sophomore student at [[West Paradise High School]], and are extremely gifted in learning, as they are several classes ahead.
 
-Caspian Forrest is the wizard/artificer of the campaign. He learns [[Magic]] from the natural magical language that exists in the energies of the world.
+Caspian Forrest is the wizard/artificer of the campaign. He learns [[Magic]] from the natural magical language that exists in the energies of the world. The magically attuned wand he works with was left behind by his father, [[Georgia Forrest]], in his briefcase; it is the instrument that let him deduce in one evening that electricity transmits magical energy, something no wandless physicist has managed in 110 years (see [[Wizard Magic]]).
+
+His detection sense is a very light detection, only picking up that magical energy is present. If he wanted to dig deeper into what he senses, he would have to actively cast more magic.
 
 His birthday is 05/40/1605, or the 40th of Second Spring, 1605. This makes him 15 years old.
 

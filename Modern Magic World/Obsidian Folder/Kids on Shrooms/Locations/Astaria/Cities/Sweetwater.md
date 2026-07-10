@@ -1,0 +1,1 @@
+Sweetwater is a city in [[Astaria]]'s forested heartland and one of the country's busiest highway junctions. Roads out of it reach [[Marietta]] to the west, [[Lake Prospect]] to the east, and [[Victoria]] to the south.

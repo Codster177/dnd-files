@@ -33,6 +33,11 @@ Other people seeing her as flawed. Her loosing her status.
 
 ---
 ## Backstory:
+The permanent enchantment on Rachel is a Continuous memory modification curse, the highest and still experimental tier of [[Modify Memory]] studied by the [[Scholars of Avira]], cast onto her by her father [[Howard De Narris]]. The curse rewrites her memories relating to [[Magic]] and conditions her to reprocess anything magical she witnesses going forward, and it is a permanent, hard to remove curse rather than a one time wipe.
+
+The spell's severe side effects on personality are why Rachel fluctuates. She has good days where she is a genuinely good friend, bad days where she is a deviously cunning mean girl, and worse days where she stays home from school.
+
+Rachel has no innate magic of her own and has never learned wizardry. The magical aura [[Caspian Forrest (Kai)|Caspian]]'s detection spell picked up on her was the curse itself.
 
 ---
 ## Schedule:
