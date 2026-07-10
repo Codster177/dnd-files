@@ -7,3 +7,7 @@ Fill and remove notes in this markdown as necessary:
 Tasks to build out:
 - [ ] Build out the current structural system of the [[Scholars of Avira]]. Currently I have vague ideas of how the wizards are placed in their modern day society, with specific wizards set to each city and in the government. Lets flesh this out more: ([[Astaria]])
 - [ ] I want to flesh out the other countries in the world, especially those directly involved with maintaining world order and the geopolitical conflict.
+
+
+
+

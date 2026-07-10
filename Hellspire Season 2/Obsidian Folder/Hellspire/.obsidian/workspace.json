@@ -1799,6 +1799,30 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "625644777f856787",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Side Stories/Deyrale's Exciting Adventure Through Hell.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deyrale's Exciting Adventure Through Hell"
+            }
           }
         ],
         "currentTab": 1
@@ -1850,66 +1874,6 @@
       "obisidian-note-linker:Note Linker": false,
       "calendarium:Open Calendarium": false
     }
-  },
-  "floating": {
-    "id": "a514559b609e3057",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cd972b8b710c4423",
-        "type": "window",
-        "children": [
-          {
-            "id": "264db1b8ce3366b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c843488353443dd9",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    },
-                    {
-                      "title": "Session 4",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Session 4.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 4\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    },
-                    {
-                      "title": "Raw Season 2 Act 1 Summary",
-                      "icon": "lucide-file",
-                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Raw Season 2 Act 1 Summary\"}",
-                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Logs/Season 2 (The Fellowship of the Gate)/Act 1/Raw Season 2 Act 1 Summary.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Raw Season 2 Act 1 Summary"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 640,
-        "y": 0,
-        "width": 640,
-        "height": 752,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "58b1f21623acfdd8",
   "lastOpenFiles": [

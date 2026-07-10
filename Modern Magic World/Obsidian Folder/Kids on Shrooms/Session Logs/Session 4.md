@@ -21,6 +21,24 @@ In the twilight of the Sweet Lake Forest, Benito Garcia (Mela) and Li JiaShen (N
 
 Cedrela proved a generous but pragmatic host, scooping magically clean handfuls of honey directly from the hive for Apricot, who accepted the sticky shower with a stiff, formal bow to the queen. For Shen, who lacked a container, the encounter took a bizarre turn as she transmuted his own hands into a flesh-and-bone bowl to receive the golden offering, a grotesque but successful feat of shape-shifting. For Benito, the queen retrieved a more significant gift: a diamond-shaped honeycomb and a twine-bound scroll penned by the late Hazel Eyes, alongside the promise that a mere bite of the comb would summon her aid. The mood, however, was comically undercut by the revelation that Apricot could not read, staring blankly at the scroll and declaring the scribbles nonsensical before admitting that Benito was, in fact, his witch and familiar.
 
+Benito read the scroll privately, not letting Shen or Cedrela know the contents. The scroll read as follows:
+
+"Dearest Benito, 
+
+I am looking forward to meet you! I can only imagine how you might be feeling; I remember very little about my youth. I know I do not have much time left, and I am leaving you with a lot of my problems, but try not to worry, time will make everything easier. 
+
+You are now the witch that protects this woods, and all woods beyond. Hopefully, you will have the seed of my tree, as planting this will sprout a new one! If you ever need a home, this is one you can always rely on. 
+
+My first advice to all new witches is to trust in what you represent. For us, the forest will always have our backs. 
+
+But, I know that most early witches begin to find their way once they find a familiar, so try to do this. Although, in my experience, familiars usually have a way of finding you. 
+
+Be strong, trust in the woods, trust in yourself, and be careful with trusting more. Trusting my sisters too much have led to many regrets in my life. 
+
+Thank you. By being who you are, you are fighting for what I have fought for my entire life. 
+
+Hazel Eyes"
+
 4. **A Flight of Folly and a Queen’s Repose**
 
 As the forest darkened, Benito attempted a practical application of her supposed weather magic by asking a tree for a bowl, only to blush profusely when Cedrela simply ripped a chunk of bark free with her bare hands as a tool. After Shen managed to revert her hands from their bowl state with a surge of concentration, the group began their goodbyes, with Benito expressing sincere gratitude. In a spectacle of quiet power, the queen’s human form began to dissolve, her body becoming a host to hundreds of bees that enveloped her until she was nothing more than a single, tiny insect once more, who watched them depart before retreating into the hive. The walk back to the car was filled with stunned, repetitive affirmations of the absurd truth: they had just met a bee.
