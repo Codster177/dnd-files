@@ -51,7 +51,7 @@ Sadie works days at the animal clinic. Erin works for the Lake Prospect Parks De
 ---
 ## Rumors:
 - The building's rumor is that they skipped town owing rent, which nobody who has met Erin believes.
-- A competing rumor says it was a drug bust, because someone on the first floor saw unmarked vans.
+- A competing rumor says it was a drug bust.
 - The strangest rumor is the closest to true: somebody in a uniform carried a box out of their apartment.
 
 ---

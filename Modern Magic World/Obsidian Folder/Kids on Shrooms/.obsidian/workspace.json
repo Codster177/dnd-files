@@ -347,6 +347,288 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
+                  "title": "Kerry Burch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Kerry Burch.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kerry Burch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":13.882026245609023}"
+                },
+                {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.07142857142857142}"
+                },
+                {
+                  "title": "Barbara Turner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Barbara Turner.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Barbara Turner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Joshua Campbell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Joshua Campbell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Joshua Campbell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":51.65588789516025}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":50.68316004011366}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.239789866011156}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.42115582593244}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":364},\"to\":{\"line\":94,\"ch\":364}},\"scroll\":84.90528642239742}"
+                },
+                {
+                  "title": "Julian Alvarez",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Julian Alvarez.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Julian Alvarez\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.1591678707413697}"
+                },
+                {
+                  "title": "Stealth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":52.190127162643904}"
+                },
+                {
+                  "title": "Stealth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dr. Angela Bennet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Dr. Angela Bennet.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Angela Bennet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":17},\"to\":{\"line\":0,\"ch\":17}}}"
+                },
+                {
+                  "title": "Dr. Ronald Foster",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Dr. Ronald Foster.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Ronald Foster\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dr. Charles York",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Dr. Charles York.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Charles York\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dr. Angela Bennet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Dr. Angela Bennet.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Angela Bennet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Joshua Campbell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Joshua Campbell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Joshua Campbell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Weylin Whitley",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Weylin Whitley.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Weylin Whitley\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Joshua Campbell",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Joshua Campbell.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Joshua Campbell\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "George Walker",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/George Walker.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"George Walker\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dr. Ronald Foster",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Dr. Ronald Foster.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Ronald Foster\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dr. Charles York",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Dr. Charles York.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Charles York\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dr. Angela Bennet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Dr. Angela Bennet.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dr. Angela Bennet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Devon Foster",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Devon Foster.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Devon Foster\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Barbara Turner",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Teachers/Barbara Turner.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Barbara Turner\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Garret Lennings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Garret Lennings.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Garret Lennings\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":38.84331750869751}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":54.82409509023031}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":46},\"to\":{\"line\":47,\"ch\":46}},\"scroll\":17.829851424702653}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.608465588282025}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":64,\"ch\":39},\"to\":{\"line\":64,\"ch\":39}},\"scroll\":52.0742179552714}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":17},\"to\":{\"line\":61,\"ch\":17}},\"scroll\":51.97532231467111}"
+                },
+                {
+                  "title": "Ian Long (Aaron)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":74.83306533505012}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":64.46275597077774}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.34990206268806}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":0},\"to\":{\"line\":67,\"ch\":0}},\"scroll\":59.235824129832224}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.006666666865348816}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":39.02169895172119}"
+                },
+                {
+                  "title": "Scratch Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Scratch Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scratch Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":69},\"to\":{\"line\":14,\"ch\":69}},\"scroll\":0.8933333587646485}"
+                },
+                {
+                  "title": "Stats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stealth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dǎogào",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Jiā/Cities/Dǎogào.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dǎogào\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Language and Naming Conventions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Language and Naming Conventions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Language and Naming Conventions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Daogao",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Locations/Jiā/Cities/Dǎogào.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Daogao\"}",
@@ -951,12 +1233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Jiā/Cities/Dǎogào.md",
+                "file": "System Design/E-Board Perks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dǎogào"
+              "title": "E-Board Perks"
             }
           },
           {
@@ -968,6 +1250,336 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Session 7 Prep - Todo and Story Suggestions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 7 Prep - Todo and Story Suggestions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":16.436432433879236}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":53},\"to\":{\"line\":60,\"ch\":53}},\"scroll\":54.7599835395813}"
+                },
+                {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5813953488372093}"
+                },
+                {
+                  "title": "Strengths and Stupid Points",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Strengths and Stupid Points",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":89},\"to\":{\"line\":13,\"ch\":89}},\"scroll\":0}"
+                },
+                {
+                  "title": "Strengths and Stupid Points",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stealth",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stealth.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stealth\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Strengths and Stupid Points",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Strengths and Stupid Points.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Strengths and Stupid Points\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stats",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/Stats.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stats\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "E-Board Perks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"System Design/E-Board Perks.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"E-Board Perks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.35}"
+                },
+                {
+                  "title": "The Aviran Calendar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lore/The Aviran Calendar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"The Aviran Calendar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":32},\"to\":{\"line\":9,\"ch\":32}},\"scroll\":4.290147542953491}"
+                },
+                {
+                  "title": "Benito and Rachel Breakup Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Benito and Rachel Breakup Ideas.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito and Rachel Breakup Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Enchanted Objects Tracking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Enchanted Objects Tracking.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Enchanted Objects Tracking\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.15148083594123}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.005376344246249045}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.910598317567878}"
+                },
+                {
+                  "title": "Ian Long (Aaron)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.300659466831014}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.188857887643078}"
+                },
+                {
+                  "title": "Marlowe Melville (Rylee)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Marlowe Melville (Rylee).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marlowe Melville (Rylee)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.003765447248739}"
+                },
+                {
+                  "title": "Li JiaShen (Nick)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Li JiaShen (Nick).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Li JiaShen (Nick)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ian Long (Aaron)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Ian Long (Aaron).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Ian Long (Aaron)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Caspian Forrest (Kai)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Caspian Forrest (Kai).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Caspian Forrest (Kai)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.01075268849249809}"
+                },
+                {
+                  "title": "Benito and Rachel Breakup Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Benito and Rachel Breakup Ideas.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito and Rachel Breakup Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":55},\"to\":{\"line\":11,\"ch\":55}},\"scroll\":0}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":24.99683434126205}"
+                },
+                {
+                  "title": "Mason De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/The De Narris Family/Mason De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mason De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Benito and Rachel Breakup Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Benito and Rachel Breakup Ideas.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito and Rachel Breakup Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Benito Garcia (Mela)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Player Characters/Benito Garcia (Mela).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Benito Garcia (Mela)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":108,\"ch\":128},\"to\":{\"line\":108,\"ch\":128}},\"scroll\":95.61890166366051}"
+                },
+                {
+                  "title": "Rachel De Narris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Rachel De Narris.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Rachel De Narris\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":0},\"to\":{\"line\":73,\"ch\":0}},\"scroll\":70.10480521773422}"
+                },
+                {
+                  "title": "Milani Toll",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Students/Milani Toll.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Milani Toll\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.33958889159635}"
+                },
+                {
+                  "title": "Session 7 Prep - Todo and Story Suggestions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 7 Prep - Todo and Story Suggestions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":87,\"ch\":309},\"to\":{\"line\":87,\"ch\":309}},\"scroll\":77.9893277296341}"
+                },
+                {
+                  "title": "Holidays of Avira",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Holidays of Avira.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Holidays of Avira\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Internet Crawling Wizard",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Internet Crawling Wizard.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Internet Crawling Wizard\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.005376344246249045}"
+                },
+                {
+                  "title": "Kingston Lang Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Kingston Lang Development.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingston Lang Development\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":9},\"to\":{\"line\":9,\"ch\":9}},\"scroll\":0.006666666865348816}"
+                },
+                {
+                  "title": "Kingston Lang",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Kingston Lang.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingston Lang\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":9},\"to\":{\"line\":4,\"ch\":9}},\"scroll\":0.07333333492279052}"
+                },
+                {
+                  "title": "Kingston Lang Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Kingston Lang Development.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingston Lang Development\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":274},\"to\":{\"line\":10,\"ch\":274}}}"
+                },
+                {
+                  "title": "Kingston Lang",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Kingston Lang.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kingston Lang\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stanley Reed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Stanley Reed.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stanley Reed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Marcel Lohan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Marcel Lohan.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marcel Lohan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Vincenzo (Vince) Melville",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Families/Marlowe's Family/Vincenzo (Vince) Melville.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vincenzo (Vince) Melville\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":52},\"to\":{\"line\":59,\"ch\":52}},\"scroll\":47.80711399813553}"
+                },
+                {
+                  "title": "Garret Lennings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Garret Lennings.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Garret Lennings\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Stanley Reed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Stanley Reed.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Stanley Reed\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sadie Marsh and Erin Kowalski",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Sadie Marsh and Erin Kowalski.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sadie Marsh and Erin Kowalski\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Marcel Lohan",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Marcel Lohan.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Marcel Lohan\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Sadie Marsh and Erin Kowalski",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Sadie Marsh and Erin Kowalski.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Sadie Marsh and Erin Kowalski\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":105},\"to\":{\"line\":54,\"ch\":105}},\"scroll\":0}"
+                },
+                {
+                  "title": "Garret Lennings",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"People/Other Adults/Garret Lennings.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Garret Lennings\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session 6",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Session Logs/Session 6.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 6\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":50.00781245032946}"
+                },
+                {
+                  "title": "Shen Backstory and Her Mother (URGENT)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Shen Backstory and Her Mother (URGENT).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shen Backstory and Her Mother (URGENT)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.005376344246249045}"
+                },
+                {
+                  "title": "Session 7 Prep - Todo and Story Suggestions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 7 Prep - Todo and Story Suggestions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.005461216933244831}"
+                },
+                {
+                  "title": "Hazel Eyes' Scroll",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Items of Interest/Hazel Eyes' Scroll.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hazel Eyes' Scroll\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":17.27474037806193}"
+                },
+                {
+                  "title": "Session 7 Prep - Todo and Story Suggestions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session 7 Prep - Todo and Story Suggestions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.144097089767456}"
+                },
+                {
+                  "title": "CLAUDE",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"CLAUDE.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"CLAUDE\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":126,\"ch\":30},\"to\":{\"line\":126,\"ch\":30}},\"scroll\":108.64127226069998}"
                 },
                 {
                   "title": "Scratch Notes",
@@ -1544,12 +2156,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Tools/Claude Notes/Vince's Decoy Item Options.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Vince's Decoy Item Options"
             }
           },
           {
@@ -1978,7 +2590,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -2188,113 +2800,8 @@
               "state": {
                 "calendar": "ID_780b39ca6b79",
                 "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 6,
-                    "month": 2,
-                    "year": 1621
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": false,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_0999eb690b78"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "21b0ca900546b10f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_780b39ca6b79",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 6,
-                    "month": 2,
-                    "year": 1621
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": false,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_da296b3aeaab"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "262ad56ad74ef920",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_780b39ca6b79",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 6,
-                    "month": 2,
-                    "year": 1621
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": false,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_a82a694aeae9"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "c52af1872c942df4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_780b39ca6b79",
-                "ephemeral": {
                   "viewing": {
-                    "day": 3,
+                    "day": 11,
                     "month": 2,
                     "year": 1621
                   },
@@ -2310,38 +2817,29 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_79baa91999e8",
-                "child": "ID_ab4b1909d93b"
+                "id": "ID_0999eb690b78",
+                "child": "ID_f969ba3aaa7b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
-        "id": "c876658bb438ee6d",
+        "id": "1e154773b7cb20ea",
         "type": "tabs",
         "children": [
           {
-            "id": "7c445e3e90d8ae69",
+            "id": "9889cab83a6060b4",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_780b39ca6b79",
-                "id": "ID_ab4b1909d93b",
-                "parent": "ID_79baa91999e8"
+                "id": "ID_f969ba3aaa7b",
+                "parent": "ID_0999eb690b78"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -2351,7 +2849,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -2368,45 +2866,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "860aa8de492e36de",
+  "active": "eb3e27c91e9a7ab5",
   "lastOpenFiles": [
-    "Session Logs/Scratch Notes.md",
-    "Tools/Claude Notes/Session 6 HUMI Source Plot Hole.md",
-    "Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md.tmp.8844.3ef1d7e32f23",
-    "Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md.tmp.8844.7d0780b31458",
-    "Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md.tmp.8844.546e342982eb",
-    "People/Other Adults/Sadie Marsh and Erin Kowalski.md",
-    "People/Other Adults/Sadie Marsh and Erin Kowalski.md.tmp.8844.ee5a1d36f105",
-    "People/Families/Marlowe's Family/Vincenzo (Vince) Melville.md.tmp.8844.18cce3af58a1",
-    "Tools/Claude Notes/Madison and Damien Dynamic.md",
-    "People/Students/Milani Toll.md",
-    "Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md",
-    "People/Students/Rebecca Kim.md",
-    "Tools/Planner.md",
-    "Session Logs/Session 3.md",
-    "Session Logs/Session 4.md",
-    "Items of Interest/Hazel Eyes' Scroll.md",
-    "Locations/Jiā/Cities/Dǎogào.md",
-    "Lore/Magic/Spellcasters/Wizards.md",
-    "Items of Interest/Hazel Eyes' Scroll.md.tmp.8844.009bdcebaec0",
-    "Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md.tmp.8844.0bdad8402986",
-    "Items of Interest/Untitled",
-    "Items of Interest/Passive",
-    "Items of Interest",
-    "Tools/Claude Notes/Shen Backstory and Her Mother (URGENT).md",
-    "Tools/Claude Notes/Aviani Palace Design Ideas.md",
-    "Tools/Claude Notes/Enchanted Objects Tracking.md",
     "Tools/Language and Naming Conventions.md",
-    "Locations/Jiā/Cities/Méilí.md",
-    "Locations/Jiā/Towns/Diéyuán.md",
-    "Locations/Jiā/Towns/Báisōng.md",
-    "Countries/First World Nations/Jiā.md",
-    "Locations/Jiā/Towns/Tiānmén.md",
-    "Locations/Jiā/Towns/Dōngyè.md",
+    "People/Students/Kerry Burch.md",
+    "People/Player Characters/Caspian Forrest (Kai).md",
+    "System Design/E-Board Perks.md",
+    "People/Teachers/Barbara Turner.md",
+    "People/Teachers/Joshua Campbell.md",
+    "People/Player Characters/Marlowe Melville (Rylee).md",
     "People/Player Characters/Li JiaShen (Nick).md",
-    "People/Students/Jace Shotwell.md",
+    "People/Students/Rachel De Narris.md",
+    "People/Player Characters/Benito Garcia (Mela).md",
+    "People/Students/Julian Alvarez.md",
+    "System Design/Stealth.md",
+    "Lore/Magic/Spellcasters/Wizards.md",
+    "People/Teachers/Dr. Angela Bennet.md",
+    "People/Teachers/Dr. Ronald Foster.md",
+    "People/Teachers/Dr. Charles York.md",
+    "People/Teachers/Weylin Whitley.md",
+    "People/Teachers/George Walker.md",
+    "People/Teachers/Devon Foster.md",
+    "People/Other Adults/Garret Lennings.md",
+    "Classes/Advanced Calc 1 - 1,2.md",
+    "People/Player Characters/Ian Long (Aaron).md",
+    "Classes/Advanced Avira History - Fifth Period.md",
+    "Session Logs/Scratch Notes.md",
+    "System Design/Stats.md",
+    "Locations/Jiā/Cities/Dǎogào.md",
+    "Tools/Claude Notes/Vince's Decoy Item Options.md.tmp.8844.d28c8717ad30",
+    "People/Spirits/The Spirit of Erasure and Oblivion.md.tmp.8844.6d85a1c2153f",
+    "Tools/Claude Notes/Session 7 Prep - Todo and Story Suggestions.md.tmp.8844.7385354269ad",
+    "Tools/Claude Notes/Madison and Damien Dynamic.md.tmp.8844.0891c2010411",
+    "People/Students/Madison Leclair.md.tmp.8844.aa84b365d291",
+    "People/Students/Madison Leclair.md.tmp.8844.8acab35c1639",
+    "People/Player Characters/Benito Garcia (Mela).md.tmp.8844.4b601272b59b",
+    "People/Families/The De Narris Family/Howard De Narris.md.tmp.8844.a2ced499a8e5",
+    "School Lore/Story History.md.tmp.8844.c586e83d2a62",
+    "People/Students/Milani Toll.md.tmp.8844.551ecac5f707",
+    "People/Relationships.canvas",
+    "Pasted image 20260710142122.png",
     "Obsidian Stuff/Images/Pasted image 20250704021953.png",
-    "Obsidian Stuff/Images/Pasted image 20260120033243.png",
-    "People/Relationships.canvas"
+    "Obsidian Stuff/Images/Pasted image 20260120033243.png"
   ]
 }

@@ -6,7 +6,7 @@ What is your appearance like?
 Big, broad, and scary looking, the kind of mechanic people assume fixes cars for gangs. Permanent grease under his nails, a slow deliberate way of moving, and a face that only softens around his daughter.
 
 What is your personality like?
-Quiet, watchful, and endlessly patient. He works night shifts without complaint and never raises his voice. People read the silence as simple; it is not.
+Quiet, watchful, and endlessly patient. He works night shifts without complaint and never raises his voice. When he's with his daughter, he's loud and loving, but he'd do anything to protect her.
 
 What kind of cliques or clichés would your character be a part of? 
 
@@ -41,7 +41,7 @@ Vince came home late that night to a repaired door, a hundred feet of dead lawn,
 
 ---
 ## Schedule:
-Works as a mechanic, often taking night shifts to keep up with bills.
+Works in a factory, often taking night shifts to keep up with bills.
 
 ---
 ## Rumors:

@@ -38,6 +38,8 @@ Within his own walls, Howard answers to no one. The idea of wizards built by the
 
 His kidnapping and experimentation on magical children is not something he hides from his own circles, because he does not need to. The Scholars actively encourage and promote it; they believe they are the one true power in this world and back the research and experimentation of spirits and magical sources, witches, sorcerers, and other magical humans included. The HUMI is a little more diverse in its opinions: it tolerates what Howard does overall, with many members supporting it and a few being silently against it.
 
+His most consequential case to date is [[Milani Toll]], his daughter's best friend. Either before prom day at the end of Second Summer 1620 or during it, Howard realized Milani was a [[Sorcerers|sorcerer]] whose powers had not yet come in. That night, while the girls slept over at the manor, he captured her, and he and [[Damien De Narris]] dissected and experimented on her in the secret room as part of Damien's teaching. When Damien's improperly sealed entrance let [[Rachel De Narris]] witness the work, Howard escalated her to the advanced Continuous curse, since simple erases would no longer hold on a repeat witness. He then had Milani erased: fed to [[The Spirit of Erasure and Oblivion]], the captured demi-god level spirit the Scholars keep for removing magical people from society completely (see [[Modify Memory]] and [[Story History]]).
+
 ---
 ## Schedule:
 ---

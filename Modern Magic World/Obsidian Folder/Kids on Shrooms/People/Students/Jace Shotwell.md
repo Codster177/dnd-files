@@ -30,6 +30,7 @@ What are your character's fears?
 
 ---
 ## Backstory:
+Jace has been dating [[Rachel De Narris]] since First Summer 1621, only a couple weeks after her breakup with [[Benito Garcia (Mela)|Benito]]. The rumor that Rachel cheated on Benito started on its own once the two of them got together; the timing wrote the story for people.
 
 ---
 ## Schedule:
@@ -47,3 +48,10 @@ What are your character's fears?
 ## Rumors:
 ---
 ## Relationships:
+### School:
+- [[Rachel De Narris]]
+	- Girlfriend
+	- Together since First Summer 1621.
+- [[Benito Garcia (Mela)]]
+	- SGA colleague
+	- Jace is the Senior Class Secretary on Benito's executive board. Benito doesn't know Jace is dating his ex.

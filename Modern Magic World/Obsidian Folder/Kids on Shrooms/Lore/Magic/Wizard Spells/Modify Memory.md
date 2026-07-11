@@ -10,5 +10,10 @@ Modify Memory is the wizard spell for rewriting what a person remembers, and it 
 	- Casting usually takes a few hours to days of experimentation. The effect is a permanent and hard to remove curse.
 	- Typically cast through an experimental ritual; it would take an insanely powerful spellcaster to apply it instantaneously.
 	- The spell is an ongoing area of study for the [[Scholars of Avira]], since the ability to mass apply it would mean a much more easily controlled world.
+There is a fourth effect beyond the three castings, and it is not really a casting at all in practice.
 
-Known castings in play: [[Marlowe Melville (Rylee)]] had the Massive ritual cast on her during immigration, and her own magic cracked it. [[Rachel De Narris]] carries a Continuous curse cast by her father, [[Howard De Narris]].
+- **Targeted erasure of a person.** This effect inverts the usual direction of the spell: instead of being worked on the people who must forget, it targets the person who must be forgotten, and it begins to rewrite that person out of the world. As an actual wizard spell it may be possible, but it would take an incredibly powerful wizard; nobody at the HUMI's level performs it.
+	- In practice the [[Scholars of Avira]] do not cast it. They hold a captured demi-god level spirit of erasure and oblivion (godlike spirits being the strongest class), and people who need to be completely erased from the world's memory are fed to it. The spirit performs the effect (see [[The Spirit of Erasure and Oblivion]]).
+	- The erasure scrubs hardest where the bond was closest. Family and close friends are left with only the smallest fragments, a name or a photo that feels vaguely familiar, though with enough time the memories can return in full. Strangers keep incidental glimpses precisely because there was no relationship to erase: a shop owner may remember the target walking in once with a friend, only because she never knew her.
+
+Known castings in play: [[Marlowe Melville (Rylee)]] had the Massive ritual cast on her during immigration, and her own magic cracked it. [[Rachel De Narris]] carries a Continuous curse cast by her father, [[Howard De Narris]]. [[Milani Toll]] was fed to the erasure spirit after Howard killed her, which is why almost nobody in [[Lake Prospect]] remembers she existed.

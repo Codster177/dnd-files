@@ -31,6 +31,9 @@ His father Howard.
 
 ---
 ## Backstory:
+On prom night at the end of Second Summer 1620, Damien took part in the dissection and experimentation of [[Milani Toll]] alongside his father, as part of his teaching in [[Magic]]. He made two mistakes that night. He failed to seal the entrance to the secret room correctly, which is how [[Rachel De Narris]] came to witness what was inside and earned the advanced curse. And while carrying Rachel back to her room with magic, he was caught wand-out by [[Madison Leclair]].
+
+Rather than bring his father a second witness, Damien made a deal with Madison: her silence, and her eyes on Rachel, in exchange for powers he has granted her. The full terms are still open (see [[Madison and Damien Dynamic]]).
 
 ---
 ## Schedule:
@@ -57,3 +60,8 @@ His father Howard.
 	- Gave birth to him.
 - [[Rachel De Narris]]
 	- Sister
+
+## School:
+- [[Madison Leclair]]
+	- Deal partner
+	- Caught him mid-spell on prom night. He bought her silence with powers and the job of watching Rachel; the specifics are still open ([[Madison and Damien Dynamic]]).

@@ -1,10 +1,13 @@
 Reminder requested: work out the dynamic and relationship between [[Madison Leclair]] and [[Damien De Narris]].
 
-### The question that raised it:
+### Now ruled (offloaded to their notes, [[Milani Toll]], and [[Story History]]):
 
-Madison caught Damien mid-kidnapping ([[Milani Toll]]) and cut a deal instead of being wiped.
+- On prom night (end of Second Summer 1620), Madison caught Damien wand-out, using magic to carry an unconscious [[Rachel De Narris]] back to her room. She caught the magic, not the murder: she does not know [[Milani Toll]] was killed.
+- The deal: Madison stays silent and keeps an eye on Rachel. Damien has granted her powers as part of it (the source of her sheet's Magic die).
+- The erasure left Madison only fragments of Milani, and the vanishing without answers still quietly bothers her. She is evil in the mean girl sense, not the murder sense.
 
-- Why was a witness left with her memories?
-- What did she get out of the deal?
-- What does Damien hold over her, or she over him?
-- Her stat table quietly has a Magic die; where did that come from?
+### Still open:
+
+- The specifics of the deal: exact terms, and what each of them gets out of it long-term.
+- Which powers Madison has received from Damien, and how they work mechanically.
+- What Damien holds over her now, or she over him, as the arrangement ages.

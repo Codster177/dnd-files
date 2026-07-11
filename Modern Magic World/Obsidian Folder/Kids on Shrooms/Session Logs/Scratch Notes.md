@@ -11,3 +11,5 @@ Tasks to build out:
 
 
 
+Session 8 Notes:
+- Rylee has a failure for working at the grocery store. 1/3 failures.

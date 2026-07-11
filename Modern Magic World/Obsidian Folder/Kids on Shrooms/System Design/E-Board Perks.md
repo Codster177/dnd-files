@@ -1,5 +1,5 @@
  These are abilities that are unlocked by 3 characters reaching a minimum level of that die. For example, once 3 characters have at least one dice that is a D8, they can purchase the level 8 perks. Each perk is 15 stupid points and each perk set is 30 stupid points. Once one is purchased it is unlocked for the entire party.
-## Level 6:
+## Level 6: Able to be purchased.
 
 | Tactical Meeting (Once Per Session)    | Description                                                                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -12,7 +12,7 @@
 | Work This Out                                       | If you exit a confrontation with only a light injury, you can spend a Stupid Point to get rid of it. |
 | \|\|We're All In This Together\|\|<br><br>Unlocked! | When in the same scene as someone, you can freely lend Stupid Points to them.                        |
 | Get'cha Head In The Game                            | When you and one or more other characters are following a plan, gain +2 to Charisma rolls.           |
-## Level 8:
+## Level 8: Able to be purchased.
 
 | Failing the Exam         | Description                                                                       |
 | ------------------------ | --------------------------------------------------------------------------------- |

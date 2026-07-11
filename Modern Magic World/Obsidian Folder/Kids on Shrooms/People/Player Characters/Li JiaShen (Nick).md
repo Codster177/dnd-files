@@ -59,6 +59,8 @@ I don’t know what her appearance will be like near the end since you know its 
 | Photography      | 4      |
 | [[Dance - 5]]    | 5      |
 | [[Aviran 2 - 6]] | 6      |
+SGA every Tuesday and Thursday.
+
 
 ---
 ## Backstory:
@@ -102,6 +104,7 @@ Shen was raised in a household in which family was of utmost importance, growing
 	- "Friend"
 	- More like subservient
 	- First in the hot shit clique. Will be friends to Shen, but will also be bitchy. Means well enough.
+	- Shen joined the group towards the end of Rachel's sophomore year (Second Autumn, 1620), while Shen was a freshman. She is now the fourth of the group.
 	- Actual play history:
 		- [[Session 1]]:
 			- Rachel and Madison ran into Shen during dismissals of the first day of school. Rachel and Madison told Shen that they were going to Rachel's car to smoke and then hang out afterwards. Shen acted like she was invited, to which Madison said she wasn't initially. Only because Rachel's car is a two seater, of course. Madison jokingly offered Shen to ride in the trunk, to which Shen agreed, only to realize that it would be an awful experience and she was being made fun of. They all laughed about it "together" and Shen walked away embarrassed.

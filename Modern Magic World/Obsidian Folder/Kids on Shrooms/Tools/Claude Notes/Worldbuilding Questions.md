@@ -105,7 +105,7 @@ Spirit questions now live in [[Spirit Questions]].
 - [[Tindomye]]: where does the old region sit under the modern map, which countries stand on it now, and do any of its sorcerer-royal bloodlines survive (and know it)?
 - The HUMI's central board of [[Wizards]]: who chairs it, how do city teams report, and is the HUMI the Scholars' subsidiary, partner, or watched vassal?
 - What is Howard De Narris's business, the one [[Mason De Narris]] runs for him? And is it a HUMI front, a Scholar asset, or just money?
-- [[Milani Toll]]: what does the town officially believe happened to her? Runaway, cold case, quiet settlement? And how many other disappearances sit in Lake Prospect's recent past, given Howard has kidnapped "a few"?
+- [[Milani Toll]]: answered — the town believes nothing, because the targeted erasure rewrote her out of the world (see [[Modify Memory]] and [[Story History]]). Still open: how many other erased children sit in Lake Prospect's recent past, given Howard has kidnapped "a few," and does the erasure leave the same recoverable fragments every time?
 - [[Marcel Lohan]]: he knows Ian is homeless and feeds him anyway. What's Marcel's story, and is his bodega just a bodega?
 - Housekeeping flag: `The Great Knowledge Spirit.md`, `Tindomye.md`, and `2025-11-07.md` sit empty at the vault root. Are the first two duplicates of [[The Great Knowledge Spirit - Kánt]] and the Tindomye region (delete or redirect?), and is the dated file trash?
 

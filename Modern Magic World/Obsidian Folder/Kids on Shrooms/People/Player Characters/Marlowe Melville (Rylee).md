@@ -62,8 +62,8 @@ Her magic comes from a warlock's pact with [[The Great Whale]], and it is a very
 | Ceramics                                                          | 4      |
 | [[Advanced Avira History - Fifth Period\|Advanced Avira History]] | 5      |
 | Aviran 2                                                          | 6      |
-Has Choir Tuesday and Wednesday after school until 4:00.
-Has Choir Tuesday, Wednesday, and Thursday from 5:00 to 7:00.
+Has Choir in school unless performance.
+Has Swim Tuesday, Wednesday, and Thursday until 4:00.
 
 ---
 ## Rumors:
